@@ -1,0 +1,36 @@
+name: Scrape y actualizar agenda
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 6AM Colombia/Ecuador
+    - cron: '0 18 * * *'   # 1PM Colombia/Ecuador
+    - cron: '0 1 * * *'    # 8PM Colombia/Ecuador
+  workflow_dispatch:       # Permite ejecutar manualmente también
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Clonar repositorio
+      uses: actions/checkout@v3
+
+    - name: Instalar Python y dependencias
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Instalar requerimientos
+      run: |
+        pip install beautifulsoup4 playwright
+        playwright install chromium
+
+    - name: Ejecutar script de scraping
+      run: |
+        python scrap_agenda_librefutbol.py
+
+    - name: Subir agenda_resultado.json al repositorio
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Actualizar agenda automáticamente"
+        file_pattern: agenda_resultado.json
