@@ -1,12 +1,11 @@
+
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 import json, time
 
-# Configuración de Brave
-BRAVE_PATH = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"
-USER_DATA_DIR = "C:/Users/Admin/brave-scraper-profile"
-
-def scroll_dentro_iframe(iframe):
+def scroll_dentro_iframe(page):
+    iframe_element = page.query_selector("iframe[src*='agenda']")
+    iframe = iframe_element.content_frame()
     prev_height = 0
     for _ in range(30):
         iframe.evaluate("window.scrollBy(0, 500)")
@@ -15,6 +14,7 @@ def scroll_dentro_iframe(iframe):
         if new_height == prev_height:
             break
         prev_height = new_height
+    return iframe.content()
 
 def extraer_desde_html(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -59,28 +59,20 @@ def extraer_desde_html(html):
 
 def scrape_y_extraer_agenda():
     with sync_playwright() as p:
-        browser = p.chromium.launch_persistent_context(
-            user_data_dir=USER_DATA_DIR,
-            executable_path=BRAVE_PATH,
-            headless=False,
-            args=["--start-maximized"]
-        )
-        page = browser.pages[0]
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
         page.goto("https://librefutbol.su", wait_until="load")
 
         try:
             page.wait_for_selector("iframe[src*='agenda']", timeout=20000)
-            iframe_element = page.query_selector("iframe[src*='agenda']")
-            iframe = iframe_element.content_frame()
         except Exception as e:
             print("No se detectó el iframe:", e)
             browser.close()
             return
 
         print("Scrolleando dentro del iframe...")
-        scroll_dentro_iframe(iframe)
+        html = scroll_dentro_iframe(page)
 
-        html = iframe.content()
         browser.close()
 
     partidos = extraer_desde_html(html)
