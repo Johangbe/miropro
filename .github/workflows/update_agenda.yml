@@ -2,9 +2,12 @@ name: Scrape y actualizar agenda
 
 on:
   schedule:
-    - cron: '0 11 * * *'   # 6AM Colombia/Ecuador
-    - cron: '0 18 * * *'   # 1PM Colombia/Ecuador
-    - cron: '0 1 * * *'    # 8PM Colombia/Ecuador
+    - cron: '30 10 * * *'  # 5:30 AM
+    - cron: '0 13 * * *'   # 8:00 AM
+    - cron: '0 17 * * *'   # 12:00 PM
+    - cron: '0 20 * * *'   # 3:00 PM
+    - cron: '0 23 * * *'   # 6:00 PM
+    - cron: '0 2 * * *'    # 9:00 PM
   workflow_dispatch:       # Permite ejecutar manualmente también
 
 jobs:
