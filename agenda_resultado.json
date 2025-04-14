@@ -1,1 +1,164 @@
-[]
+[
+    {
+        "hora": "18:30",
+        "competición": "Primera Division",
+        "equipos": "Aldosivi vs Racing Club",
+        "canales": [
+            {
+                "nombre": "ESPN Premium",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/espn-premium/"
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Primera Division",
+        "equipos": "Racing vs Liverpool",
+        "canales": [
+            {
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Serie A",
+        "equipos": "Napoli vs Empoli",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "TNT Sports 1 UK",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzFfR0I="
+            },
+            {
+                "nombre": "Sport TV2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8ycHQ="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Premier League",
+        "equipos": "AFC Bournemouth vs Fulham",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Atlético Madrid vs Real Valladolid",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera Division",
+        "equipos": "Palestino vs Unión La Calera",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LigaPro",
+        "equipos": "Mushuc Runa vs LDU Quito",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Championship",
+        "equipos": "Hull City vs Coventry City",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera Division",
+        "equipos": "Central Córdoba SdE vs Huracán",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "LigaPro",
+        "equipos": "El Nacional vs Independiente del Valle",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera Division",
+        "equipos": "Deportivo Recoleta vs Libertad",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera Division",
+        "equipos": "Defensa y Justicia vs Unión Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera Division",
+        "equipos": "Unión Española vs Ñublense",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga Betplay",
+        "equipos": "Santa Fe vs Medellín",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Orense vs Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Primera Division",
+        "equipos": "Vélez Sarsfield vs Sarmiento",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Primera Division",
+        "equipos": "Godoy Cruz vs Lanús",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera Division",
+        "equipos": "Deportes Limache vs Deportes Iquique",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Liga 1",
+        "equipos": "Deportivo Garcilaso vs Alianza Lima",
+        "canales": []
+    }
+]
