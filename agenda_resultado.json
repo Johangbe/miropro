@@ -10,19 +10,9 @@
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
             },
             {
-                "nombre": "Universo",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9tcGRrLmh0bWw/Z2V0PWFIUjBjSE02THk5bWMyeDVMbk4wY21WaGJTNXdaV0ZqYjJOcmRIWXVZMjl0TDBOdmJuUmxiblF2UTAxQlJsOVBUREV0UTFSU0xUUnpMWFl5TDB4cGRtVXZZMmhoYm01bGJDaDFibWwyWlhKemJ5MWxZWE4wS1M5dFlYTjBaWEl1YlhCayZrZXk9WVRReU5qWTVaV0ZtWldRM016UTVORGs1WVdGaU4yUm1OVGc0WWpOalkyWT0ma2V5Mj1NR1ppWm1ZeE5ETmxZbVF3T1Rjd05qQmhNemMzWlRSaFpHVXdNek15T0RnPQ=="
-            },
-            {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "USA Network",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXVzYV9uZXR3b3Jr"
             },
             {
                 "nombre": "ESPN BR",
@@ -43,45 +33,23 @@
     },
     {
         "hora": "19:00",
-        "competición": "Liga Betplay",
-        "equipos": "Rionegro Águilas vs Unión Magdalena",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            },
-            {
-                "nombre": "Win Sports Online",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
         "competición": "UEFA Champions League",
         "equipos": "Real Madrid vs Arsenal",
         "canales": [
+            {
+                "nombre": "TNT Sports 1 (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzFfR0I="
+            },
             {
                 "nombre": "Fox Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
             },
             {
-                "nombre": "TNT Sports 1 UK",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzFfR0I="
-            },
-            {
-                "nombre": "TUDN USA",
+                "nombre": "ESPN",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4="
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4="
             },
             {
                 "nombre": "Paramount+",
@@ -89,9 +57,34 @@
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wYXJhbW91bnQy"
             },
             {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS92b2QuaHRtbD9nZXQ9aHR0cHM6Ly9naXZlbWVyZWRkaXQub3JnL3NvY2Nlci9hcnNlbmFsLmh0bWw="
+            },
+            {
+                "nombre": "Caliente TV (Solo Mexico)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9lbWJlZC5waHA="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTVhNDhhOTk4NDg0N2E4NTk3YTU4YTk4OGM4ZC5odG1s"
+            },
+            {
+                "nombre": "Fox Sports (Ads)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9mb3hzcG9ydHNoZC5waHA="
+            },
+            {
                 "nombre": "Ziggo Sports",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4="
             },
             {
                 "nombre": "Sport TV5",
@@ -116,14 +109,14 @@
         "equipos": "Inter vs Bayern München",
         "canales": [
             {
+                "nombre": "TNT Sports 2 (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzJfR0I="
+            },
+            {
                 "nombre": "ESPN",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/espn-1/"
-            },
-            {
-                "nombre": "TNT Sports 2 UK",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzJfR0I="
             },
             {
                 "nombre": "DAZN Eleven 1 PT",
@@ -139,6 +132,38 @@
                 "nombre": "Ziggo Sports 2",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28y"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTVhNDhhOTk4NDg0N2E4NTk3YTQ4Zjk4OGM4OC5odG1s"
+            },
+            {
+                "nombre": "ESPN 2 (Ads)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9lc3BuMmhkLnBocA=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Betplay",
+        "equipos": "Rionegro Águilas vs Unión Magdalena",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports Online",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
             }
         ]
     },
