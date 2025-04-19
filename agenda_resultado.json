@@ -1,75 +1,5 @@
 [
     {
-        "hora": "21:15",
-        "competición": "Primera Division",
-        "equipos": "Huracán vs Defensa y Justicia",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/tnt-sports-en-vivo-online-aey/"
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Primera Division",
-        "equipos": "Universidad Católica vs Deportes Limache",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "LigaPro",
-        "equipos": "Deportivo Cuenca vs Emelec",
-        "canales": [
-            {
-                "nombre": "ECDF LigaPro",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Primera Division",
-        "equipos": "Wanderers vs Peñarol",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
-            },
-            {
-                "nombre": "VTV+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-            },
-            {
-                "nombre": "GOLTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Brasileirão",
-        "equipos": "Vasco da Gama vs Flamengo",
-        "canales": [
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M3"
-            }
-        ]
-    },
-    {
         "hora": "22:00",
         "competición": "Primera Division",
         "equipos": "Santos de Guápiles vs Puntarenas",
@@ -139,6 +69,11 @@
                 "nombre": "Tigo Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTY5ZDg3OWQ4OTg0N2E4NTk1YTE4ZTk4ODg4YjdjLmh0bWw="
             }
         ]
     },
@@ -148,14 +83,14 @@
         "equipos": "Boca Juniors vs Estudiantes",
         "canales": [
             {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/espn-1/"
-            },
-            {
                 "nombre": "ESPN Premium",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/espn-premium/"
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/espn-1/"
             },
             {
                 "nombre": "Disney+",
