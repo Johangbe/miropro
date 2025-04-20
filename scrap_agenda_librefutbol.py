@@ -1,6 +1,26 @@
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
-import json, time
+import json, time, base64
+import urllib.parse
+
+def decodificar_enlace(enlace_ofuscado):
+    try:
+        # Extraer lo que está después de ?r=
+        if "?r=" in enlace_ofuscado:
+            base64_str = enlace_ofuscado.split("?r=")[1]
+            decoded = base64.b64decode(base64_str).decode()
+            return decoded
+    except:
+        return None
+    return None
+
+def construir_embed_url(enlace_decodificado):
+    if not enlace_decodificado:
+        return None
+    if "stream=" in enlace_decodificado:
+        canal = urllib.parse.parse_qs(urllib.parse.urlparse(enlace_decodificado).query).get("stream", [""])[0]
+        return f"https://futbollibre.net/embed/{canal}.html"
+    return enlace_decodificado
 
 def scroll_dentro_iframe(page):
     iframe_element = page.query_selector("iframe[src*='agenda']")
@@ -8,7 +28,7 @@ def scroll_dentro_iframe(page):
     prev_height = 0
     for _ in range(30):
         iframe.evaluate("window.scrollBy(0, 500)")
-        time.sleep(2)
+        time.sleep(1)
         new_height = iframe.evaluate("document.documentElement.scrollHeight")
         if new_height == prev_height:
             break
@@ -40,18 +60,14 @@ def extraer_desde_html(html):
                 nombre = canal_a.contents[0].strip() if canal_a.contents else "Desconocido"
                 calidad_tag = canal_a.find("span")
                 calidad = calidad_tag.text.strip() if calidad_tag else "Desconocido"
-
-                original = canal_a.get("href", "")
-                if "/en-vivo/" in original:
-                    slug = original.strip("/").split("/")[-1]
-                    enlace = f"https://futbollibre.net/embed/{slug}.html"
-                else:
-                    enlace = original
+                enlace_ofuscado = canal_a.get("href", "")
+                enlace_decodificado = decodificar_enlace(enlace_ofuscado)
+                embed_final = construir_embed_url(enlace_decodificado)
 
                 canales.append({
                     "nombre": nombre,
                     "calidad": calidad,
-                    "enlace": enlace
+                    "enlace": embed_final or enlace_ofuscado
                 })
 
         partidos.append({
