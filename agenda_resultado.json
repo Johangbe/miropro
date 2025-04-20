@@ -1,17 +1,5 @@
 [
     {
-        "hora": "22:00",
-        "competición": "Primera Division",
-        "equipos": "Santos de Guápiles vs Puntarenas",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3Mz"
-            }
-        ]
-    },
-    {
         "hora": "23:00",
         "competición": "Liga MX",
         "equipos": "América vs Mazatlán",
@@ -154,6 +142,11 @@
                 "nombre": "FUTV",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZ1dHY="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTY5ZDg3YTA4Njg0N2E4NTk1YTM5MDk4ODk4NDdhLmh0bWw="
             }
         ]
     },
