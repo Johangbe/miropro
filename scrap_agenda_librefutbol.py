@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 import json, time
@@ -41,7 +40,14 @@ def extraer_desde_html(html):
                 nombre = canal_a.contents[0].strip() if canal_a.contents else "Desconocido"
                 calidad_tag = canal_a.find("span")
                 calidad = calidad_tag.text.strip() if calidad_tag else "Desconocido"
-                enlace = canal_a.get("href", "")
+
+                original = canal_a.get("href", "")
+                if "/en-vivo/" in original:
+                    slug = original.strip("/").split("/")[-1]
+                    enlace = f"https://futbollibre.net/embed/{slug}.html"
+                else:
+                    enlace = original
+
                 canales.append({
                     "nombre": nombre,
                     "calidad": calidad,
