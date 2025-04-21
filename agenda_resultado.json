@@ -1,1 +1,180 @@
-[]
+[
+    {
+        "hora": "14:00",
+        "competición": "Championship",
+        "equipos": "Leeds United vs Stoke City",
+        "canales": [
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "Sport TV3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8zcHQ="
+            }
+        ]
+    },
+    {
+        "hora": "15:55",
+        "competición": "Liga Profesional Saudi",
+        "equipos": "Al Hilal vs Al Shabab",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Sport TV2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8ycHQ="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Serie A",
+        "equipos": "Genoa vs Lazio",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Copa Holanda",
+        "equipos": "AZ vs Go Ahead Eagles",
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            },
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            },
+            {
+                "nombre": "ESPN 3 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwz"
+            }
+        ]
+    },
+    {
+        "hora": "16:30",
+        "competición": "Championship",
+        "equipos": "Burnley vs Sheffield United",
+        "canales": [
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            },
+            {
+                "nombre": "ESPN 3 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4zYnI="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga Profesional Saudi",
+        "equipos": "Al Ittihad vs Al Ittifaq",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Serie A",
+        "equipos": "Parma vs Juventus",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Premier League",
+        "equipos": "Tottenham Hotspur vs Nottingham Forest",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Girona vs Real Betis",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera Division",
+        "equipos": "2 de Mayo vs Sportivo Ameliano",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera Division",
+        "equipos": "Tigre vs Belgrano",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga Betplay",
+        "equipos": "Boyacá Chicó vs Fortaleza CEIF",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Brasileirão",
+        "equipos": "Bahia vs Ceará",
+        "canales": []
+    },
+    {
+        "hora": "23:15",
+        "competición": "Primera Division",
+        "equipos": "Nacional Asunción vs Deportivo Recoleta",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Primera Division",
+        "equipos": "Independiente Rivadavia vs Aldosivi",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Primera Division",
+        "equipos": "Argentinos Juniors vs Barracas Central",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Liga Betplay",
+        "equipos": "Deportivo Pasto vs Rionegro Águilas",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Primera Division",
+        "equipos": "Alajuelense vs Deportivo Saprissa",
+        "canales": []
+    }
+]
