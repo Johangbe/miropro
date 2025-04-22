@@ -1,29 +1,5 @@
 [
     {
-        "hora": "21:00",
-        "competición": "Primera Division",
-        "equipos": "2 de Mayo vs Sportivo Ameliano",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Primera Division",
-        "equipos": "Tigre vs Belgrano",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/espn-premium/"
-            }
-        ]
-    },
-    {
         "hora": "23:00",
         "competición": "Liga Betplay",
         "equipos": "Boyacá Chicó vs Fortaleza CEIF",
@@ -66,30 +42,6 @@
                 "nombre": "Tigo Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
-            }
-        ]
-    },
-    {
-        "hora": "00:15",
-        "competición": "Primera Division",
-        "equipos": "Independiente Rivadavia vs Aldosivi",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/espn-premium/"
-            }
-        ]
-    },
-    {
-        "hora": "00:15",
-        "competición": "Primera Division",
-        "equipos": "Argentinos Juniors vs Barracas Central",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/tnt-sports-en-vivo-online-aey/"
             }
         ]
     },
