@@ -1,1 +1,163 @@
-[]
+[
+    {
+        "hora": "16:40",
+        "competición": "Eredivisie",
+        "equipos": "AZ vs NAC Breda",
+        "canales": [
+            {
+                "nombre": "ESPN 3 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwz"
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "LaLiga",
+        "equipos": "Osasuna vs Sevilla",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzNA=="
+            },
+            {
+                "nombre": "ESPN 4 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40YnI="
+            },
+            {
+                "nombre": "DAZN Eleven 1 PT",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVsZXZlbjFfcHQ="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "LaLiga",
+        "equipos": "Leganés vs Girona",
+        "canales": [
+            {
+                "nombre": "DAZN LaLiga ES",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRhem5fbGFsaWdh"
+            },
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzOQ=="
+            },
+            {
+                "nombre": "DAZN Eleven 2 PT",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVsZXZlbjJfcHQ="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Italiana",
+        "equipos": "Bologna vs Empoli",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Eredivisie",
+        "equipos": "Twente vs PSV",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "LaLiga",
+        "equipos": "Real Betis vs Real Valladolid",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "LaLiga",
+        "equipos": "Atlético Madrid vs Rayo Vallecano",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Central Córdoba SdE vs Deportivo Táchira",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Bolívar vs Palmeiras",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Corinthians vs Racing",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Godoy Cruz vs Grêmio",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Bahia vs Atlético Nacional",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Cerro Porteño vs Sporting Cristal",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Palestino vs Cruzeiro",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Deportes Iquique vs Cienciano",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Universidad Católica vs Defensa y Justicia",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga Nacional",
+        "equipos": "Xelajú vs Cobán Imperial",
+        "canales": []
+    },
+    {
+        "hora": "02:30",
+        "competición": "Liga Campeones CONCACAF",
+        "equipos": "Vancouver Whitecaps vs Inter Miami",
+        "canales": []
+    }
+]
