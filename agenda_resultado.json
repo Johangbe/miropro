@@ -1,1 +1,144 @@
-[]
+[
+    {
+        "hora": "16:30",
+        "competición": "Liga de Campeones de la AFC",
+        "equipos": "Al Hilal vs Gwangju",
+        "canales": [
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "ESPN 4 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40YnI="
+            }
+        ]
+    },
+    {
+        "hora": "16:45",
+        "competición": "Eredivisie",
+        "equipos": "RKC Waalwijk vs Utrecht",
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Bundesliga",
+        "equipos": "Stuttgart vs Heidenheim",
+        "canales": [
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "nombre": "DAZN Eleven 1 PT",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVsZXZlbjFfcHQ="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Ligue 1",
+        "equipos": "PSG vs Nice",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "Caliente TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhbGllbnRldHZteA=="
+            },
+            {
+                "nombre": "Sport TV4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl80cHQ="
+            },
+            {
+                "nombre": "beIN Sports Ñ",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWJlaW5lc3A="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Championship",
+        "equipos": "Stoke City vs Sheffield United",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Eredivisie",
+        "equipos": "Feyenoord vs PEC Zwolle",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Primeira Liga",
+        "equipos": "Famalicão vs Sporting Braga",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera Division",
+        "equipos": "Unión La Calera vs Audax Italiano",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera Division",
+        "equipos": "Ñublense vs La Serena",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera Division",
+        "equipos": "Atlético Tembetary vs 2 de Mayo",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "El Nacional vs Delfin",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera Division",
+        "equipos": "Universidad Católica vs Everton",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Primera Division",
+        "equipos": "Tigres UANL vs Monterrey",
+        "canales": []
+    }
+]
