@@ -1,1 +1,131 @@
-[]
+[
+    {
+        "hora": "16:30",
+        "competición": "Serie A",
+        "equipos": "Udinese vs Bologna",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Sport TV3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8zcHQ="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs Juan Pablo II College",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Barracas Central vs Unión Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Primera Division",
+        "equipos": "Racing vs Cerro Largo",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Serie A",
+        "equipos": "Hellas Verona vs Cagliari",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Serie A",
+        "equipos": "Lazio vs Parma",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Championship",
+        "equipos": "Leeds United vs Bristol City",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Primeira Liga",
+        "equipos": "Casa Pia vs Estoril",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Superliga Argentina",
+        "equipos": "Godoy Cruz vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "ADT vs Cusco",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Superliga Argentina",
+        "equipos": "Estudiantes vs Tigre",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera División",
+        "equipos": "Sportivo Trinidense vs Olimpia",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Superliga Argentina",
+        "equipos": "Defensa y Justicia vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "23:15",
+        "competición": "Primera División",
+        "equipos": "Deportivo Recoleta vs Cerro Porteño",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Libertad vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga 1",
+        "equipos": "Cienciano vs Sport Huancayo",
+        "canales": []
+    },
+    {
+        "hora": "00:45",
+        "competición": "Superliga Argentina",
+        "equipos": "Vélez Sarsfield vs Gimnasia La Plata",
+        "canales": []
+    },
+    {
+        "hora": "00:45",
+        "competición": "Superliga Argentina",
+        "equipos": "Central Córdoba SdE vs Independiente Rivadavia",
+        "canales": []
+    }
+]
