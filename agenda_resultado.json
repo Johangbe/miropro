@@ -1,82 +1,5 @@
 [
     {
-        "hora": "21:10",
-        "competición": "Primera A",
-        "equipos": "Fortaleza CEIF vs Medellín",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            }
-        ]
-    },
-    {
-        "hora": "21:15",
-        "competición": "Primera Division",
-        "equipos": "Peñarol vs Cerro",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Primera División",
-        "equipos": "Huachipato vs Unión Española",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDM="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Brasileirão",
-        "equipos": "Palmeiras vs Bahia",
-        "canales": [
-            {
-                "nombre": "Premiere 3 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Brasileirão",
-        "equipos": "Cruzeiro vs Vasco da Gama",
-        "canales": [
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Brasileirão",
-        "equipos": "Vitória vs Grêmio",
-        "canales": [
-            {
-                "nombre": "Premiere 5 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXByZW1pZXJlNQ=="
-            }
-        ]
-    },
-    {
         "hora": "22:00",
         "competición": "Superliga Argentina",
         "equipos": "Instituto vs Sarmiento",
@@ -109,6 +32,38 @@
                 "nombre": "GOLPERU",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHBlcnU="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga MX",
+        "equipos": "Juarez vs UNAM Pumas",
+        "canales": [
+            {
+                "nombre": "Tubi TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1Yml0djE="
+            },
+            {
+                "nombre": "Tubi TV | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9obHMuaHRtbD9nZXQ9THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODJNMk00TkdFMVpDMHpNREJoTFRSaU9XUXRZakZsT0MwME1HVmtZbVZtWWpGbFpqWXZjR3hoZVd4cGMzUXViVE4xT0E9PQ=="
+            },
+            {
+                "nombre": "Azteca 7",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "FOX Sports 2 USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
             }
         ]
     },
@@ -191,6 +146,28 @@
                 "nombre": "Win Sports+ | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
+    },
+    {
+        "hora": "01:30",
+        "competición": "Liga MX",
+        "equipos": "Monterrey vs Pachuca",
+        "canales": [
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNW14"
+            },
+            {
+                "nombre": "TUDN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5tZXhpY28="
             }
         ]
     }
