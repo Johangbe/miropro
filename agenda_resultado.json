@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "hora": "16:30",
+        "competición": "Liga de Campeones de la AFC",
+        "equipos": "Al Hilal vs Al-Ahli",
+        "canales": [
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "ESPN 2 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
+            },
+            {
+                "nombre": "ESPN 4 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40YnI="
+            },
+            {
+                "nombre": "SSC Sport 1 SA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzE="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Arsenal vs PSG",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Arsenal vs PSG",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Argentinos Juniors vs Barracas Central",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Newell's Old Boys vs Huracán",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Platense vs Talleres Córdoba",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera A",
+        "equipos": "Atlético Nacional vs Deportivo Pasto",
+        "canales": []
+    }
+]
