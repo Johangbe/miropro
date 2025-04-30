@@ -1,68 +1,25 @@
 [
     {
-        "hora": "19:00",
-        "competición": "UEFA Champions League",
-        "equipos": "Barcelona vs Inter",
+        "hora": "22:00",
+        "competición": "Copa do Brasil",
+        "equipos": "Botafogo vs Capital Brasilia",
         "canales": [
             {
-                "nombre": "RTL Sports (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9ydGwucGhw"
-            },
-            {
-                "nombre": "MAX",
+                "nombre": "Premiere BR",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9tYXgucGhw"
-            },
-            {
-                "nombre": "Fox Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/espn-1/"
-            },
-            {
-                "nombre": "TNT Sports 1 UK",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzFfR0I="
-            },
-            {
-                "nombre": "Paramount+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wYXJhbW91bnQx"
-            },
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4="
-            },
-            {
-                "nombre": "Ziggo Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
-            },
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "22:30",
+        "competición": "Copa do Brasil",
+        "equipos": "Ceará vs Palmeiras",
+        "canales": [
             {
                 "nombre": "Eventos",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTc5YzhhYTI4YTg0N2E4NTk3YTI4Zjk4OGI4OC5odG1s"
-            },
-            {
-                "nombre": "Univisión",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXVuaXZpc2lvbg=="
-            },
-            {
-                "nombre": "Sport TV5",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1zcG9ydHR2NQ=="
-            },
-            {
-                "nombre": "ESPN (Ads)",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9taWNhbmFsZGVwb3J0aXZvLmNvbS9lc3BuLnBocA=="
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M3"
             }
         ]
     },
@@ -129,6 +86,42 @@
                 "nombre": "TNT Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/tnt-sports-en-vivo-online-aey/"
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa do Brasil",
+        "equipos": "Novorizontino vs Corinthians",
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa do Brasil",
+        "equipos": "CSA vs Grêmio",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M3"
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa do Brasil",
+        "equipos": "Paysandu vs Bahia",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTc5YzhjYTI4ODg0N2E4NTk1YTE4OTk4ODU4YTgzLmh0bWw="
             }
         ]
     },
