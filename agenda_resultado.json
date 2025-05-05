@@ -3,54 +3,208 @@
         "hora": "18:45",
         "competición": "Serie A",
         "equipos": "Genoa vs Milan",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            },
+            {
+                "nombre": "ESPN 2 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4yYnI="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            },
+            {
+                "nombre": "Sport TV2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8ycHQ="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Premier League",
         "equipos": "Crystal Palace vs Nottingham Forest",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/espn-1/"
+            },
+            {
+                "nombre": "Universo",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9tcGRrLmh0bWw/Z2V0PWFIUjBjSE02THk5bWMyeDVMbk4wY21WaGJTNXdaV0ZqYjJOcmRIWXVZMjl0TDBOdmJuUmxiblF2UTAxQlJsOVBUREV0UTFSU0xUUnpMWFl5TDB4cGRtVXZZMmhoYm01bGJDaDFibWwyWlhKemJ5MWxZWE4wS1M5dFlYTjBaWEl1YlhCayZrZXk9WVRReU5qWTVaV0ZtWldRM016UTVORGs1WVdGaU4yUm1OVGc0WWpOalkyWT0ma2V5Mj1NR1ppWm1ZeE5ETmxZbVF3T1Rjd05qQmhNemMzWlRSaFpHVXdNek15T0RnPQ=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            },
+            {
+                "nombre": "DAZN Eleven 1 PT",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVsZXZlbjFfcHQ="
+            },
+            {
+                "nombre": "Tubi TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9obHMuaHRtbD9nZXQ9THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODJNMk00TkdFMVpDMHpNREJoTFRSaU9XUXRZakZsT0MwME1HVmtZbVZtWWpGbFpqWXZjR3hoZVd4cGMzUXViVE4xT0E9PQ=="
+            },
+            {
+                "nombre": "ESPN 4 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40YnI="
+            },
+            {
+                "nombre": "USA Network",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXVzYV9uZXR3b3Jr"
+            },
+            {
+                "nombre": "DAZN 1 ES",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9tcGRrLmh0bWw/Z2V0PWFIUjBjSE02THk5dmRIUmlMbXhwZG1VdVkyWXVkM2N1WVdsMkxXTmtiaTV1WlhRdlpIVmlMVzVwZEhKdkwyeHBkbVV2WTJ4cFpXNTBjeTlrWVhOb0wyVnVZeTlpYlc1bGJHODFZemRoTDI5MWRDOTJNUzh6WTJVeVkyUmpORFU0T1dZME5qRTRPVE15TW1Ka016Y3hOMk0zTnprMU55OWpaVzVqTG0xd1pBPT0ma2V5PU5EUmtaRGxqWkRNM01HSXdPR0U0TmpobFlXUXhNVFZtWlRnMFpXTm1aR1U9JmtleTI9WW1abU1UbGhZakJoTlRGalpqRTBaVGcwT0RNNE9XSXhOVEk1TVRObVpEQT0="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "LaLiga",
         "equipos": "Girona vs Mallorca",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzNA=="
+            },
+            {
+                "nombre": "Sky Sports LaLiga MX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9tcGRrLmh0bWw/Z2V0PUx5OWhhMkV0YkdsMlpURXRiM1IwTG1sNmVtbG5ieTUwZGk4eE1pOXZkWFF2ZFM5a1lYTm9MMU5MV1MxVFVFOVNWRk10TVRZdFNFUXZaR1ZtWVhWc2RDNXRjR1E9JmtleT1Zemc0WkdNMll6WTJPR05oWXpOaU5EWTRaRFJoTkdNM1pURTNObVptTTJRPSZrZXkyPU1XRmxZamN6T1dSbE1tTXhOR1ZrTUdGa05qVTRZMkU0TURRek1qQTRaRGc9"
+            },
+            {
+                "nombre": "DAZN Eleven 2 PT",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVsZXZlbjJfcHQ="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "DAZN LaLiga ES",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRhem5fbGFsaWdh"
+            },
+            {
+                "nombre": "LaLiga TV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9bGFsaWdhdHY="
+            }
+        ]
     },
     {
         "hora": "19:15",
         "competición": "Primeira Liga",
         "equipos": "AVS vs Boavista",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Brasileirão",
         "equipos": "RB Bragantino vs Mirassol",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Primera Division",
         "equipos": "General Caballero JLM vs Sportivo Trinidense",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Brasileirão",
         "equipos": "Juventude vs Atlético Mineiro",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Sportv",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "LigaPro",
         "equipos": "Aucas vs Libertad",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTdhMDhmYTI4YTg0N2E4NTk1OWY4Nzk4ODU4NTdlLmh0bWw="
+            }
+        ]
     },
     {
         "hora": "01:00",
         "competición": "Primera A",
         "equipos": "Boyacá Chicó vs Envigado",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     }
 ]
