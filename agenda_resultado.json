@@ -1,1 +1,80 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Inter vs Barcelona",
+        "canales": [
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Nacional Potosí vs Guaraní",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Vitória vs Defensa y Justicia",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Sportivo Luqueño vs Godoy Cruz",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Carabobo vs Botafogo",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Alianza Lima vs São Paulo",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Atlético Bucaramanga vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Corinthians vs América de Cali",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Boston River vs Independiente",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Fortaleza vs Colo-Colo",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Melgar vs Lanús",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Libertadores",
+        "equipos": "San Antonio Bulo Bulo vs Peñarol",
+        "canales": []
+    }
+]
