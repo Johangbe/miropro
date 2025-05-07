@@ -3,25 +3,89 @@
         "hora": "16:15",
         "competición": "Liga Profesional Saudi",
         "equipos": "Al Raed vs Al Hilal",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/tnt-sports-en-vivo-online-aey/"
+            },
+            {
+                "nombre": "SSC Extra 1 SA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9U1NDX0VYVFJBMQ=="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Sport TV3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8zcHQ="
+            }
+        ]
     },
     {
         "hora": "16:25",
         "competición": "Liga Profesional Saudi",
         "equipos": "Al-Ahli vs Al Taawon",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "SSC Extra 2 SA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9U1NDX0VYVFJBMg=="
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Liga Profesional Saudi",
         "equipos": "Al Nassr vs Al Ittihad",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/tnt-sports-en-vivo-online-aey/"
+            },
+            {
+                "nombre": "SSC Sport 1 SA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzE="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Azteca Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYV9kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Liga de Campeones de la UEFA",
         "equipos": "PSG vs Arsenal",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/espn-1/"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            }
+        ]
     },
     {
         "hora": "21:00",
