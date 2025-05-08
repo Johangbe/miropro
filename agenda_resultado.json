@@ -33,8 +33,8 @@
             },
             {
                 "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9pemkucGhwP2NoYW5uZWw9ZXNwbjE="
             },
             {
                 "nombre": "Paramount+",
@@ -42,9 +42,9 @@
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
             },
             {
-                "nombre": "TUDN USA",
+                "nombre": "ESPN MX | OP 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
             },
             {
                 "nombre": "TNT Sports 1 UK",
@@ -60,6 +60,11 @@
                 "nombre": "Ziggo Sports",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
             }
         ]
     },
@@ -84,6 +89,11 @@
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
             },
             {
+                "nombre": "Fox Sports MX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9pemkucGhwP2NoYW5uZWw9Zm94c3BvcnRzMQ=="
+            },
+            {
                 "nombre": "Paramount+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
@@ -92,6 +102,11 @@
                 "nombre": "DAZN Eleven 1 PT",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVsZXZlbjFfcHQ="
+            },
+            {
+                "nombre": "Fox Sports MX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c214"
             },
             {
                 "nombre": "TNT Sports 2 UK",
@@ -121,9 +136,19 @@
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDM="
             },
             {
+                "nombre": "Fox Sports 2 MX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9pemkucGhwP2NoYW5uZWw9Zm94c3BvcnRzMg=="
+            },
+            {
                 "nombre": "DAZN Eleven 3 PT",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVsZXZlbjNfcHQ="
+            },
+            {
+                "nombre": "Fox Sports 2 MX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJteA=="
             },
             {
                 "nombre": "TNT Sports 4 UK",
