@@ -1,1 +1,85 @@
-[]
+[
+    {
+        "hora": "18:00",
+        "competición": "Primeira Liga",
+        "equipos": "Famalicão vs Casa Pia",
+        "canales": [
+            {
+                "nombre": "Sport TV4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl80cHQ="
+            },
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Primeira Liga",
+        "equipos": "Rio Ave vs Gil Vicente",
+        "canales": [
+            {
+                "nombre": "Sport TV3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8zcHQ="
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Premier League",
+        "equipos": "Aston Villa vs Tottenham Hotspur",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "League Two",
+        "equipos": "Walsall vs Chesterfield",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Premier League",
+        "equipos": "Chelsea vs Manchester United",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Primera División",
+        "equipos": "Deportivo Recoleta vs Atlético Tembetary",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "Alianza Atlético vs Deportivo Garcilaso",
+        "canales": []
+    },
+    {
+        "hora": "23:10",
+        "competición": "Primera A",
+        "equipos": "Junior vs Fortaleza CEIF",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Primera División",
+        "equipos": "Unión La Calera vs Coquimbo Unido",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Deportivo Cuenca vs Técnico Universitario",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Primera A",
+        "equipos": "Millonarios vs Envigado",
+        "canales": []
+    }
+]
