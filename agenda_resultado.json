@@ -1,19 +1,284 @@
 [
     {
+        "hora": "11:30",
+        "competición": "League Two",
+        "equipos": "AFC Wimbledon vs Notts County",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "RB Leipzig vs Stuttgart",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "St. Pauli vs Bochum",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Borussia M'gladbach vs Wolfsburg",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Mainz 05 vs Bayer Leverkusen",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Augsburg vs Union Berlin",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Heidenheim vs Werder Bremen",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Freiburg vs Eintracht Frankfurt",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Borussia Dortmund vs Holstein Kiel",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Hoffenheim vs Bayern München",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "Eredivisie",
+        "equipos": "ADO Den Haag vs Telstar",
+        "canales": []
+    },
+    {
+        "hora": "15:30",
+        "competición": "FA Cup (Final)",
+        "equipos": "Crystal Palace vs Manchester City",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primeira Liga",
+        "equipos": "Sporting CP vs Vitória Guimarães",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primeira Liga",
+        "equipos": "Porto vs Nacional",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primeira Liga",
+        "equipos": "Sporting Braga vs Benfica",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Primera Division",
+        "equipos": "River Plate vs Wanderers",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Eredivisie",
+        "equipos": "Dordrecht vs De Graafschap",
+        "canales": []
+    },
+    {
+        "hora": "18:15",
+        "competición": "Liga 1",
+        "equipos": "UTC Cajamarca vs Comerciantes Unidos",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Strasbourg vs Le Havre",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "PSG vs Auxerre",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Lens vs Monaco",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Nantes vs Montpellier",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Lille vs Reims",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Saint-Étienne vs Toulouse",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Nice vs Brest",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Olympique Lyonnais vs Angers SCO",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1",
+        "equipos": "Olympique Marseille vs Rennes",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Ligue 1 Francia",
+        "equipos": "Multiplex Feed",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera Division",
+        "equipos": "Cobresal vs Audax Italiano",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LigaPro",
+        "equipos": "Aucas vs Manta",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Brasileirão",
+        "equipos": "Ceará vs Sport Recife",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Primera Division",
+        "equipos": "Nacional Asunción vs Sportivo Luqueño",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Primera Division",
+        "equipos": "Plaza Colonia vs Danubio",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs ADT",
+        "canales": []
+    },
+    {
+        "hora": "20:40",
+        "competición": "Primera A",
+        "equipos": "La Equidad vs Atlético Bucaramanga",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Vasco da Gama vs Fortaleza",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera Division",
+        "equipos": "O'Higgins vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "LigaPro",
+        "equipos": "Mushuc Runa vs Orense",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Primera Division",
+        "equipos": "Libertad vs Sportivo Trinidense",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga 1",
+        "equipos": "Cusco vs Los Chankas",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera A",
+        "equipos": "Deportivo Cali vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera Division",
+        "equipos": "Peñarol vs Torque",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Brasileirão",
+        "equipos": "São Paulo vs Grêmio",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Macará vs El Nacional",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Ascenso MX",
+        "equipos": "Tampico Madero vs Leones Negros UdeG",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Toluca vs Tigres UANL",
+        "canales": []
+    },
+    {
         "hora": "01:10",
         "competición": "Primera A",
-        "equipos": "Millonarios vs Envigado",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutbol.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            }
-        ]
+        "equipos": "Boyacá Chicó vs Alianza Petrolera",
+        "canales": []
     }
 ]
