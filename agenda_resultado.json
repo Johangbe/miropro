@@ -1,88 +1,5 @@
 [
     {
-        "hora": "18:00",
-        "competición": "Eredivisie",
-        "equipos": "Den Bosch vs Telstar",
-        "canales": [
-            {
-                "nombre": "ESPN NL",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Premier League",
-        "equipos": "Crystal Palace vs Wolverhampton Wanderers",
-        "canales": [
-            {
-                "nombre": "ESPN 2 AR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4yYXI="
-            },
-            {
-                "nombre": "ESPN CO",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-1/"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "ESPN BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4xYnI="
-            },
-            {
-                "nombre": "Peacock TV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBlYWNvY2sx"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Premier League",
-        "equipos": "Manchester City vs AFC Bournemouth",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-            },
-            {
-                "nombre": "USA Network",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VVNBTkVUV09SSw=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            },
-            {
-                "nombre": "USA Network | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXVzYV9uZXR3b3Jr"
-            }
-        ]
-    },
-    {
-        "hora": "19:30",
-        "competición": "Primera División",
-        "equipos": "Sportivo Luqueño vs Deportivo Recoleta",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
-            }
-        ]
-    },
-    {
         "hora": "22:00",
         "competición": "Primera División",
         "equipos": "Sportivo Trinidense vs Nacional Asunción",
@@ -90,7 +7,7 @@
             {
                 "nombre": "Tigo Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             }
         ]
     },
@@ -114,7 +31,7 @@
             {
                 "nombre": "Eventos",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M2"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
             }
         ]
     },
@@ -134,14 +51,19 @@
                 "enlace": "https://librefutboltv.su/espn-1/"
             },
             {
-                "nombre": "ESPN BR",
+                "nombre": "TNT Sports | OP 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4xYnI="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             },
             {
-                "nombre": "Sport TV1",
+                "nombre": "ESPN | OP 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOThhMzhmOWM4Yzg0N2E4NTk1OWQ4ZDk4ODY4NTdiLmh0bWw="
             }
         ]
     },
