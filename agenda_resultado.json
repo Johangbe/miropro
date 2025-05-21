@@ -1,62 +1,5 @@
 [
     {
-        "hora": "19:00",
-        "competición": "UEFA Europa League (Final)",
-        "equipos": "Tottenham Hotspur vs Manchester United",
-        "canales": [
-            {
-                "nombre": "ESPN AR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
-            },
-            {
-                "nombre": "ESPN CO",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-1/"
-            },
-            {
-                "nombre": "FOX Sports Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c3ByZW1pdW0="
-            },
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            },
-            {
-                "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
-            },
-            {
-                "nombre": "Fox Sports MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c214"
-            },
-            {
-                "nombre": "Paramount+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
-            },
-            {
-                "nombre": "TNT Sports 1 UK",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzFfR0I="
-            },
-            {
-                "nombre": "Ziggo Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            }
-        ]
-    },
-    {
         "hora": "22:00",
         "competición": "Copa do Brasil",
         "equipos": "Fortaleza vs Retrô",
@@ -70,44 +13,44 @@
     },
     {
         "hora": "22:30",
-        "competición": "Primera Division",
-        "equipos": "Sportivo Ameliano vs Cerro Porteño",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
-            }
-        ]
-    },
-    {
-        "hora": "22:30",
-        "competición": "Primera Division",
-        "equipos": "Olimpia vs Libertad",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M4"
-            }
-        ]
-    },
-    {
-        "hora": "22:30",
-        "competición": "Primera Division",
-        "equipos": "Atlético Tembetary vs Guaraní",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M3"
-            }
-        ]
-    },
-    {
-        "hora": "22:30",
         "competición": "Copa do Brasil",
         "equipos": "Aparecidense vs Fluminense",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            }
+        ]
+    },
+    {
+        "hora": "00:15",
+        "competición": "Copa Argentina",
+        "equipos": "Lanús vs Vélez Sarsfield",
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa do Brasil",
+        "equipos": "Corinthians vs Novorizontino",
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa do Brasil",
+        "equipos": "Flamengo vs Botafogo PB",
         "canales": [
             {
                 "nombre": "Eventos",
@@ -117,27 +60,15 @@
         ]
     },
     {
-        "hora": "00:15",
-        "competición": "Copa Argentina",
-        "equipos": "Lanús vs Vélez Sarsfield",
-        "canales": []
-    },
-    {
-        "hora": "00:30",
-        "competición": "Copa do Brasil",
-        "equipos": "Corinthians vs Novorizontino",
-        "canales": []
-    },
-    {
-        "hora": "00:30",
-        "competición": "Copa do Brasil",
-        "equipos": "Flamengo vs Botafogo PB",
-        "canales": []
-    },
-    {
         "hora": "02:00",
         "competición": "Primera División",
         "equipos": "Alajuelense vs Deportivo Saprissa",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "FUTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZ1dHY="
+            }
+        ]
     }
 ]
