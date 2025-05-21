@@ -1,124 +1,120 @@
 [
     {
-        "hora": "16:10",
-        "competición": "Liga Profesional Saudi",
-        "equipos": "Al Nassr vs Al Khaleej",
-        "canales": [
-            {
-                "nombre": "Win Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            },
-            {
-                "nombre": "SSC Extra 1 SA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9U1NDX0VYVFJBMQ=="
-            },
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
-            }
-        ]
-    },
-    {
-        "hora": "16:25",
-        "competición": "Liga Profesional Saudi",
-        "equipos": "Al Kholood vs Al Feiha",
-        "canales": [
-            {
-                "nombre": "SSC Extra 2 SA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9U1NDX0VYVFJBMg=="
-            }
-        ]
-    },
-    {
-        "hora": "16:45",
-        "competición": "Eredivisie",
-        "equipos": "Dordrecht vs Willem II",
-        "canales": [
-            {
-                "nombre": "ESPN NL",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
-            }
-        ]
-    },
-    {
-        "hora": "18:00",
-        "competición": "Ligue 1",
-        "equipos": "Metz vs Reims",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
-            },
-            {
-                "nombre": "beIN Sports Ñ",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWJlaW5lc3A="
-            },
-            {
-                "nombre": "Caliente TV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhbGllbnRldHZteA=="
-            }
-        ]
-    },
-    {
-        "hora": "18:00",
-        "competición": "Liga Profesional",
-        "equipos": "Al Wehda vs Al Hilal",
-        "canales": [
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
-            },
-            {
-                "nombre": "SSC Sport 1 SA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzE="
-            }
-        ]
-    },
-    {
         "hora": "19:00",
         "competición": "UEFA Europa League (Final)",
         "equipos": "Tottenham Hotspur vs Manchester United",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+            },
+            {
+                "nombre": "ESPN CO",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "FOX Sports Premium",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c3ByZW1pdW0="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "Fox Sports MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c214"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            },
+            {
+                "nombre": "TNT Sports 1 UK",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzFfR0I="
+            },
+            {
+                "nombre": "Ziggo Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Copa do Brasil",
         "equipos": "Fortaleza vs Retrô",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
     },
     {
         "hora": "22:30",
         "competición": "Primera Division",
         "equipos": "Sportivo Ameliano vs Cerro Porteño",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
+            }
+        ]
     },
     {
         "hora": "22:30",
         "competición": "Primera Division",
         "equipos": "Olimpia vs Libertad",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M4"
+            }
+        ]
     },
     {
         "hora": "22:30",
         "competición": "Primera Division",
         "equipos": "Atlético Tembetary vs Guaraní",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M3"
+            }
+        ]
     },
     {
         "hora": "22:30",
         "competición": "Copa do Brasil",
         "equipos": "Aparecidense vs Fluminense",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M2"
+            }
+        ]
     },
     {
         "hora": "00:15",
