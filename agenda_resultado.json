@@ -1,69 +1,5 @@
 [
     {
-        "hora": "14:00",
-        "competición": "Championship",
-        "equipos": "Sheffield United vs Sunderland",
-        "canales": [
-            {
-                "nombre": "Fox Sports 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveDJhcg=="
-            },
-            {
-                "nombre": "ESPN 5",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
-            },
-            {
-                "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
-            }
-        ]
-    },
-    {
-        "hora": "14:15",
-        "competición": "LaLiga",
-        "equipos": "Real Madrid vs Real Sociedad",
-        "canales": [
-            {
-                "nombre": "DirecTV Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/directv-sports/"
-            },
-            {
-                "nombre": "ESPN Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-            },
-            {
-                "nombre": "ESPN+ | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
-            },
-            {
-                "nombre": "LaLiga TV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9bGFsaWdhdHY="
-            },
-            {
-                "nombre": "ESPN+ | English",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9sYTEyaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
-            },
-            {
-                "nombre": "Ziggo Sports 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28y"
-            }
-        ]
-    },
-    {
         "hora": "15:30",
         "competición": "Copa Argentina",
         "equipos": "Deportivo Riestra vs Deportivo Armenio",
@@ -79,61 +15,201 @@
         "hora": "16:00",
         "competición": "Serie A",
         "equipos": "Bologna vs Genoa",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2 AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4yYXI="
+            },
+            {
+                "nombre": "ESPN CO",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
     },
     {
         "hora": "16:30",
         "competición": "LaLiga",
         "equipos": "Espanyol vs Las Palmas",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "DirecTV Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+            },
+            {
+                "nombre": "ESPN+ | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
+            },
+            {
+                "nombre": "LaLiga TV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9bGFsaWdhdHY="
+            },
+            {
+                "nombre": "Ziggo Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28y"
+            }
+        ]
     },
     {
         "hora": "16:30",
         "competición": "LaLiga",
         "equipos": "Leganés vs Real Valladolid",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
+            },
+            {
+                "nombre": "DirecTV Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            },
+            {
+                "nombre": "ESPN+ | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzNA=="
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Copa de Alemania",
         "equipos": "Arminia Bielefeld vs Stuttgart",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2 AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4yYXI="
+            },
+            {
+                "nombre": "ESPN CO",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Liga 1",
         "equipos": "Comerciantes Unidos vs Cusco",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Primera Division",
         "equipos": "Juventud vs Torque",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Eredivisie",
         "equipos": "Willem II vs Dordrecht",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
     },
     {
         "hora": "18:45",
         "competición": "Serie A",
         "equipos": "Milan vs Monza",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
     },
     {
         "hora": "18:45",
         "competición": "Primeira Liga",
         "equipos": "AVS vs Vizela",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Primera Division",
         "equipos": "Everton vs Cobresal",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDM="
+            }
+        ]
     },
     {
         "hora": "19:00",
