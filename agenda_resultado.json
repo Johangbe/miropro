@@ -5,6 +5,16 @@
         "equipos": "Al Ittihad vs Al Quadisiya",
         "canales": [
             {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
                 "nombre": "SSC Sport 1 SA",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzE="
@@ -46,68 +56,31 @@
     {
         "hora": "21:00",
         "competición": "Copa Colombia",
-        "equipos": "Orsomarso vs Envigado",
-        "canales": []
+        "equipos": "Fortaleza CEIF vs Bogotá",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     },
     {
         "hora": "21:00",
         "competición": "Copa Colombia",
-        "equipos": "Fortaleza CEIF vs Bogotá",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Cienciano vs Alianza Atlético",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Comerciantes Unidos vs Juan Pablo II College",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Sport Huancayo vs Melgar",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Atlético Grau vs Cusco",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Los Chankas vs Sporting Cristal",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Alianza Universidad vs UTC Cajamarca",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Sport Boys vs Binacional",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Universitario vs ADT",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga 1",
-        "equipos": "Deportivo Garcilaso vs Ayacucho",
-        "canales": []
+        "equipos": "Orsomarso vs Envigado",
+        "canales": [
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
     },
     {
         "hora": "23:00",
