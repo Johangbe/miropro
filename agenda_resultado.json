@@ -1,59 +1,5 @@
 [
     {
-        "hora": "18:00",
-        "competición": "King Cup (Final)",
-        "equipos": "Al Ittihad vs Al Quadisiya",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            },
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            },
-            {
-                "nombre": "SSC Sport 1 SA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzE="
-            },
-            {
-                "nombre": "SSC Sport 4 SA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9jYW5kbGVyLmJlYXV0eS9jb2JvLmh0bWw/aWQ9U1NDNA=="
-            },
-            {
-                "nombre": "SSC Sport 5 SA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzU="
-            },
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
-            },
-            {
-                "nombre": "SSC News SA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9jYW5kbGVyLmJlYXV0eS9jb2JvLmh0bWw/aWQ9U1NDX05FV1M="
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "Primera Division",
-        "equipos": "General Caballero JLM vs Nacional Asunción",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
-            }
-        ]
-    },
-    {
         "hora": "21:00",
         "competición": "Copa Colombia",
         "equipos": "Fortaleza CEIF vs Bogotá",
@@ -83,21 +29,37 @@
         ]
     },
     {
-        "hora": "23:00",
-        "competición": "Copa Ecuador",
-        "equipos": "Deportivo Ibarra vs San Antonio",
-        "canales": []
+        "hora": "00:00",
+        "competición": "Copa Colombia",
+        "equipos": "Deportivo Cali vs Boca Juniors de Cali",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "LigaPro",
         "equipos": "Macará vs Manta",
-        "canales": []
-    },
-    {
-        "hora": "00:00",
-        "competición": "Copa Colombia",
-        "equipos": "Deportivo Cali vs Boca Juniors de Cali",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
+            }
+        ]
     }
 ]
