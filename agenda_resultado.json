@@ -1,46 +1,5 @@
 [
     {
-        "hora": "16:30",
-        "competición": "Primera Division",
-        "equipos": "Huachipato vs Ñublense",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-            }
-        ]
-    },
-    {
-        "hora": "16:30",
-        "competición": "Primera Division",
-        "equipos": "La Serena vs Coquimbo Unido",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
-            }
-        ]
-    },
-    {
-        "hora": "16:30",
-        "competición": "LigaPro",
-        "equipos": "LDU Quito vs Técnico Universitario",
-        "canales": [
-            {
-                "nombre": "Zapping Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            },
-            {
-                "nombre": "ECDF LigaPro",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
-            }
-        ]
-    },
-    {
         "hora": "18:00",
         "competición": "Primera Division",
         "equipos": "Progreso vs Danubio",
@@ -56,7 +15,7 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0"
             },
             {
-                "nombre": "GOLTV",
+                "nombre": "GOLTV | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWdvbHR2"
             }
@@ -73,19 +32,9 @@
                 "enlace": "https://librefutboltv.su/espn-1/"
             },
             {
-                "nombre": "Fox Sports",
+                "nombre": "TUDN USA",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "nombre": "TNT Sports 1 UK",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzFfR0I="
-            },
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1tYXgz"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
             },
             {
                 "nombre": "Paramount+",
@@ -93,19 +42,34 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             },
             {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu"
-            },
-            {
                 "nombre": "Caliente TV",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWNhbGllbnRldHZteA=="
             },
             {
+                "nombre": "TNT Sports UK",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS90bnQxLnBocA=="
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9obHMuaHRtbD9nZXQ9YUhSMGNITTZMeTkyWldWMGFYb3VZMjl0TDNCc1lYbHNhWE4wTDNOMGNtVmhiVjh4TG0wemRUZz0="
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9tYXgucGhw"
+            },
+            {
                 "nombre": "Ziggo Sports",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOTlhMzg4YTE4NDg0N2E4NTk4YTA4Nzk4ODU4YzgwLmh0bWw="
             },
             {
                 "nombre": "ESPN (Ads)",
@@ -220,19 +184,42 @@
         "hora": "23:00",
         "competición": "Primera Division",
         "equipos": "Miramar Misiones vs Racing",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            },
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            }
+        ]
     },
     {
         "hora": "23:30",
         "competición": "MLS",
         "equipos": "Inter Miami vs Columbus Crew",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "MLS",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "Brasileirão",
         "equipos": "Vasco da Gama vs RB Bragantino",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
     },
     {
         "hora": "00:00",
