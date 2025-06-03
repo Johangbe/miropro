@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "Copa Colombia",
+        "equipos": "Boca Juniors de Cali vs Deportes Quindío",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Unión Española vs Deportes Limache",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa Colombia",
+        "equipos": "Bogotá vs Leones",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Colombia",
+        "equipos": "Barranquilla vs Orsomarso",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
+    }
+]
