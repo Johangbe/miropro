@@ -1,52 +1,48 @@
 [
     {
-        "hora": "15:00",
-        "competición": "The Soccer Tournament",
-        "equipos": "Seleccion Potrero vs Trident",
-        "canales": [
-            {
-                "nombre": "ESPN 3",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            }
-        ]
-    },
-    {
-        "hora": "16:00",
-        "competición": "The Soccer Tournament",
-        "equipos": "América vs Drip FC",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
+        "hora": "19:10",
         "competición": "UEFA Nations League",
         "equipos": "Alemania vs Portugal",
         "canales": [
             {
-                "nombre": "ESPN CO",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-1/"
-            },
-            {
                 "nombre": "ESPN AR",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+            },
+            {
+                "nombre": "ESPN PE",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
             },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
+                "nombre": "FOX Sports USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "Ziggo Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOWE5YzhkOWM4YTg0N2E4NTk3YTI4Yjk4OGQ4Ni5odG1s"
+            },
+            {
+                "nombre": "ESPN (Ads)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9lc3BuaGQucGhw"
             }
         ]
     },
@@ -54,54 +50,148 @@
         "hora": "20:30",
         "competición": "The Soccer Tournament",
         "equipos": "Hashtag United vs Pasha Luxury",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            }
+        ]
     },
     {
         "hora": "21:00",
         "competición": "Clasificación para la Copa Mundial",
         "equipos": "Barbados vs Aruba",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
     },
     {
         "hora": "21:15",
         "competición": "Copa Colombia",
         "equipos": "Alianza Petrolera vs Rionegro Águilas",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     },
     {
         "hora": "21:30",
         "competición": "The Soccer Tournament",
         "equipos": "West Ham United vs Villarreal",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            }
+        ]
     },
     {
         "hora": "22:30",
         "competición": "The Soccer Tournament",
         "equipos": "The CONCAFA Soccer Club vs Real Athletico",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Brasileirão",
         "equipos": "Botafogo vs Ceará",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3Mx"
+            }
+        ]
     },
     {
         "hora": "23:10",
         "competición": "Primera A",
         "equipos": "Deportes Tolima vs Medellín",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "The Soccer Tournament",
         "equipos": "Seleccion Potrero vs Atlético Madrid",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2 AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4yYXI="
+            },
+            {
+                "nombre": "ESPN 2 CO",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
+            }
+        ]
     },
     {
         "hora": "01:15",
         "competición": "Primera A",
         "equipos": "América de Cali vs Junior",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     }
 ]
