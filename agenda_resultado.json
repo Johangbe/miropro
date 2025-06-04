@@ -1,1 +1,129 @@
-[]
+[
+    {
+        "hora": "14:00",
+        "competición": "The Soccer Tournament",
+        "equipos": "The CONCAFA SC vs AFC Bournemouth",
+        "canales": [
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "The Soccer Tournament",
+        "equipos": "Seleccion Potrero vs Trident",
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "The Soccer Tournament",
+        "equipos": "América vs Drip FC",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "UEFA Nations League",
+        "equipos": "Alemania vs Portugal",
+        "canales": [
+            {
+                "nombre": "ESPN CO",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "ESPN AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ]
+    },
+    {
+        "hora": "20:30",
+        "competición": "The Soccer Tournament",
+        "equipos": "Hashtag United vs Pasha Luxury",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Clasificación para la Copa Mundial",
+        "equipos": "Barbados vs Aruba",
+        "canales": []
+    },
+    {
+        "hora": "21:15",
+        "competición": "Copa Colombia",
+        "equipos": "Alianza Petrolera vs Rionegro Águilas",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "The Soccer Tournament",
+        "equipos": "West Ham United vs Villarreal",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "The Soccer Tournament",
+        "equipos": "The CONCAFA Soccer Club vs Real Athletico",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Brasileirão",
+        "equipos": "Botafogo vs Ceará",
+        "canales": []
+    },
+    {
+        "hora": "23:10",
+        "competición": "Primera A",
+        "equipos": "Deportes Tolima vs Medellín",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "The Soccer Tournament",
+        "equipos": "Seleccion Potrero vs Atlético Madrid",
+        "canales": []
+    },
+    {
+        "hora": "01:15",
+        "competición": "Primera A",
+        "equipos": "América de Cali vs Junior",
+        "canales": []
+    }
+]
