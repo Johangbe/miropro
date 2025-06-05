@@ -1,58 +1,5 @@
 [
     {
-        "hora": "16:00",
-        "competición": "Clasificación para la Copa Mundial",
-        "equipos": "Emiratos Árabes Unidos vs Uzbekistán",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
-            },
-            {
-                "nombre": "ESPN 2 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
-            }
-        ]
-    },
-    {
-        "hora": "16:00",
-        "competición": "Amistoso",
-        "equipos": "Georgia vs Islas Feroe",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
-            }
-        ]
-    },
-    {
-        "hora": "17:00",
-        "competición": "Amistoso",
-        "equipos": "Bielorrusia vs Kazajstán",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
-            }
-        ]
-    },
-    {
-        "hora": "18:15",
-        "competición": "Clasificación para la Copa Mundial",
-        "equipos": "Corea del Norte vs Kirguistán",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
-            }
-        ]
-    },
-    {
         "hora": "18:15",
         "competición": "Clasificación para la Copa Mundial",
         "equipos": "Qatar vs Irán",
@@ -61,18 +8,6 @@
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
-            }
-        ]
-    },
-    {
-        "hora": "18:15",
-        "competición": "Clasificación para la Copa Mundial",
-        "equipos": "Kuwait vs Palestina",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
             }
         ]
     },
@@ -94,17 +29,22 @@
         "equipos": "España vs Francia",
         "canales": [
             {
-                "nombre": "ESPN AR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
-            },
-            {
-                "nombre": "ESPN CO",
+                "nombre": "ESPN",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/espn-1/"
             },
             {
+                "nombre": "ESPN | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuYXI="
+            },
+            {
                 "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE1"
+            },
+            {
+                "nombre": "Disney+ | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
             },
@@ -112,6 +52,11 @@
                 "nombre": "Ziggo Sports",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
+            },
+            {
+                "nombre": "ESPN (Ads)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9lc3BuaGQucGhw"
             }
         ]
     },
@@ -119,30 +64,90 @@
         "hora": "23:00",
         "competición": "Clasificación para la Copa Mundial",
         "equipos": "Ecuador vs Brasil",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            },
+            {
+                "nombre": "Caracol TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2x0dg=="
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Clasificación para la Copa Mundial",
         "equipos": "Paraguay vs Uruguay",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "GEN PY",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M1"
+            },
+            {
+                "nombre": "GOLPERU",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHBlcnU="
+            }
+        ]
     },
     {
         "hora": "23:10",
         "competición": "Primera A",
         "equipos": "Once Caldas vs Santa Fe",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     },
     {
         "hora": "01:00",
         "competición": "Clasificación para la Copa Mundial",
         "equipos": "Chile vs Argentina",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            },
+            {
+                "nombre": "Telefe",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRlbGVmZQ=="
+            },
+            {
+                "nombre": "Caracol TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2x0dg=="
+            }
+        ]
     },
     {
-        "hora": "01:10",
+        "hora": "01:15",
         "competición": "Primera A",
         "equipos": "Millonarios vs Atlético Nacional",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            }
+        ]
     }
 ]
