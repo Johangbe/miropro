@@ -1,96 +1,5 @@
 [
     {
-        "hora": "23:00",
-        "competición": "Clasificación para la Copa Mundial",
-        "equipos": "Ecuador vs Brasil",
-        "canales": [
-            {
-                "nombre": "TyC Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/tyc-sports/"
-            },
-            {
-                "nombre": "SSC Sport 1",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzE="
-            },
-            {
-                "nombre": "Caracol TV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2x0dg=="
-            },
-            {
-                "nombre": "Sportv",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHY="
-            },
-            {
-                "nombre": "ESPN 2 NL",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG5fbmwy"
-            },
-            {
-                "nombre": "SSC Sport 5",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzU="
-            },
-            {
-                "nombre": "ECDF (Ads)",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9lY2Z1dGJvbC5waHA="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Clasificación para la Copa Mundial",
-        "equipos": "Paraguay vs Uruguay",
-        "canales": [
-            {
-                "nombre": "GEN PY",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M1"
-            },
-            {
-                "nombre": "SSC Extra 1",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9U1NDX0VYVFJBMQ=="
-            },
-            {
-                "nombre": "GEN PY | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zNQ=="
-            },
-            {
-                "nombre": "GEN PY | OP 3",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3M1"
-            },
-            {
-                "nombre": "GOLPERU (Ads)",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9nb2xwZXJ1LnBocA=="
-            }
-        ]
-    },
-    {
-        "hora": "23:10",
-        "competición": "Primera A",
-        "equipos": "Once Caldas vs Santa Fe",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            }
-        ]
-    },
-    {
         "hora": "01:00",
         "competición": "Clasificación para la Copa Mundial",
         "equipos": "Chile vs Argentina",
@@ -98,7 +7,7 @@
             {
                 "nombre": "TyC Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/tyc-sports/"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbXg="
             },
             {
                 "nombre": "Telefe",
@@ -106,9 +15,44 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRlbGVmZQ=="
             },
             {
+                "nombre": "SSC Sport 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzE="
+            },
+            {
+                "nombre": "TyC Sports Play (Solo Argentina)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9obHMuaHRtbD9nZXQ9YUhSMGNITTZMeTlqYURBeUxUQTBMVEV4TFhSNVl5NTJiMlJuWXk1dVpYUXZiM1YwTDNZeEwyTTBNMkZqTVRjeU5UUTFPRFJrWVdFNU56Z3haV0ZoWldWaE1XRXdPRFZrTDJsdVpHVjRMbTB6ZFRnPQ=="
+            },
+            {
+                "nombre": "Movistar Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1vdmlzdGFyX2RlcG9ydGVzX3BlcnU="
+            },
+            {
+                "nombre": "Sportv",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHY="
+            },
+            {
                 "nombre": "Caracol TV",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2x0dg=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWNhcmFjb2x0dg=="
+            },
+            {
+                "nombre": "SSC Sport 5",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvZnl0di5jb20vY29iby5odG1sP2lkPVNTQzU="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOWE5ZDhlOWE4YTg0N2E4NTk1YTE4Nzk4ODU4ZDgxLmh0bWw="
+            },
+            {
+                "nombre": "Chilevisión (Ads)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90dWNhbmFsZGVwb3J0aXZvLm9yZy9jaGlsZXZpc2lvbi5waHA="
             }
         ]
     },
