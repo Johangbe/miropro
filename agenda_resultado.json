@@ -1,64 +1,5 @@
 [
     {
-        "hora": "19:00",
-        "competición": "UEFA Nations League (Final)",
-        "equipos": "Portugal vs España",
-        "canales": [
-            {
-                "nombre": "NPO 3 (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9tcGRrLmh0bWw/Z2V0PWFIUjBjSE02THk5dWJIcHBaWFF0YkdsMlpTNWhhMkZ0WVdsNlpXUXVibVYwTDB3eU5DOWhPVE0wTlRBNVppOWtaREE1Wm1ObFlTNXBjMjFzTHk1dGNHUT0ma2V5PVkyTTVORGt5T0dFeE5tTm1ORGxrWkdFMk9UZzJZamszWW1Zd05EYzVaVEk9JmtleTI9TjJNNU1UUTBOekZoTTJFeU5qWXdNMlEzTXpCa1pEWmlOR1kwTmpsaU5UQT0="
-            },
-            {
-                "nombre": "ESPN CO",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-1/"
-            },
-            {
-                "nombre": "ESPN AR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuYXI="
-            },
-            {
-                "nombre": "ESPN BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4xYnI="
-            },
-            {
-                "nombre": "Ziggo Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
-            },
-            {
-                "nombre": "Sportv",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHY="
-            },
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOWFhMDg3YTI4Njg0N2E4NTk4OWU4ZDk4ODU4ODdlLmh0bWw="
-            },
-            {
-                "nombre": "ESPN (Ads)",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9lc3BuaGQucGhw"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Copa Chile",
-        "equipos": "Cobreloa vs Deportes Limache",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbXg="
-            }
-        ]
-    },
-    {
         "hora": "21:00",
         "competición": "Amistoso",
         "equipos": "Al Ahly vs Pachuca",
@@ -72,18 +13,6 @@
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
-            }
-        ]
-    },
-    {
-        "hora": "21:00",
-        "competición": "Copa Chile",
-        "equipos": "Coquimbo Unido vs Unión La Calera",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDM="
             }
         ]
     },
@@ -123,6 +52,23 @@
                 "nombre": "Win Play+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa Chile",
+        "equipos": "Coquimbo Unido vs Unión La Calera",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDM="
             }
         ]
     },
