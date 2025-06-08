@@ -1,77 +1,130 @@
 [
     {
-        "hora": "13:00",
-        "competición": "Liga de las Naciones de la UEFA",
-        "equipos": "Alemania vs Francia",
+        "hora": "16:00",
+        "competición": "Amistoso",
+        "equipos": "Georgia vs Islas de Cabo Verde",
         "canales": [
             {
-                "nombre": "ESPN AR",
+                "nombre": "VIX+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            }
+        ]
+    },
+    {
+        "hora": "16:30",
+        "competición": "Copa Chile",
+        "equipos": "Curicó Unido vs Universidad Chile",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "16:30",
+        "competición": "Copa Chile",
+        "equipos": "Santiago Wanderers vs Antofagasta",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDQ="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Primera División",
+        "equipos": "Juventud vs Racing",
+        "canales": [
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "UEFA Nations League (Final)",
+        "equipos": "Portugal vs España",
+        "canales": [
             {
                 "nombre": "ESPN CO",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/espn-1/"
             },
             {
-                "nombre": "Ziggo Sports 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28y"
+                "nombre": "ESPN AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuYXI="
             },
             {
-                "nombre": "Disney+",
+                "nombre": "FOX Sports USA",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWZveF8xX3VzYQ=="
+            },
+            {
+                "nombre": "Ziggo Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28x"
             },
             {
                 "nombre": "Sportv",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHY="
+            },
+            {
+                "nombre": "ESPN BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4xYnI="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThhOWFhMDg3YTI4Njg0N2E4NTk4OWU4ZDk4ODU4ODdlLmh0bWw="
+            },
+            {
+                "nombre": "ESPN (Ads)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9lc3BuaGQucGhw"
             }
         ]
-    },
-    {
-        "hora": "14:00",
-        "competición": "Primera División",
-        "equipos": "Progreso vs Miramar Misiones",
-        "canales": []
-    },
-    {
-        "hora": "16:00",
-        "competición": "Amistoso",
-        "equipos": "Georgia vs Islas de Cabo Verde",
-        "canales": []
-    },
-    {
-        "hora": "16:30",
-        "competición": "Copa Chile",
-        "equipos": "Curicó Unido vs Universidad Chile",
-        "canales": []
-    },
-    {
-        "hora": "16:30",
-        "competición": "Copa Chile",
-        "equipos": "Santiago Wanderers vs Antofagasta",
-        "canales": []
-    },
-    {
-        "hora": "18:00",
-        "competición": "Primera División",
-        "equipos": "Juventud vs Racing",
-        "canales": []
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de las Naciones de la UEFA",
-        "equipos": "Portugal vs España",
-        "canales": []
     },
     {
         "hora": "19:00",
         "competición": "Copa Chile",
         "equipos": "Cobreloa vs Deportes Limache",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDU="
+            }
+        ]
     },
     {
         "hora": "21:00",
