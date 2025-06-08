@@ -1,1 +1,106 @@
-[]
+[
+    {
+        "hora": "13:00",
+        "competición": "Liga de las Naciones de la UEFA",
+        "equipos": "Alemania vs Francia",
+        "canales": [
+            {
+                "nombre": "ESPN AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
+            },
+            {
+                "nombre": "ESPN CO",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "Ziggo Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jb2JvLmh0bWw/aWQ9emlnZ28y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "nombre": "Sportv",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly90aW9nb2wuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHY="
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "Primera División",
+        "equipos": "Progreso vs Miramar Misiones",
+        "canales": []
+    },
+    {
+        "hora": "16:00",
+        "competición": "Amistoso",
+        "equipos": "Georgia vs Islas de Cabo Verde",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Copa Chile",
+        "equipos": "Curicó Unido vs Universidad Chile",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Copa Chile",
+        "equipos": "Santiago Wanderers vs Antofagasta",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Primera División",
+        "equipos": "Juventud vs Racing",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de las Naciones de la UEFA",
+        "equipos": "Portugal vs España",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Chile",
+        "equipos": "Cobreloa vs Deportes Limache",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Amistoso",
+        "equipos": "Al Ahly vs Pachuca",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa Chile",
+        "equipos": "Coquimbo Unido vs Unión La Calera",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera División",
+        "equipos": "Nacional vs Boston River",
+        "canales": []
+    },
+    {
+        "hora": "23:10",
+        "competición": "Primera A",
+        "equipos": "Atlético Nacional vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "01:20",
+        "competición": "Primera A",
+        "equipos": "Once Caldas vs Millonarios",
+        "canales": []
+    }
+]
