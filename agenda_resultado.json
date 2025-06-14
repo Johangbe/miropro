@@ -1,53 +1,98 @@
 [
     {
-        "hora": "00:00",
+        "hora": "14:00",
+        "competición": "Primera División",
+        "equipos": "Miramar Misiones vs Juventud",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Primera División",
+        "equipos": "Palestino vs La Serena",
+        "canales": []
+    },
+    {
+        "hora": "17:30",
+        "competición": "Primera División",
+        "equipos": "Boston River vs Danubio",
+        "canales": []
+    },
+    {
+        "hora": "18:15",
         "competición": "Liga 1",
-        "equipos": "Cusco vs Cienciano",
-        "canales": [
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-            }
-        ]
+        "equipos": "Melgar vs Sport Boys",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Universidad Católica vs Huachipato",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LigaPro",
+        "equipos": "Independiente del Valle vs Libertad",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Primera División",
+        "equipos": "Racing vs Nacional",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "Juan Pablo II College vs Los Chankas",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa Colombia",
+        "equipos": "Jaguares FC vs Tigres FC",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "LigaPro",
+        "equipos": "Barcelona vs Manta",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Defensor Sporting vs Liverpool",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Colombia",
+        "equipos": "Real Cartagena vs Internacional",
+        "canales": []
     },
     {
         "hora": "00:00",
-        "competición": "Primera División",
-        "equipos": "Deportes Limache vs Unión La Calera",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            },
-            {
-                "nombre": "MAX | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            },
-            {
-                "nombre": "MAX | OP 3",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm8xLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
-            }
-        ]
+        "competición": "Mundial de Clubes",
+        "equipos": "Al Ahly vs Inter Miami",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Cuniburo vs LDU Quito",
+        "canales": []
     },
     {
         "hora": "01:00",
-        "competición": "Copa Colombia",
-        "equipos": "Boca Juniors vs Bucaramanga",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            }
-        ]
+        "competición": "Liga 1",
+        "equipos": "Alianza Lima vs Sport Huancayo",
+        "canales": []
+    },
+    {
+        "hora": "02:15",
+        "competición": "Copa Oro",
+        "equipos": "México vs República Dominicana",
+        "canales": []
     }
 ]
