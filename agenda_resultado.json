@@ -1,71 +1,18 @@
 [
     {
-        "hora": "22:00",
-        "competición": "Mundial de Clubes",
-        "equipos": "Ulsan vs Mamelodi Sundowns",
-        "canales": [
-            {
-                "nombre": "DirecTV Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/directv-sports/"
-            },
-            {
-                "nombre": "SporTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Primera División",
-        "equipos": "Colo-Colo vs Cobresal",
-        "canales": [
-            {
-                "nombre": "TNT Sports Chile",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Torneo de Reserva",
-        "equipos": "San Martín vs Boca Juniors",
+        "hora": "02:30",
+        "competición": "Copa Oro",
+        "equipos": "Canadá vs Honduras",
         "canales": [
             {
                 "nombre": "ESPN 2 AR",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4yYXI="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Primera División",
-        "equipos": "Wanderers vs Defensor Sporting",
-        "canales": [
-            {
-                "nombre": "GOLTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
             },
             {
-                "nombre": "Disney+",
+                "nombre": "ESPN 2 CO",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
-            }
-        ]
-    },
-    {
-        "hora": "00:15",
-        "competición": "Copa Oro",
-        "equipos": "Curazao vs El Salvador",
-        "canales": [
-            {
-                "nombre": "ESPN 7",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG43"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             },
             {
                 "nombre": "TUDN USA",
@@ -75,7 +22,7 @@
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
             },
             {
                 "nombre": "ESPN NL",
@@ -83,17 +30,5 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
             }
         ]
-    },
-    {
-        "hora": "01:00",
-        "competición": "Mundial de Clubes",
-        "equipos": "Monterrey vs Internazionale",
-        "canales": []
-    },
-    {
-        "hora": "02:30",
-        "competición": "Copa Oro",
-        "equipos": "Canadá vs Honduras",
-        "canales": []
     }
 ]
