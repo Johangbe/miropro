@@ -15,14 +15,14 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXRlbGVmZQ=="
             },
             {
-                "nombre": "Win Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            },
-            {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             },
             {
                 "nombre": "SporTV",
@@ -47,6 +47,11 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
             },
             {
+                "nombre": "DirecTV Sports 2 | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
                 "nombre": "Eventos",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTFhMzg3OWU4Njg0N2E4NTk3OWY4Zjk4OGQ4NS5odG1s"
@@ -57,13 +62,45 @@
         "hora": "21:00",
         "competición": "Primera División",
         "equipos": "Boston River vs Torque",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            },
+            {
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Primera División",
         "equipos": "Cerro Largo vs Plaza Colonia",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            },
+            {
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            }
+        ]
     },
     {
         "hora": "00:00",
