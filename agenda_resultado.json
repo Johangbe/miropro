@@ -1,1 +1,103 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "Auckland City vs Boca Juniors",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/directv-sports/"
+            },
+            {
+                "nombre": "Telefe",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXRlbGVmZQ=="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTFhMzkwOWE4YTg0N2E4NTk3YTA4ODk4ODU4NDdlLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "Benfica vs Bayern München",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTFhMzkwOWE4YTg0N2E4NTk3YTA4Zjk4ODU4NTdiLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Oro",
+        "equipos": "Guadalupe vs Guatemala",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Oro",
+        "equipos": "Panamá vs Jamaica",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera A",
+        "equipos": "Santa Fe vs Medellín",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "ES Tunis vs Chelsea",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "Los Angeles FC vs Flamengo",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Oro",
+        "equipos": "Canadá vs El Salvador",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Oro",
+        "equipos": "Honduras vs Curazao",
+        "canales": []
+    }
+]
