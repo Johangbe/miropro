@@ -3,13 +3,35 @@
         "hora": "19:00",
         "competición": "Mundial de Clubes",
         "equipos": "Borussia Dortmund vs Ulsan",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/directv-sports/"
+            },
+            {
+                "nombre": "SporTV 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjI="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Mundial de Clubes",
         "equipos": "Mamelodi Sundowns vs Fluminense",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "DirecTV Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
+            }
+        ]
     },
     {
         "hora": "22:00",
