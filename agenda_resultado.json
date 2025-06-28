@@ -1,13 +1,47 @@
 [
     {
-        "hora": "16:00",
+        "hora": "19:00",
+        "competición": "LigaPro",
+        "equipos": "Delfin vs Manta",
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistoso",
+        "equipos": "Olimpia vs Racing Club",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
         "competición": "Mundial de Clubes",
-        "equipos": "Palmeiras vs Botafogo",
+        "equipos": "Benfica vs Chelsea",
         "canales": [
             {
                 "nombre": "DirecTV Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/directv-sports/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
             },
             {
                 "nombre": "TD Sports",
@@ -17,26 +51,14 @@
             {
                 "nombre": "Eventos",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTI5ZDg5OWY4ODg0N2E4NTk3YTA4ODk4ODk4YS5odG1s"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTI5ZDhiOTk4Yzg0N2E4NTk4OWU4ODk4ODU4ODdlLmh0bWw="
             }
         ]
     },
     {
-        "hora": "16:00",
-        "competición": "Copa Argentina",
-        "equipos": "Rosario Central vs Unión Santa Fe",
-        "canales": [
-            {
-                "nombre": "TyC Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/tyc-sports/"
-            }
-        ]
-    },
-    {
-        "hora": "18:00",
+        "hora": "20:15",
         "competición": "Liga 1",
-        "equipos": "ADT vs Deportivo Garcilaso",
+        "equipos": "UTC Cajamarca vs Sport Boys",
         "canales": [
             {
                 "nombre": "Liga 1 MAX",
@@ -46,52 +68,55 @@
         ]
     },
     {
-        "hora": "18:00",
-        "competición": "Primera División",
-        "equipos": "Defensor Sporting vs Plaza Colonia",
-        "canales": []
-    },
-    {
-        "hora": "18:00",
-        "competición": "Primera División",
-        "equipos": "Peñarol vs Cerro",
-        "canales": []
-    },
-    {
-        "hora": "19:00",
-        "competición": "LigaPro",
-        "equipos": "Delfin vs Manta",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Mundial de Clubes",
-        "equipos": "Benfica vs Chelsea",
-        "canales": []
-    },
-    {
-        "hora": "20:15",
-        "competición": "Liga 1",
-        "equipos": "UTC Cajamarca vs Sport Boys",
-        "canales": []
-    },
-    {
         "hora": "21:30",
         "competición": "LigaPro",
         "equipos": "Barcelona vs Libertad",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Copa Argentina",
         "equipos": "Gimnasia Mendoza vs Independiente",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Primera División",
         "equipos": "Boston River vs Miramar Misiones",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
+            }
+        ]
     },
     {
         "hora": "23:15",
