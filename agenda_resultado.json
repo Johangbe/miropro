@@ -1,27 +1,49 @@
 [
     {
-        "hora": "15:00",
-        "competición": "Primera División",
-        "equipos": "Liverpool vs Wanderers",
-        "canales": []
-    },
-    {
         "hora": "16:00",
         "competición": "Mundial de Clubes",
         "equipos": "Palmeiras vs Botafogo",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/directv-sports/"
+            },
+            {
+                "nombre": "TD Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTI5ZDg5OWY4ODg0N2E4NTk3YTA4ODk4ODk4YS5odG1s"
+            }
+        ]
     },
     {
         "hora": "16:00",
         "competición": "Copa Argentina",
         "equipos": "Rosario Central vs Unión Santa Fe",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Liga 1",
         "equipos": "ADT vs Deportivo Garcilaso",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
     },
     {
         "hora": "18:00",
