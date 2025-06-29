@@ -1,1 +1,118 @@
-[]
+[
+    {
+        "hora": "16:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "PSG vs Inter Miami",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/directv-sports/"
+            },
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs Comerciantes Unidos",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "LigaPro",
+        "equipos": "Técnico Universitario vs El Nacional",
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "Flamengo vs Bayern München",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Oro",
+        "equipos": "Canadá vs Guatemala",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Argentina",
+        "equipos": "Gimnasia Mendoza vs Independiente",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Alianza Atlético vs Atlético Grau",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "LigaPro",
+        "equipos": "Universidad Católica vs Independiente del Valle",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Oro",
+        "equipos": "EE. UU. vs Costa Rica",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera A",
+        "equipos": "Medellín vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga 1",
+        "equipos": "Cusco vs Alianza Universidad",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "LigaPro",
+        "equipos": "Macará vs Emelec",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Programa",
+        "equipos": "La Casa del Kun con Alexis Mac Allister",
+        "canales": []
+    }
+]
