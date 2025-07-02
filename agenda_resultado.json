@@ -3,25 +3,54 @@
         "hora": "19:00",
         "competición": "Copa Chile",
         "equipos": "Unión La Calera vs Coquimbo Unido",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "Liga 1",
         "equipos": "Juan Pablo II College vs Melgar",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
     },
     {
         "hora": "21:45",
         "competición": "Copa Argentina",
         "equipos": "Racing Club vs San Martín San Juan",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Copa Chile",
         "equipos": "La Serena vs San Luis",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
+            }
+        ]
     },
     {
         "hora": "23:00",
