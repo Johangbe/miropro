@@ -1,1 +1,48 @@
-[]
+[
+    {
+        "hora": "00:00",
+        "competición": "Amistosos",
+        "equipos": "Newell's Old Boys vs Mazatlán",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
+            },
+            {
+                "nombre": "TVC Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10dmNfZGVwb3J0ZXM="
+            }
+        ]
+    },
+    {
+        "hora": "00:15",
+        "competición": "Copa Argentina",
+        "equipos": "Instituto vs Huracán",
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "02:00",
+        "competición": "Amistosos",
+        "equipos": "Cruz Azul vs Once Caldas",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
+            },
+            {
+                "nombre": "TVC Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10dmNfZGVwb3J0ZXM="
+            }
+        ]
+    }
+]
