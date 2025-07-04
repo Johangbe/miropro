@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "Sport Huancayo vs UTC Cajamarca",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "Fluminense vs Al Hilal",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistosos",
+        "equipos": "LeyendAS River vs LeyendAS Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Los Chankas vs ADT",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Libertad vs Deportivo Cuenca",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Mundial de Clubes",
+        "equipos": "Palmeiras vs Chelsea",
+        "canales": []
+    }
+]
