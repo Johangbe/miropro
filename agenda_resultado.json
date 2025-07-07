@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "hora": "20:30",
+        "competición": "Primera División",
+        "equipos": "Sportivo Ameliano vs Atlético Tembetary",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Técnico Universitario vs Orense",
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm81LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVjZGY="
+            }
+        ]
+    }
+]
