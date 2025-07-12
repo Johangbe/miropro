@@ -2,19 +2,225 @@
     {
         "hora": "16:30",
         "competición": "Liga 1",
-        "equipos": "Binacional vs. Melgar",
-        "canales": []
+        "equipos": "Binacional vs Melgar",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Primera División",
+        "equipos": "Sportivo Ameliano vs Cerro Porteño",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
+            }
+        ]
     },
     {
         "hora": "19:00",
-        "competición": "Liga Betplay",
-        "equipos": "Deportivo Pasto vs. Deportes Tolima",
-        "canales": []
+        "competición": "Primera A",
+        "equipos": "Deportivo Pasto vs Deportes Tolima",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Rosario Central vs Godoy Cruz",
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tnt-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Universidad Chile vs Colo-Colo",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1tYXgx"
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "LigaPro",
-        "equipos": "Manta vs. Universidad Católica",
+        "equipos": "Manta vs Universidad Católica",
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lY2Rm"
+            },
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistosos",
+        "equipos": "Birmingham City vs Sevilla",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2"
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "Brasileirão",
+        "equipos": "Flamengo vs São Paulo",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Brasileirão",
+        "equipos": "Internacional vs Vitória",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Universitario vs Los Chankas",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "UTC Cajamarca vs Alianza Lima",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Alianza Atlético vs Sport Boys",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera División",
+        "equipos": "Nacional Asunción vs Guaraní",
+        "canales": []
+    },
+    {
+        "hora": "21:10",
+        "competición": "Primera A",
+        "equipos": "Envigado vs Fortaleza CEIF",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Superliga Argentina",
+        "equipos": "Huracán vs Belgrano",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Superliga Argentina",
+        "equipos": "Gimnasia La Plata vs Instituto",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Vasco da Gama vs Botafogo",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "LigaPro",
+        "equipos": "LDU Quito vs Emelec",
+        "canales": []
+    },
+    {
+        "hora": "23:20",
+        "competición": "Primera A",
+        "equipos": "Atlético Bucaramanga vs Boyacá Chicó",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "League Soccer",
+        "equipos": "Inter Miami vs Nashville SC",
+        "canales": []
+    },
+    {
+        "hora": "23:45",
+        "competición": "Superliga Argentina",
+        "equipos": "Racing Club vs Barracas Central",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Brasileirão",
+        "equipos": "Bahia vs Atlético Mineiro",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Barcelona vs Técnico Universitario",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Toluca vs Necaxa",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Santos Laguna vs Pumas UNAM",
+        "canales": []
+    },
+    {
+        "hora": "01:30",
+        "competición": "Primera A",
+        "equipos": "Deportivo Cali vs Junior",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Cruz Azul vs Mazatlán",
         "canales": []
     }
 ]
