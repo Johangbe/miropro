@@ -1,1 +1,86 @@
-[]
+[
+    {
+        "hora": "16:30",
+        "competición": "Copa Chile",
+        "equipos": "Santiago Wanderers vs La Serena",
+        "canales": [
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Bolívar vs Palestino",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Chile",
+        "equipos": "Audax Italiano vs Curicó Unido",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Brasileirão",
+        "equipos": "Palmeiras vs Mirassol",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Brasileirão",
+        "equipos": "Ceará vs Corinthians",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Brasileirão",
+        "equipos": "Santos vs Flamengo",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "League Soccer",
+        "equipos": "Cincinnati vs Inter Miami",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Alianza Lima vs Grêmio",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "San Antonio Bulo Bulo vs Once Caldas",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Brasileirão",
+        "equipos": "Botafogo vs Vitória",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Brasileirão",
+        "equipos": "RB Bragantino vs São Paulo",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "América vs Tijuana",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Santos Laguna vs Toluca",
+        "canales": []
+    }
+]
