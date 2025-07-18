@@ -1,5 +1,17 @@
 [
     {
+        "hora": "16:00",
+        "competición": "Amistosos",
+        "equipos": "Toulouse vs Queens Park Rangers",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
+            }
+        ]
+    },
+    {
         "hora": "20:00",
         "competición": "Liga Betplay",
         "equipos": "América de Cali vs Atlético Bucaramanga",
@@ -32,5 +44,109 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
             }
         ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera División",
+        "equipos": "General Caballero JLM vs 2 de Mayo",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Superliga Argentina",
+        "equipos": "Boca Juniors vs Unión Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Everton vs Deportes Limache",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga Betplay",
+        "equipos": "Unión Magdalena vs Llaneros",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga 1",
+        "equipos": "Deportivo Garcilaso vs Los Chankas",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Independiente del Valle vs Aucas",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Superliga Argentina",
+        "equipos": "Atlético Tucumán vs Central Córdoba",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Necaxa vs Querétaro",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Liga Betplay",
+        "equipos": "Deportes Tolima vs Santa Fe",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga 1",
+        "equipos": "Universitario vs Comerciantes Unidos",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Atlético San Luis vs Monterrey",
+        "canales": []
+    },
+    {
+        "hora": "03:05",
+        "competición": "Liga MX",
+        "equipos": "Mazatlán vs Puebla",
+        "canales": []
     }
 ]
