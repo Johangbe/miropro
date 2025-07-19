@@ -1,1 +1,92 @@
-[]
+[
+    {
+        "hora": "12:00",
+        "competición": "Amistosos",
+        "equipos": "Schalke 04 vs Twente",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "13:00",
+        "competición": "Amistosos",
+        "equipos": "Grasshopper vs West Ham United",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "Amistosos",
+        "equipos": "Hansa Rostock vs Aston Villa",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "Amistosos",
+        "equipos": "Blackburn Rovers vs Everton",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
+            }
+        ]
+    },
+    {
+        "hora": "16:30",
+        "competición": "Primera División",
+        "equipos": "Unión Española vs Unión La Calera",
+        "canales": [
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
+        "competición": "Primera División",
+        "equipos": "San Lorenzo vs Gimnasia",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "UTC vs Melgar",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Colo Colo vs La Serena",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Betplay",
+        "equipos": "Rionegro Águilas vs Junior",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LigaPro",
+        "equipos": "Universidad Católica vs Cuniburo",
+        "canales": []
+    }
+]
