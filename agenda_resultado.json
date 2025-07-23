@@ -1,22 +1,5 @@
 [
     {
-        "hora": "11:30",
-        "competición": "Amistosos",
-        "equipos": "Arsenal vs Milan",
-        "canales": [
-            {
-                "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
-            }
-        ]
-    },
-    {
         "hora": "15:00",
         "competición": "Brasileirão",
         "equipos": "Atlético Mineiro vs Fortaleza",
@@ -32,19 +15,37 @@
         "hora": "18:00",
         "competición": "Amistosos",
         "equipos": "Valencia vs Leganés",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
     },
     {
         "hora": "18:30",
         "competición": "Amistosos",
         "equipos": "Girona vs Espanyol",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Amistosos",
         "equipos": "Colo Colo vs Real Valladolid",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz"
+            }
+        ]
     },
     {
         "hora": "20:00",
