@@ -1,1 +1,139 @@
-[]
+[
+    {
+        "hora": "11:30",
+        "competición": "Amistosos",
+        "equipos": "Arsenal vs Milan",
+        "canales": [
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "Brasileirão",
+        "equipos": "Atlético Mineiro vs Fortaleza",
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wcmVtaWVyZTE="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Amistosos",
+        "equipos": "Valencia vs Leganés",
+        "canales": []
+    },
+    {
+        "hora": "18:30",
+        "competición": "Amistosos",
+        "equipos": "Girona vs Espanyol",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistosos",
+        "equipos": "Colo Colo vs Real Valladolid",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Ecuador",
+        "equipos": "Rio Aguarico vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera A",
+        "equipos": "Llaneros vs Boyacá Chicó",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Palestino vs Bolívar",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Brasileirão",
+        "equipos": "Fluminense vs Palmeiras",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Brasileirão",
+        "equipos": "Ceará vs Mirassol",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Brasileirão",
+        "equipos": "Corinthians vs Cruzeiro",
+        "canales": []
+    },
+    {
+        "hora": "23:10",
+        "competición": "Primera A",
+        "equipos": "Junior vs Unión Magdalena",
+        "canales": []
+    },
+    {
+        "hora": "00:10",
+        "competición": "Copa Argentina",
+        "equipos": "Boca Juniors vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Grêmio vs Alianza Lima",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Once Caldas vs San Antonio Bulo Bulo",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Brasileirão",
+        "equipos": "Santos vs Internacional",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Brasileirão",
+        "equipos": "RB Bragantino vs Flamengo",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Brasileirão",
+        "equipos": "Vitória vs Sport Recife",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Amistosos",
+        "equipos": "MLS All Stars vs Liga MX All Stars",
+        "canales": []
+    },
+    {
+        "hora": "01:20",
+        "competición": "Primera A",
+        "equipos": "La Equidad vs Millonarios",
+        "canales": []
+    }
+]
