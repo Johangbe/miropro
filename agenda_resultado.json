@@ -5,6 +5,11 @@
         "equipos": "Sporting CP vs Villarreal",
         "canales": [
             {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHZfMXB0"
+            },
+            {
                 "nombre": "Eventos",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
@@ -35,6 +40,11 @@
         "canales": [
             {
                 "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            },
+            {
+                "nombre": "Tigo Sports | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
             }
