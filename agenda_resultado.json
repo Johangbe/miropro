@@ -1,22 +1,5 @@
 [
     {
-        "hora": "10:00",
-        "competición": "Amistosos",
-        "equipos": "Vissel Kobe vs Barcelona",
-        "canales": [
-            {
-                "nombre": "Sportdigital Fußball",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
-            },
-            {
-                "nombre": "CBS Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
-            }
-        ]
-    },
-    {
         "hora": "11:30",
         "competición": "Amistosos",
         "equipos": "Arsenal vs Newcastle United",
@@ -27,10 +10,154 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
             },
             {
-                "nombre": "SSC Sport",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY29iby5odG1sP2lkPVNTQzU="
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
             }
         ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Amistosos",
+        "equipos": "Bochum vs Bayer Leverkusen",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Primera División",
+        "equipos": "O'Higgins vs Colo-Colo",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "Melgar vs Cusco",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "LigaPro",
+        "equipos": "Mushuc Runa vs Técnico Universitario",
+        "canales": []
+    },
+    {
+        "hora": "18:30",
+        "competición": "Primera División",
+        "equipos": "Sportivo Ameliano vs Olimpia",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Gimnasia La Plata vs Independiente",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Talleres Córdoba vs Godoy Cruz",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Palestino vs Unión Española",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Universidad Católica vs Coquimbo Unido",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Brasileirão",
+        "equipos": "Cruzeiro vs Ceará",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Brasileirão",
+        "equipos": "São Paulo vs Fluminense",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Comerciantes Unidos vs Deportivo Garcilaso",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "LigaPro",
+        "equipos": "Macará vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera A",
+        "equipos": "Envigado vs La Equidad",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera División",
+        "equipos": "Atlético Tembetary vs Guaraní",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Superliga Argentina",
+        "equipos": "Huracán vs Boca Juniors",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Internacional vs Vasco da Gama",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Bahia vs Juventude",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Deportes Iquique vs Audax Italiano",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga 1",
+        "equipos": "Alianza Lima vs Alianza Atlético",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "LigaPro",
+        "equipos": "Deportivo Cuenca vs Independiente del Valle",
+        "canales": []
+    },
+    {
+        "hora": "23:20",
+        "competición": "Primera A",
+        "equipos": "Unión Magdalena vs Medellín",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Superliga Argentina",
+        "equipos": "River Plate vs San Lorenzo",
+        "canales": []
+    },
+    {
+        "hora": "01:20",
+        "competición": "Primera A",
+        "equipos": "Fortaleza CEIF vs Alianza Petrolera",
+        "canales": []
     }
 ]
