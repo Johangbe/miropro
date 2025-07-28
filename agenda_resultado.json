@@ -1,17 +1,5 @@
 [
     {
-        "hora": "19:00",
-        "competición": "Superliga Argentina",
-        "equipos": "Deportivo Riestra vs Atlético Tucumán",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/tnt-sports/"
-            }
-        ]
-    },
-    {
         "hora": "21:00",
         "competición": "Superliga Argentina",
         "equipos": "Central Córdoba vs Defensa y Justicia",
@@ -32,6 +20,11 @@
                 "nombre": "TNT Sports Chile",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
             }
         ]
     },
