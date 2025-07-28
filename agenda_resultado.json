@@ -3,36 +3,92 @@
         "hora": "19:00",
         "competición": "Superliga Argentina",
         "equipos": "Deportivo Riestra vs Atlético Tucumán",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tnt-sports/"
+            }
+        ]
     },
     {
         "hora": "21:00",
         "competición": "Superliga Argentina",
         "equipos": "Central Córdoba vs Defensa y Justicia",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN Premium",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-premium/"
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Primera Division",
         "equipos": "Unión La Calera vs Universidad Chile",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Primera A",
         "equipos": "Atlético Bucaramanga vs Deportivo Cali",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Superliga Argentina",
         "equipos": "Banfield vs Barracas Central",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tnt-sports/"
+            }
+        ]
     },
     {
         "hora": "01:10",
         "competición": "Primera A",
         "equipos": "Millonarios vs Llaneros",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
     }
 ]
