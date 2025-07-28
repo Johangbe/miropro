@@ -1,24 +1,38 @@
 [
     {
-        "hora": "01:20",
+        "hora": "19:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Deportivo Riestra vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Central Córdoba vs Defensa y Justicia",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera Division",
+        "equipos": "Unión La Calera vs Universidad Chile",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
         "competición": "Primera A",
-        "equipos": "Fortaleza CEIF vs Alianza Petrolera",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
-            },
-            {
-                "nombre": "Win Play+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
-            }
-        ]
+        "equipos": "Atlético Bucaramanga vs Deportivo Cali",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Banfield vs Barracas Central",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Primera A",
+        "equipos": "Millonarios vs Llaneros",
+        "canales": []
     }
 ]
