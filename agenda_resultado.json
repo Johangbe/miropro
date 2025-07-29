@@ -1,34 +1,5 @@
 [
     {
-        "hora": "18:45",
-        "competición": "Amistosos",
-        "equipos": "Marseille vs Valencia",
-        "canales": [
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Primera División",
-        "equipos": "General Caballero vs Sportivo Trinidense",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
-            },
-            {
-                "nombre": "Tigo Sports | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
-            }
-        ]
-    },
-    {
         "hora": "21:30",
         "competición": "Primera División",
         "equipos": "Sportivo Luqueño vs Nacional Asunción",
@@ -51,14 +22,14 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
             },
             {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
-            },
-            {
                 "nombre": "Win Play+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
             }
         ]
     },
@@ -75,69 +46,169 @@
         ]
     },
     {
+        "hora": "23:00",
+        "competición": "Leagues Cup",
+        "equipos": "Montréal vs León",
+        "canales": [
+            {
+                "nombre": "TSN 1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10c24x"
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Leagues Cup",
+        "equipos": "Toluca vs Columbus Crew",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDU="
+            }
+        ]
+    },
+    {
         "hora": "23:30",
         "competición": "Brasileirão",
         "equipos": "Grêmio vs Fortaleza",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wcmVtaWVyZTE="
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "Copa Centroamericana",
         "equipos": "Hankook Verdes vs Motagua",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "Leagues Cup",
         "equipos": "New York City vs Puebla",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Azteca 7",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3"
+            }
+        ]
     },
     {
         "hora": "00:30",
         "competición": "Copa Colombia",
         "equipos": "Junior vs Atlético Huila",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbGF5Mw=="
+            }
+        ]
     },
     {
         "hora": "00:30",
         "competición": "Copa Colombia",
         "equipos": "Deportes Tolima vs Real Cundinamarca",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbGF5NA=="
+            }
+        ]
     },
     {
         "hora": "01:00",
         "competición": "Leagues Cup",
         "equipos": "Tigres UANL vs Houston Dynamo",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10dWRuX3VzYQ=="
+            }
+        ]
     },
     {
         "hora": "01:20",
         "competición": "Copa Colombia",
         "equipos": "América de Cali vs Tigres",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
     },
     {
         "hora": "02:00",
         "competición": "Copa Centroamericana",
         "equipos": "Deportivo Saprissa vs Cartaginés",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0"
+            }
+        ]
     },
     {
         "hora": "02:00",
         "competición": "Copa Centroamericana",
         "equipos": "Managua vs Antigua GFC",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz"
+            }
+        ]
     },
     {
         "hora": "02:30",
         "competición": "Leagues Cup",
         "equipos": "Los Angeles FC vs Mazatlán",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Azteca 7",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1henRlY2E3"
+            }
+        ]
     },
     {
         "hora": "03:00",
         "competición": "Leagues Cup",
         "equipos": "Pachuca vs San Diego",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "FOX Sports USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfMV91c2E="
+            }
+        ]
     }
 ]
