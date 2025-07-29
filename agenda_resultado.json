@@ -1,23 +1,28 @@
 [
     {
-        "hora": "18:30",
-        "competición": "Copa de la Liga Inglesa",
-        "equipos": "Barnet vs Newport County",
+        "hora": "18:45",
+        "competición": "Amistosos",
+        "equipos": "Marseille vs Valencia",
         "canales": [
             {
-                "nombre": "Disney+",
+                "nombre": "Eventos",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
             }
         ]
     },
     {
         "hora": "19:00",
         "competición": "Primera División",
-        "equipos": "General Caballero JLM vs Sportivo Trinidense",
+        "equipos": "General Caballero vs Sportivo Trinidense",
         "canales": [
             {
                 "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            },
+            {
+                "nombre": "Tigo Sports | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
             }
