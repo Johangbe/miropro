@@ -1,17 +1,5 @@
 [
     {
-        "hora": "11:00",
-        "competición": "Amistosos",
-        "equipos": "K-League Stars vs Newcastle",
-        "canales": [
-            {
-                "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
-            }
-        ]
-    },
-    {
         "hora": "15:30",
         "competición": "Amistosos",
         "equipos": "Al Nassr vs Toulouse",
@@ -44,19 +32,37 @@
         "hora": "16:00",
         "competición": "Amistosos",
         "equipos": "Monaco vs Torino",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
     },
     {
         "hora": "16:00",
         "competición": "Amistosos",
         "equipos": "Strasbourg vs Udinese",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            }
+        ]
     },
     {
         "hora": "16:15",
         "competición": "Amistosos",
         "equipos": "Deportivo Alavés vs Girona",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+            }
+        ]
     },
     {
         "hora": "16:30",
@@ -76,14 +82,14 @@
         "equipos": "Wolfsburg vs Espanyol",
         "canales": [
             {
-                "nombre": "ESPN Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-            },
-            {
                 "nombre": "ESPN NL",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMQ=="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
             }
         ]
     },
@@ -91,6 +97,78 @@
         "hora": "17:30",
         "competición": "Amistosos",
         "equipos": "Fenerbahçe vs Lazio",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "Ayacucho vs Sport Boys",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Amistosos",
+        "equipos": "Estoril vs Nottingham Forest",
+        "canales": [
+            {
+                "nombre": "ESPN 3 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuM214"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Amistosos",
+        "equipos": "Coventry City vs Real Betis",
+        "canales": [
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Copa Argentina",
+        "equipos": "Independiente Rivadavia vs Central Córdoba",
         "canales": []
+    },
+    {
+        "hora": "18:30",
+        "competición": "Amistosos",
+        "equipos": "Wolverhampton Wanderers vs Lens",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Ecuador",
+        "equipos": "Ecuagenera vs Aucasa",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs Sport Huancayo",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
+            }
+        ]
     }
 ]
