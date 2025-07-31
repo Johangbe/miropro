@@ -1,209 +1,16 @@
 [
     {
-        "hora": "22:00",
-        "competición": "Copa do Brasil",
-        "equipos": "CSA vs Vasco da Gama",
-        "canales": [
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wcmVtaWVyZTE="
-            }
-        ]
-    },
-    {
-        "hora": "22:30",
-        "competición": "Copa do Brasil",
-        "equipos": "Bahia vs Retrô",
-        "canales": [
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDQ="
-            }
-        ]
-    },
-    {
-        "hora": "22:30",
-        "competición": "Copa do Brasil",
-        "equipos": "Cruzeiro vs CRB",
-        "canales": [
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDU="
-            }
-        ]
-    },
-    {
-        "hora": "22:30",
-        "competición": "Amistosos",
-        "equipos": "West Ham United vs Everton",
-        "canales": [
-            {
-                "nombre": "ESPN 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0"
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Primera División",
-        "equipos": "Olimpia vs Deportivo Recoleta",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Leagues Cup",
-        "equipos": "Inter Miami vs Atlas",
-        "canales": [
-            {
-                "nombre": "MLS",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM="
-            },
-            {
-                "nombre": "MLS | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Leagues Cup",
-        "equipos": "Necaxa vs Atlanta United",
-        "canales": [
-            {
-                "nombre": "MLS",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Leagues Cup",
-        "equipos": "Pumas UNAM vs Orlando City SC",
-        "canales": [
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10dWRuX3VzYQ=="
-            },
-            {
-                "nombre": "FOX Sports USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfMV91c2E="
-            },
-            {
-                "nombre": "UniMás",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT11bmltYXM="
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Copa Centroamericana",
-        "equipos": "Hércules vs Xelajú",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
-            }
-        ]
-    },
-    {
-        "hora": "00:30",
-        "competición": "Leagues Cup",
-        "equipos": "Minnesota United vs Querétaro",
-        "canales": [
-            {
-                "nombre": "MLS",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
-            }
-        ]
-    },
-    {
-        "hora": "00:30",
-        "competición": "Copa do Brasil",
-        "equipos": "Internacional vs Fluminense",
-        "canales": [
-            {
-                "nombre": "Premiere 2 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wcmVtaWVyZTI="
-            }
-        ]
-    },
-    {
-        "hora": "00:30",
-        "competición": "Copa do Brasil",
-        "equipos": "Corinthians vs Palmeiras",
-        "canales": [
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wcmVtaWVyZTE="
-            }
-        ]
-    },
-    {
-        "hora": "00:30",
-        "competición": "Copa Colombia",
-        "equipos": "Once Caldas vs Patriotas Boyacá",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
-            },
-            {
-                "nombre": "Win Play+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "00:30",
-        "competición": "Amistosos",
-        "equipos": "St. Louis City vs Aston Villa",
-        "canales": [
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDQ="
-            }
-        ]
-    },
-    {
         "hora": "01:30",
         "competición": "Leagues Cup",
         "equipos": "América vs Real Salt Lake",
         "canales": [
             {
                 "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kYXpuZjE="
+            },
+            {
+                "nombre": "Eventos | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDU="
             }
@@ -235,6 +42,11 @@
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk3"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
             }
         ]
     },
@@ -247,6 +59,11 @@
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk4"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
             }
         ]
     },
@@ -259,6 +76,11 @@
                 "nombre": "FOX Sports USA",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfMV91c2E="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
             }
         ]
     }
