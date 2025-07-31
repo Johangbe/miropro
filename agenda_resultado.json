@@ -1,41 +1,5 @@
 [
     {
-        "hora": "16:00",
-        "competición": "Amistosos",
-        "equipos": "Roma vs Cannes",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
-            }
-        ]
-    },
-    {
-        "hora": "17:00",
-        "competición": "Amistosos",
-        "equipos": "Villarreal vs Genoa",
-        "canales": [
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
-            }
-        ]
-    },
-    {
-        "hora": "18:00",
-        "competición": "Liga 1",
-        "equipos": "ADT vs Alianza Universidad",
-        "canales": [
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
-            }
-        ]
-    },
-    {
         "hora": "19:00",
         "competición": "Primera División",
         "equipos": "Guaraní vs Sportivo Ameliano",
@@ -43,7 +7,24 @@
             {
                 "nombre": "Tigo Sports",
                 "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+            },
+            {
+                "nombre": "Tigo Sports | OP 2",
+                "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistosos",
+        "equipos": "Real Oviedo vs Villarreal",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
             }
         ]
     },
@@ -56,6 +37,11 @@
                 "nombre": "Fox Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHM="
+            },
+            {
+                "nombre": "beIN Sports Ñ",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
             }
         ]
     },
@@ -79,6 +65,11 @@
             {
                 "nombre": "Tigo Sports",
                 "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+            },
+            {
+                "nombre": "Tigo Sports | OP 2",
+                "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
             }
         ]
@@ -87,6 +78,118 @@
         "hora": "22:30",
         "competición": "Copa do Brasil",
         "equipos": "São Paulo vs Athletico-PR",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Leagues Cup",
+        "equipos": "Monterrey vs Cincinnati",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Colombia",
+        "equipos": "Medellín vs Jaguares de Córdoba",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "23:30",
+        "competición": "Leagues Cup",
+        "equipos": "Charlotte vs Juárez",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Leagues Cup",
+        "equipos": "Guadalajara vs New York RB",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga 1",
+        "equipos": "Juan Pablo II College vs Alianza Lima",
+        "canales": []
+    },
+    {
+        "hora": "00:10",
+        "competición": "Copa Argentina",
+        "equipos": "Aldosivi vs Argentinos Juniors",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa do Brasil",
+        "equipos": "Flamengo vs Atlético Mineiro",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Copa Colombia",
+        "equipos": "Millonarios vs Real Cartagena",
+        "canales": []
+    },
+    {
+        "hora": "01:30",
+        "competición": "Leagues Cup",
+        "equipos": "Colorado Rapids vs Santos Laguna",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Alajuelense vs Plaza Amador",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga 1",
+        "equipos": "Universitario vs Atlético Grau",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Diriangén vs Municipal",
+        "canales": []
+    },
+    {
+        "hora": "02:30",
+        "competición": "Leagues Cup",
+        "equipos": "Cruz Azul vs Seattle Sounders FC",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Leagues Cup",
+        "equipos": "LA Galaxy vs Tijuana",
         "canales": []
     }
 ]
