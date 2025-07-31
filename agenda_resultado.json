@@ -1,14 +1,92 @@
 [
     {
-        "hora": "11:30",
+        "hora": "16:00",
         "competición": "Amistosos",
-        "equipos": "Arsenal vs Tottenham Hotspur",
+        "equipos": "Roma vs Cannes",
         "canales": [
             {
-                "nombre": "ESPN MX",
+                "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
             }
         ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Amistosos",
+        "equipos": "Villarreal vs Genoa",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "ADT vs Alianza Universidad",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Guaraní vs Sportivo Ameliano",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Super Copa de Portugal",
+        "equipos": "Sporting CP vs Benfica",
+        "canales": [
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Cusco vs Binacional",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera División",
+        "equipos": "Libertad vs Atlético Tembetary",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
+            }
+        ]
+    },
+    {
+        "hora": "22:30",
+        "competición": "Copa do Brasil",
+        "equipos": "São Paulo vs Athletico-PR",
+        "canales": []
     }
 ]
