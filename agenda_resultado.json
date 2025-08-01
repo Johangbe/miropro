@@ -1,39 +1,5 @@
 [
     {
-        "hora": "16:00",
-        "competición": "Amistosos",
-        "equipos": "Augsburg vs Crystal Palace",
-        "canales": [
-            {
-                "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxMw=="
-            }
-        ]
-    },
-    {
-        "hora": "17:00",
-        "competición": "Amistosos",
-        "equipos": "Fortuna Sittard vs Bayer Leverkusen",
-        "canales": [
-            {
-                "nombre": "ESPN 3 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuM214"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxNA=="
-            }
-        ]
-    },
-    {
         "hora": "18:00",
         "competición": "Liga 1",
         "equipos": "Los Chankas vs Comerciantes Unidos",
@@ -47,13 +13,13 @@
     },
     {
         "hora": "19:00",
-        "competición": "Leagues Cup",
-        "equipos": "Luton Town vs AFC Wimbledon",
+        "competición": "Amistosos",
+        "equipos": "Vitória Guimarães vs Celta de Vigo",
         "canales": [
             {
-                "nombre": "Disney+",
+                "nombre": "Sport TV1",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxNg=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHZfMXB0"
             }
         ]
     },
@@ -80,6 +46,12 @@
                 "enlace": "https://librefutboltv.su/tyc-sports/"
             }
         ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Leagues Cup",
+        "equipos": "New York City vs León",
+        "canales": []
     },
     {
         "hora": "23:00",
@@ -122,32 +94,111 @@
     },
     {
         "hora": "23:00",
+        "competición": "Leagues Cup",
+        "equipos": "Columbus Crew vs Puebla",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
         "competición": "Primera División",
         "equipos": "Peñarol vs Progreso",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1nb2x0dg=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxNw=="
+            },
+            {
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
+            }
+        ]
     },
     {
         "hora": "23:45",
         "competición": "Copa Argentina",
         "equipos": "Lanús vs Huracán",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "Liga 1",
         "equipos": "Deportivo Garcilaso vs Cienciano",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "LigaPro",
         "equipos": "Deportivo Cuenca vs Macará",
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lY2Rm"
+            },
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Leagues Cup",
+        "equipos": "Houston Dynamo vs Mazatlán",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Leagues Cup",
+        "equipos": "Toluca vs CF Montréal",
         "canales": []
     },
     {
         "hora": "01:10",
         "competición": "Primera A",
         "equipos": "Deportivo Pasto vs Envigado",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "02:30",
+        "competición": "Leagues Cup",
+        "equipos": "Los Angeles FC vs Pachuca",
         "canales": []
     },
     {
