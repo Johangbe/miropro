@@ -1,41 +1,5 @@
 [
     {
-        "hora": "18:00",
-        "competición": "Liga 1",
-        "equipos": "Los Chankas vs Comerciantes Unidos",
-        "canales": [
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Amistosos",
-        "equipos": "Vitória Guimarães vs Celta de Vigo",
-        "canales": [
-            {
-                "nombre": "Sport TV1",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHZfMXB0"
-            }
-        ]
-    },
-    {
-        "hora": "20:15",
-        "competición": "Liga 1",
-        "equipos": "Alianza Atlético vs Melgar",
-        "canales": [
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
-            }
-        ]
-    },
-    {
         "hora": "21:15",
         "competición": "Copa Argentina",
         "equipos": "Belgrano vs Independiente",
@@ -51,7 +15,18 @@
         "hora": "22:00",
         "competición": "Leagues Cup",
         "equipos": "New York City vs León",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+            },
+            {
+                "nombre": "Eventos | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.top/evntos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTU5YzhmOWU4YTg0N2E4NTk3YTI4ODk4OGM4ZC5odG1s"
+            }
+        ]
     },
     {
         "hora": "23:00",
@@ -59,14 +34,14 @@
         "equipos": "Audax Italiano vs Palestino",
         "canales": [
             {
-                "nombre": "TNT Sports Chile",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
                 "nombre": "MAX",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            },
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
             }
         ]
     },
@@ -96,7 +71,18 @@
         "hora": "23:00",
         "competición": "Leagues Cup",
         "equipos": "Columbus Crew vs Puebla",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDQ="
+            },
+            {
+                "nombre": "Eventos | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.top/evntos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTU5YzhmYTI4Njg0N2E4NTk1OWM4ZDk4ODU4NDdjLmh0bWw="
+            }
+        ]
     },
     {
         "hora": "23:00",
