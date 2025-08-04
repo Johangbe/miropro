@@ -1,24 +1,68 @@
 [
     {
-        "hora": "11:00",
+        "hora": "16:00",
         "competición": "Amistosos",
-        "equipos": "Daegu vs Barcelona",
-        "canales": [
-            {
-                "nombre": "DAZN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
-            },
-            {
-                "nombre": "DAZN | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
-            },
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTU5Zjg3OWU4Njg0N2E4NTk5OWM4ODk4ODUuaHRtbA=="
-            }
-        ]
+        "equipos": "Liverpool vs Athletic Club",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Amistosos",
+        "equipos": "Eintracht Frankfurt vs Bayern Alzenau",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga 1",
+        "equipos": "UTC Cajamarca vs Cusco",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Sportivo Ameliano vs Libertad",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistosos",
+        "equipos": "Sevilla vs Al Quadisiya",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Sport Boys vs ADT",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera División",
+        "equipos": "Deportivo Recoleta vs Guaraní",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Universidad Chile vs Cobresal",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Brasileirão",
+        "equipos": "Santos vs Juventude",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Delfin vs Cuniburo",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga 1",
+        "equipos": "Cienciano vs Los Chankas",
+        "canales": []
     }
 ]
