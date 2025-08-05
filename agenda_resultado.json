@@ -1,54 +1,18 @@
 [
     {
-        "hora": "18:45",
-        "competición": "Amistosos",
-        "equipos": "Nottingham Forest vs Fiorentina",
-        "canales": [
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
-            }
-        ]
-    },
-    {
-        "hora": "18:45",
-        "competición": "Copa de la Liga Inglesa",
-        "equipos": "Accrington Stanley vs Oldham Athletic",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "Liga 1",
-        "equipos": "Melgar vs Juan Pablo II College",
-        "canales": [
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
-            }
-        ]
-    },
-    {
         "hora": "21:00",
         "competición": "Copa Colombia",
         "equipos": "Cúcuta Deportivo vs Atlético Nacional",
         "canales": [
             {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
-            },
-            {
                 "nombre": "Win Sports+ | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            },
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
             },
             {
                 "nombre": "Win Play+",
@@ -65,7 +29,7 @@
             {
                 "nombre": "Tigo Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zOQ=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDQ="
             }
         ]
     },
@@ -147,7 +111,7 @@
     {
         "hora": "01:00",
         "competición": "Copa Colombia",
-        "equipos": "Tigres vs América de Cali",
+        "equipos": "Internacional Palmira vs Santa Fe",
         "canales": [
             {
                 "nombre": "Win Sports+",
@@ -163,18 +127,6 @@
                 "nombre": "Win Play+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzb25saW5lMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "01:00",
-        "competición": "Copa Colombia",
-        "equipos": "Internacional Palmira vs Santa Fe",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
             }
         ]
     },
