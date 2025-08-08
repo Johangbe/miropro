@@ -3,31 +3,66 @@
         "hora": "18:00",
         "competición": "Amistosos",
         "equipos": "Chelsea vs Bayer Leverkusen",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Amistosos",
         "equipos": "Monaco vs Internazionale",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+            }
+        ]
     },
     {
         "hora": "18:00",
         "competición": "Eredivisie",
         "equipos": "Fortuna Sittard vs Go Ahead Eagles",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMQ=="
+            },
+            {
+                "nombre": "ESPN 2 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMg=="
+            }
+        ]
     },
     {
         "hora": "18:30",
         "competición": "Amistosos",
         "equipos": "Newcastle United vs Espanyol",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
+            }
+        ]
     },
     {
         "hora": "18:30",
         "competición": "Amistosos",
         "equipos": "Brentford vs Borussia M'gladbach",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            }
+        ]
     },
     {
         "hora": "19:00",
@@ -42,9 +77,81 @@
         "canales": []
     },
     {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "2 de Mayo vs Sportivo Trinidense",
+        "canales": []
+    },
+    {
         "hora": "19:15",
         "competición": "Primeira Liga",
         "equipos": "Casa Pia vs Sporting CP",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Comerciantes Unidos vs Cienciano",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Primera A",
+        "equipos": "Atlético Nacional vs Alianza",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera División",
+        "equipos": "Cerro Porteño vs Nacional Asunción",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Tigre vs Huracán",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Torque vs Boston River",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Defensor Sporting vs River Plate",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Newell's Old Boys vs Central Córdoba SdE",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Orense vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Superliga Argentina",
+        "equipos": "Lanús vs Talleres Córdoba",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera A",
+        "equipos": "Millonarios vs Deportivo Cali",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Tigres UANL vs Puebla",
         "canales": []
     }
 ]
