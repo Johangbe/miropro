@@ -1,1 +1,367 @@
-[]
+[
+    {
+        "hora": "11:30",
+        "competición": "Bundesliga 2",
+        "equipos": "Bochum vs Elversberg",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
+            }
+        ]
+    },
+    {
+        "hora": "11:30",
+        "competición": "Bundesliga 2",
+        "equipos": "Hertha BSC vs Karlsruher SC",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "11:30",
+        "competición": "Bundesliga 2",
+        "equipos": "Holstein Kiel vs Arminia Bielefeld",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz"
+            }
+        ]
+    },
+    {
+        "hora": "12:30",
+        "competición": "Eredivisie",
+        "equipos": "AZ vs Groningen",
+        "canales": [
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMm14"
+            },
+            {
+                "nombre": "ESPN 3 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMw=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0"
+            }
+        ]
+    },
+    {
+        "hora": "12:30",
+        "competición": "Eredivisie",
+        "equipos": "Ajax vs Telstar",
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMQ=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "FA Community Shield",
+        "equipos": "Crystal Palace vs Liverpool",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2"
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "Primera División",
+        "equipos": "Cerro vs Racing",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk3"
+            },
+            {
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "Amistosos",
+        "equipos": "Chelsea vs Milan",
+        "canales": [
+            {
+                "nombre": "Universo",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vbXBkay5odG1sP2dldD1hSFIwY0hNNkx5OW1jMng1TG5OMGNtVmhiUzV3WldGamIyTnJkSFl1WTI5dEwwTnZiblJsYm5RdlEwMUJSbDlQVERFdFExUlNMVFJ6TFhZeUwweHBkbVV2WTJoaGJtNWxiQ2gxYm1sMlpYSnpieTFsWVhOMEtTOXRZWE4wWlhJdWJYQmsma2V5PVlUUXlOalk1WldGbVpXUTNNelE1TkRrNVlXRmlOMlJtTlRnNFlqTmpZMlk9JmtleTI9TUdaaVptWXhORE5sWW1Rd09UY3dOakJoTXpjM1pUUmhaR1V3TXpNeU9EZz0="
+            },
+            {
+                "nombre": "Universo | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzb191c2E="
+            }
+        ]
+    },
+    {
+        "hora": "14:45",
+        "competición": "Eredivisie",
+        "equipos": "Utrecht vs Heracles",
+        "canales": [
+            {
+                "nombre": "ESPN 2 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMg=="
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "Primera División",
+        "equipos": "Universidad Católica vs Ñublense",
+        "canales": []
+    },
+    {
+        "hora": "15:30",
+        "competición": "Championship",
+        "equipos": "Leicester City vs Sheffield Wednesday",
+        "canales": []
+    },
+    {
+        "hora": "15:30",
+        "competición": "Amistosos",
+        "equipos": "Borussia Dortmund vs Juventus",
+        "canales": []
+    },
+    {
+        "hora": "16:00",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs Melgar",
+        "canales": []
+    },
+    {
+        "hora": "16:00",
+        "competición": "Primeira Liga",
+        "equipos": "Famalicão vs Santa Clara",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Primera División",
+        "equipos": "Everton vs Colo-Colo",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Primera División",
+        "equipos": "Danubio vs Juventud",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primera División",
+        "equipos": "Cartaginés vs Deportivo Saprissa",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Amistosos",
+        "equipos": "Toulouse vs Sevilla",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Amistosos",
+        "equipos": "Almería vs Al Nassr",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Barracas Central vs Aldosivi",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Amistosos",
+        "equipos": "Barcelona vs Como",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "LigaPro",
+        "equipos": "Cuniburo vs Técnico Universitario",
+        "canales": []
+    },
+    {
+        "hora": "18:15",
+        "competición": "Liga 1",
+        "equipos": "Los Chankas vs Atlético Grau",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Cobresal vs Coquimbo Unido",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Brasileirão",
+        "equipos": "Vasco da Gama vs Atlético Mineiro",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Brasileirão",
+        "equipos": "Palmeiras vs Ceará",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Guaraní vs Olimpia",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Wanderers vs Plaza Colonia",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistosos",
+        "equipos": "Villarreal vs Aston Villa",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Primeira Liga",
+        "equipos": "Sporting Braga vs Tondela",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Instituto vs Platense",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Primera A",
+        "equipos": "Envigado vs Junior",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "Juan Pablo II College vs Binacional",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "LigaPro",
+        "equipos": "Macará vs Delfin",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Cruzeiro vs Santos",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera División",
+        "equipos": "Miramar Misiones vs Liverpool",
+        "canales": []
+    },
+    {
+        "hora": "22:10",
+        "competición": "Primera A",
+        "equipos": "Fortaleza CEIF vs Deportivo Pereira",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Argentinos Juniors vs Unión Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "LigaPro",
+        "equipos": "El Nacional vs Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Alajuelense vs Herediano",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Brasileirão",
+        "equipos": "Grêmio vs Sport Recife",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "League Soccer",
+        "equipos": "Orlando City SC vs Inter Miami",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga MX",
+        "equipos": "Pumas UNAM vs Necaxa",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera A",
+        "equipos": "Llaneros vs Medellín",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga MX",
+        "equipos": "Santos Laguna vs Guadalajara",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "MLS",
+        "equipos": "LA Galaxy vs Seattle Sounders",
+        "canales": []
+    }
+]
