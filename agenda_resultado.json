@@ -1,1 +1,92 @@
-[]
+[
+    {
+        "hora": "17:45",
+        "competición": "Primeira Liga",
+        "equipos": "Estoril vs Estrela",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Primeira Liga",
+        "equipos": "Porto vs Vitória Guimarães",
+        "canales": [
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1nb2x0dg=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Alianza Atlético vs UTC Cajamarca",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA=="
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "LigaPro",
+        "equipos": "Emelec vs Deportivo Cuenca",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Defensa y Justicia vs Deportivo Riestra",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Defensor Sporting vs River Plate",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Brasileirão",
+        "equipos": "Juventude vs Corinthians",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Deportes Limache vs Audax Italiano",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga 1",
+        "equipos": "Deportivo Garcilaso vs Alianza Universidad",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "León vs Monterrey",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Juárez vs Toluca",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Atlético San Luis vs Cruz Azul",
+        "canales": []
+    }
+]
