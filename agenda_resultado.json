@@ -3,6 +3,139 @@
         "hora": "17:00",
         "competición": "Amistosos",
         "equipos": "WSG Tirol vs Real Madrid",
+        "canales": [
+            {
+                "nombre": "Real Madrid TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vcm0xLnBocA=="
+            },
+            {
+                "nombre": "TVE La 1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR2bGEx"
+            },
+            {
+                "nombre": "Real Madrid TV | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vcm0yLnBocA=="
+            },
+            {
+                "nombre": "TVE La 1 | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOTY5Yzg4YTE4NDg0N2E4NTk3OWQ4ZTk4OGE4OS5odG1s"
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Copa de la Liga Inglesa",
+        "equipos": "Northampton Town vs Southampton",
+        "canales": [
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wYXJhbW91bnQx"
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Copa de la Liga Inglesa",
+        "equipos": "West Bromwich Albion vs Derby County",
+        "canales": [
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wYXJhbW91bnQy"
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Copa de la Liga Inglesa",
+        "equipos": "Watford vs Norwich City",
+        "canales": [
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1wYXJhbW91bnQz"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa de la Liga Inglesa",
+        "equipos": "Bromley vs Ipswich Town",
+        "canales": [
+            {
+                "nombre": "ESPN 3 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuM214"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistosos",
+        "equipos": "Monza vs Internazionale",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Fortaleza vs Vélez Sarsfield",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Once Caldas vs Huracán",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Atlético Nacional vs São Paulo",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Peñarol vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Independiente del Valle vs Mushuc Runa",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "América de Cali vs Fluminense",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Antigua GFC vs Plaza Amador",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Águila vs Hércules",
         "canales": []
     }
 ]
