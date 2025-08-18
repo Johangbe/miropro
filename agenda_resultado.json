@@ -1,8 +1,148 @@
 [
     {
+        "hora": "16:00",
+        "competición": "Copa de Alemania",
+        "equipos": "Preußen Münster vs Hertha BSC",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Copa de Alemania",
+        "equipos": "Dynamo Dresden vs Mainz 05",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Copa Italiana",
+        "equipos": "Hellas Verona vs Audace Cerignola",
+        "canales": [
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
         "hora": "16:30",
-        "competición": "Copa Italia",
+        "competición": "Copa Italiana",
         "equipos": "Spezia vs Sampdoria",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
+            },
+            {
+                "nombre": "DirecTV Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Copa de Alemania",
+        "equipos": "Rot-Weiss Essen vs Borussia Dortmund",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Copa Italiana",
+        "equipos": "Udinese vs Carrarese",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Premier League",
+        "equipos": "Leeds United vs Everton",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Elche vs Real Betis",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Copa Italiana",
+        "equipos": "Torino vs Modena",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Primeira Liga",
+        "equipos": "Gil Vicente vs Porto",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Sarmiento vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Cerro Largo vs Danubio",
+        "canales": []
+    },
+    {
+        "hora": "22:10",
+        "competición": "Primera A",
+        "equipos": "Junior vs Atlético Bucaramanga",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Brasileirão",
+        "equipos": "Mirassol vs Cruzeiro",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Superliga Argentina",
+        "equipos": "Talleres Córdoba vs San Martín San Juan",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Deportivo Cuenca vs Cuniburo",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera A",
+        "equipos": "Deportivo Pasto vs Medellín",
         "canales": []
     }
 ]
