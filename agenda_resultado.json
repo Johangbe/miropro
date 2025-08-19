@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "hora": "12:00",
+        "competición": "Supercopa de Saudi",
+        "equipos": "Al Nassr vs Al Ittihad",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Real Madrid vs Osasuna",
+        "canales": []
+    }
+]
