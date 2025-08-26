@@ -1,27 +1,5 @@
 [
     {
-        "hora": "16:45",
-        "competición": "Liga de Campeones de la UEFA",
-        "equipos": "Kairat vs Celtic",
-        "canales": [
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-1/"
-            },
-            {
-                "nombre": "Fox Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
-            }
-        ]
-    },
-    {
         "hora": "18:30",
         "competición": "EFL Cup",
         "equipos": "Wolverhampton Wanderers vs West Ham United",
@@ -97,24 +75,145 @@
         "hora": "19:00",
         "competición": "Liga de Campeones de la UEFA",
         "equipos": "Sturm Graz vs Bodø / Glimt",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Liga de Campeones de la UEFA",
         "equipos": "Paphos vs Crvena Zvezda",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "EFL Cup",
         "equipos": "Sheffield Wednesday vs Leeds United",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Caribbean Club Championship",
+        "equipos": "Robin Hood vs Central",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
+            }
+        ]
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa Colombia",
+        "equipos": "Junior vs Atlético Cali",
+        "canales": [
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsYXkx"
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Caribbean Club Championship",
+        "equipos": "Weymouth Wales vs Cibao",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Colombia",
+        "equipos": "Deportivo Pereira vs Real Cundinamarca",
+        "canales": [
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsYXky"
+            }
+        ]
     },
     {
         "hora": "01:10",
         "competición": "Copa Colombia",
-        "equipos": "Real Cartagena vs. Millonarios",
-        "canales": []
+        "equipos": "Real Cartagena vs Millonarios",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
+            }
+        ]
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Deportivo Saprissa vs Motagua",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2"
+            }
+        ]
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Cartaginés vs Independiente",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
+            }
+        ]
     }
 ]
