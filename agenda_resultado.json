@@ -1,1 +1,96 @@
-[]
+[
+    {
+        "hora": "16:45",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Qarabağ vs Ferencváros",
+        "canales": [
+            {
+                "nombre": "ESPN 4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "DFB Pokal",
+        "equipos": "Wehen Wiesbaden vs Bayern München",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Celta de Vigo vs Real Betis",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "EFL Cup",
+        "equipos": "Grimsby Town vs Manchester United",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Club Brugge vs Rangers",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Benfica vs Fenerbahçe",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "København vs Basel",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Torneo de Reserva",
+        "equipos": "River Plate vs San Martín San Juan",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa Colombia",
+        "equipos": "Atlético Bucaramanga vs América de Cali",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Plaza Amador vs Alianza",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Moca vs Mount Pleasant Academy",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Alajuelense vs Antigua GFC",
+        "canales": []
+    }
+]
