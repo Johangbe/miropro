@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "hora": "16:30",
+        "competición": "Copa Paraguay",
+        "equipos": "12 de Octubre vs Guaraní",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Paraguay",
+        "equipos": "Sol de América vs Deportivo Recoleta",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Colombia",
+        "equipos": "Real Cundinamarca vs Deportivo Pereira",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Colombia",
+        "equipos": "Atlético Cali vs Junior",
+        "canales": []
+    }
+]
