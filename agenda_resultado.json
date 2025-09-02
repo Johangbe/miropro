@@ -1,8 +1,8 @@
 [
     {
-        "hora": "16:30",
+        "hora": "19:00",
         "competición": "Copa Paraguay",
-        "equipos": "12 de Octubre vs Guaraní",
+        "equipos": "Sol de América vs Deportivo Recoleta",
         "canales": [
             {
                 "nombre": "Tigo Sports",
@@ -12,21 +12,49 @@
         ]
     },
     {
-        "hora": "19:00",
+        "hora": "21:30",
         "competición": "Copa Paraguay",
-        "equipos": "Sol de América vs Deportivo Recoleta",
-        "canales": []
+        "equipos": "Sportivo Carapeguá vs Atlético Tembetary",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "Copa Colombia",
         "equipos": "Real Cundinamarca vs Deportivo Pereira",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
     },
     {
         "hora": "00:30",
         "competición": "Copa Colombia",
         "equipos": "Atlético Cali vs Junior",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
+            }
+        ]
     }
 ]
