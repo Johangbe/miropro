@@ -1,18 +1,23 @@
 [
     {
-        "hora": "13:00",
+        "hora": "16:00",
         "competición": "Clasificación Mundial",
-        "equipos": "Georgia vs Bulgaria",
+        "equipos": "Lituania vs Países Bajos",
         "canales": [
             {
-                "nombre": "ESPN 4",
+                "nombre": "ESPN 2 CO",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "ESPN 2 AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9RVNQTjJBUg=="
             },
             {
                 "nombre": "FOX Sports USA",
@@ -20,9 +25,9 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF8xX3VzYQ=="
             },
             {
-                "nombre": "ESPN BR",
+                "nombre": "VIX+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4xYnI="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             },
             {
                 "nombre": "Sport TV1",
@@ -32,14 +37,65 @@
         ]
     },
     {
-        "hora": "14:00",
-        "competición": "Primera División",
-        "equipos": "Cerro vs Cerro Largo",
+        "hora": "16:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Macedonia del Norte vs Liechtenstein",
         "canales": [
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "ESPN BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4xYnI="
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Liga Nacional",
+        "equipos": "Aurora vs Malacateco",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbXg="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Primera División",
+        "equipos": "Cobresal vs Palestino",
+        "canales": [
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "TNT Sports Chile | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Primera División",
+        "equipos": "Progreso vs Miramar Misiones",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
             },
             {
                 "nombre": "GOLTV",
@@ -54,70 +110,153 @@
         ]
     },
     {
-        "hora": "16:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Macedonia del Norte vs Liechtenstein",
-        "canales": []
-    },
-    {
-        "hora": "16:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Lituania vs Países Bajos",
-        "canales": []
-    },
-    {
-        "hora": "18:00",
-        "competición": "Primera División",
-        "equipos": "Cobresal vs Palestino",
-        "canales": []
-    },
-    {
-        "hora": "18:30",
-        "competición": "Primera División",
-        "equipos": "Progreso vs Miramar Misiones",
-        "canales": []
-    },
-    {
         "hora": "18:45",
         "competición": "Clasificación Mundial",
         "equipos": "Turquía vs España",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Polonia vs Finlandia",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Bélgica vs Kazajstán",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2 CO",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "ESPN 2 AR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9RVNQTjJBUg=="
+            },
+            {
+                "nombre": "TVE La 1 | Solo España",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS90dmUxLnBocA=="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
+                "nombre": "ESPN BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4xYnI="
+            },
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+            }
+        ]
     },
     {
         "hora": "18:45",
         "competición": "Clasificación Mundial",
         "equipos": "Alemania vs Irlanda del Norte",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "FOX Sports USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF8xX3VzYQ=="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Polonia vs Finlandia",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
+            },
+            {
+                "nombre": "FOX Sports 2 USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF8yX3VzYQ=="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Bélgica vs Kazajstán",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NQ=="
+            }
+        ]
     },
     {
         "hora": "18:45",
         "competición": "Clasificación Mundial",
         "equipos": "Luxemburgo vs Eslovaquia",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Primera A",
         "equipos": "Envigado vs Rionegro Águilas",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Primera División",
         "equipos": "2 de Mayo vs Olimpia",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
+            }
+        ]
     },
     {
         "hora": "21:00",
