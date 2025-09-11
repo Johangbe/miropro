@@ -1,96 +1,38 @@
 [
     {
-        "hora": "21:00",
-        "competición": "Liga Nacional",
-        "equipos": "UPNFM vs Olancho",
-        "canales": [
-            {
-                "nombre": "Deportes TVC",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa de Brasil",
-        "equipos": "Fluminense vs Bahia",
-        "canales": [
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "23:15",
-        "competición": "Liga Nacional",
-        "equipos": "Choloma vs Motagua",
-        "canales": [
-            {
-                "nombre": "Deportes TVC",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Copa Uruguay",
-        "equipos": "Peñarol vs Liverpool",
-        "canales": [
-            {
-                "nombre": "GOLTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "VTV+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbnZpdm9meS5jb20vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Copa Ecuador",
-        "equipos": "Aucas vs Deportivo Cuenca",
-        "canales": []
-    },
-    {
-        "hora": "00:30",
-        "competición": "Primera A",
-        "equipos": "Millonarios vs Deportivo Pasto",
-        "canales": []
-    },
-    {
-        "hora": "00:30",
-        "competición": "Copa de Brasil",
-        "equipos": "Corinthians vs Athletico-PR",
-        "canales": []
-    },
-    {
         "hora": "01:00",
         "competición": "Primera División",
         "equipos": "Puntarenas vs Deportivo Saprissa",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
     },
     {
         "hora": "01:30",
         "competición": "Liga Nacional",
         "equipos": "Real España vs Victoria",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
     },
     {
         "hora": "02:00",
         "competición": "Primera División",
         "equipos": "Cartaginés vs Herediano",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "FUTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZ1dHY="
+            }
+        ]
     }
 ]
