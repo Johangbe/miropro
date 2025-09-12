@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Liga Profesional",
+        "equipos": "Deportivo Riestra vs Central Córdoba",
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tnt-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga1",
+        "equipos": "UTC Cajamarca vs Ayacucho",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Saudi Pro League",
+        "equipos": "Al Ittihad vs Al Fateh",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Bundesliga",
+        "equipos": "Bayer Leverkusen vs Eintracht Frankfurt",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Ligue 1",
+        "equipos": "Olympique Marseille vs Lorient",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Sevilla vs Elche",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Championship",
+        "equipos": "Ipswich Town vs Sheffield United",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Primeira Liga",
+        "equipos": "Benfica vs Santa Clara",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Primeira Liga",
+        "equipos": "Alverca vs Tondela",
+        "canales": []
+    }
+]
