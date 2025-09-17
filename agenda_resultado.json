@@ -3,12 +3,207 @@
         "hora": "16:45",
         "competición": "UEFA Champions League",
         "equipos": "Slavia Praha vs Bodø / Glimt",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+            },
+            {
+                "nombre": "UniMás",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw=="
+            }
+        ]
     },
     {
         "hora": "16:45",
         "competición": "UEFA Champions League",
         "equipos": "Olympiakos Piraeus vs Paphos",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
+            },
+            {
+                "nombre": "TNT Sports 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzNfR0I="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs Alianza Atlético",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Eredivisie",
+        "equipos": "Feyenoord vs Fortuna Sittard",
+        "canales": [
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ]
+    },
+    {
+        "hora": "18:15",
+        "competición": "AFC Champions League",
+        "equipos": "Al Nassr vs Istiqlol",
+        "canales": [
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "PSG vs Atalanta",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Liverpool vs Atlético Madrid",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Bayern München vs Chelsea",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Ajax vs Internazionale",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "EFL Cup",
+        "equipos": "Swansea City vs Nottingham Forest",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa Argentina",
+        "equipos": "Newell's Old Boys vs Belgrano",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Bolívar vs Atlético Mineiro",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Cerro Porteño vs Atlético Tembetary",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Guadalupe vs Municipal Liberia",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Brasileirão",
+        "equipos": "Botafogo vs Mirassol",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa del Caribe",
+        "equipos": "Cavalier vs Defence Force",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "River Plate vs Palmeiras",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Independiente del Valle vs Once Caldas",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Liga 1",
+        "equipos": "Cienciano vs Sport Boys",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Guadalajara vs Tigres UANL",
+        "canales": []
+    },
+    {
+        "hora": "01:30",
+        "competición": "Liga Nacional",
+        "equipos": "Olimpia vs Olancho",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Primera División",
+        "equipos": "Herediano vs Deportivo Saprissa",
         "canales": []
     }
 ]
