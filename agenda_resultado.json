@@ -1,1 +1,93 @@
-[]
+[
+    {
+        "hora": "16:45",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Club Brugge vs Monaco",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
+            },
+            {
+                "nombre": "TNT Sports 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VE5UXzNfR0I="
+            }
+        ]
+    },
+    {
+        "hora": "16:45",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "København vs Bayer Leverkusen",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "Ayacucho vs Cusco",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Newcastle United vs Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Manchester City vs Napoli",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Eintracht Frankfurt vs Galatasaray",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga de Campeones de la UEFA",
+        "equipos": "Sporting CP vs Kairat",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Atlético Grau vs Alianza Universidad",
+        "canales": []
+    }
+]
