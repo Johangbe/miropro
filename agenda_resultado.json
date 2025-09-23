@@ -1,35 +1,18 @@
 [
     {
-        "hora": "22:00",
-        "competición": "Liga Profesional",
-        "equipos": "Estudiantes vs Defensa y Justicia",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-premium/"
-            },
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            }
-        ]
-    },
-    {
         "hora": "00:00",
         "competición": "Liga Profesional",
         "equipos": "Belgrano vs Newell's Old Boys",
         "canales": [
             {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
                 "nombre": "TNT Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/tnt-sports/"
-            },
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
             }
         ]
     },
