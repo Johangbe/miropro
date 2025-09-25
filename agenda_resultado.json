@@ -1,36 +1,163 @@
 [
     {
-        "hora": "03:00",
-        "competición": "Liga MX",
-        "equipos": "Atlético San Luis vs América",
+        "hora": "16:30",
+        "competición": "Copa Italiana",
+        "equipos": "Genoa vs Empoli",
         "canales": [
             {
-                "nombre": "ESPN MX",
+                "nombre": "Win Sports+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
             },
             {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+                "nombre": "Italia 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9SVRBTElBMQ=="
             },
             {
-                "nombre": "VIX+",
+                "nombre": "Win Sports+ | OP 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
             }
         ]
     },
     {
-        "hora": "03:00",
-        "competición": "Liga MX",
-        "equipos": "Santos Laguna vs Tijuana",
+        "hora": "16:45",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Go Ahead Eagles vs FCSB",
         "canales": [
             {
-                "nombre": "VIX+",
+                "nombre": "ESPN 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NQ=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "ESPN 4 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ]
+    },
+    {
+        "hora": "16:45",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Lille vs Brann",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
+        "competición": "LaLiga",
+        "equipos": "Osasuna vs Elche",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Stuttgart vs Celta de Vigo",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Utrecht vs Olympique Lyonnais",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Rangers vs Genk",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Ferencváros vs Viktoria Plzeň",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Young Boys vs Panathinaikos",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Aston Villa vs Bologna",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Europa de la UEFA",
+        "equipos": "Salzburg vs Porto",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Italiana",
+        "equipos": "Torino vs Pisa",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "LaLiga",
+        "equipos": "Real Oviedo vs Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Ayacucho vs Juan Pablo II College",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "São Paulo vs LDU Quito",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga 1",
+        "equipos": "Deportivo Garcilaso vs UTC Cajamarca",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Estudiantes vs Flamengo",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Centroamericana",
+        "equipos": "Cartaginés vs Olimpia",
+        "canales": []
     }
 ]
