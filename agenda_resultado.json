@@ -1,1 +1,159 @@
-[]
+[
+    {
+        "hora": "16:00",
+        "competición": "Liga 1",
+        "equipos": "Alianza Universidad vs Sport Boys",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "18:15",
+        "competición": "Liga 1",
+        "equipos": "ADT vs Alianza Atlético",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Bundesliga",
+        "equipos": "Bayern München vs Werder Bremen",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+            },
+            {
+                "nombre": "ESPN+ | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Ligue 1",
+        "equipos": "Strasbourg vs Olympique Marseille",
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            },
+            {
+                "nombre": "beIN Sports Ñ",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWJlaW5lc3A="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Girona vs Espanyol",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Championship",
+        "equipos": "West Bromwich Albion vs Leicester City",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Primeira Liga",
+        "equipos": "Benfica vs Gil Vicente",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "Atlético Grau vs Sport Huancayo",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Liga Profesional",
+        "equipos": "Banfield vs Unión Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Liga Profesional",
+        "equipos": "Platense vs San Martín San Juan",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Colo-Colo vs Deportes Iquique",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera A",
+        "equipos": "Once Caldas vs Boyacá Chicó",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Wanderers vs Cerro",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Liga Profesional",
+        "equipos": "Central Córdoba SdE vs Tigre",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Juárez vs León",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Primera A",
+        "equipos": "Fortaleza CEIF vs Atlético Bucaramanga",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Primera División",
+        "equipos": "Alajuelense vs Puntarenas",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Puebla vs Guadalajara",
+        "canales": []
+    }
+]
