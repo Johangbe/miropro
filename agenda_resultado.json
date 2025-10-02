@@ -1,362 +1,167 @@
 [
     {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Feyenoord vs Aston Villa",
+        "hora": "21:00",
+        "competición": "Copa Argentina",
+        "equipos": "Racing Club vs River Plate",
         "canales": [
             {
-                "nombre": "ESPN",
+                "nombre": "TyC Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-1/"
+                "enlace": "https://librefutboltv.su/tyc-sports/"
             },
             {
-                "nombre": "Fox Sports MX",
+                "nombre": "TyC Sports | OP 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c214"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1vdmlzdGFybGFsaWdh"
             },
             {
-                "nombre": "Disney+",
+                "nombre": "TyC Sports | OP 3",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
             },
             {
-                "nombre": "TUDN USA",
+                "nombre": "Sport TV1",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            },
-            {
-                "nombre": "UniMás",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw=="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
             }
         ]
     },
     {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Celta de Vigo vs PAOK",
+        "hora": "22:00",
+        "competición": "Copa Paraguay",
+        "equipos": "Sportivo Trinidense vs Nacional Asunción",
         "canales": [
             {
-                "nombre": "ESPN 3",
+                "nombre": "Tigo Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Brasileirão",
+        "equipos": "Vitória vs Ceará",
+        "canales": [
+            {
+                "nombre": "Premiere 4 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlNA=="
+            }
+        ]
+    },
+    {
+        "hora": "22:30",
+        "competición": "Brasileirão",
+        "equipos": "Fortaleza vs São Paulo",
+        "canales": [
+            {
+                "nombre": "Premiere 3 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
+            }
+        ]
+    },
+    {
+        "hora": "23:30",
+        "competición": "Brasileirão",
+        "equipos": "Flamengo vs Cruzeiro",
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa Uruguay",
+        "equipos": "Defensor Sporting vs Central Español",
+        "canales": [
+            {
+                "nombre": "GOLTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWdvbHR2"
             },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
+            },
+            {
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Centroamericana de CONCACAF",
+        "equipos": "Sporting San Miguelito vs Xelajú",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
+            },
+            {
+                "nombre": "Disney+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Liga 1",
+        "equipos": "Melgar vs Cienciano",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "01:00",
+        "competición": "Copa Colombia",
+        "equipos": "Junior vs América de Cali",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Play+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXNvbmxpbmUx"
+            }
+        ]
+    },
+    {
+        "hora": "02:15",
+        "competición": "Copa Centroamericana de CONCACAF",
+        "equipos": "Olimpia vs Cartaginés",
+        "canales": [
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             },
             {
-                "nombre": "ESPN 4 MX",
+                "nombre": "Disney+ | OP 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
             }
         ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Nottingham Forest vs Midtjylland",
-        "canales": [
-            {
-                "nombre": "ESPN 4",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
-            },
-            {
-                "nombre": "ESPN 2 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Sturm Graz vs Rangers",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Maccabi Tel Aviv vs Dinamo Zagreb",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Olympique Lyonnais vs Salzburg",
-        "canales": [
-            {
-                "nombre": "ESPN 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Genk vs Ferencváros",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Basel vs Stuttgart",
-        "canales": [
-            {
-                "nombre": "FOX Sports Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0c3ByZW1pdW0="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Europa de la UEFA",
-        "equipos": "Porto vs Crvena Zvezda",
-        "canales": [
-            {
-                "nombre": "FOX Sports 2 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJteA=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Shelbourne vs Häcken",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Aberdeen vs Shakhtar Donetsk",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Legia Warszawa vs Samsunspor",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Fiorentina vs Sigma Olomouc",
-        "canales": [
-            {
-                "nombre": "FOX Sports 3 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czNteA=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Raków Częstochowa vs CSU Craiova",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "AEK Larnaca vs AZ",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Celje vs AEK Athens",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Sparta Praha vs Shamrock Rovers",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga de Conferencia de la UEFA",
-        "equipos": "Slovan Bratislava vs Strasbourg",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "League One",
-        "equipos": "Rotherham United vs Bradford City",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa Mundial Sub-20",
-        "equipos": "Estados Unidos vs Francia",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa Mundial Sub-20",
-        "equipos": "Colombia vs Noruega",
-        "canales": []
-    },
-    {
-        "hora": "21:00",
-        "competición": "Copa Argentina",
-        "equipos": "Racing Club vs River Plate",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa Paraguay",
-        "equipos": "Sportivo Trinidense vs Nacional Asunción",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Brasileirão",
-        "equipos": "Vitória vs Ceará",
-        "canales": []
-    },
-    {
-        "hora": "22:30",
-        "competición": "Brasileirão",
-        "equipos": "Fortaleza vs São Paulo",
-        "canales": []
-    },
-    {
-        "hora": "23:00",
-        "competición": "Copa Mundial Sub-20",
-        "equipos": "Sur África vs Nueva Caledonia",
-        "canales": []
-    },
-    {
-        "hora": "23:30",
-        "competición": "Brasileirão",
-        "equipos": "Flamengo vs Cruzeiro",
-        "canales": []
-    },
-    {
-        "hora": "23:30",
-        "competición": "Copa Uruguay",
-        "equipos": "Defensor Sporting vs Central Español",
-        "canales": []
-    },
-    {
-        "hora": "00:00",
-        "competición": "Copa Centroamericana de CONCACAF",
-        "equipos": "Sporting San Miguelito vs Xelajú",
-        "canales": []
-    },
-    {
-        "hora": "00:30",
-        "competición": "Liga 1",
-        "equipos": "Melgar vs Cienciano",
-        "canales": []
-    },
-    {
-        "hora": "02:15",
-        "competición": "Copa Centroamericana de CONCACAF",
-        "equipos": "Olimpia vs Cartaginés",
-        "canales": []
     }
 ]
