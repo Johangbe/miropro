@@ -1,19 +1,281 @@
 [
     {
-        "hora": "14:00",
+        "hora": "16:00",
         "competición": "Clasificación Mundial",
-        "equipos": "Kazakhstan vs Liechtenstein",
+        "equipos": "Zimbabue vs Sur África",
         "canales": [
             {
-                "nombre": "ESPN 4",
+                "nombre": "ESPN 3 NL",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwz"
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
+        "competición": "Liga Profesional",
+        "equipos": "San Lorenzo vs San Martín San Juan",
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tnt-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Francia vs Azerbaiyán",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
             },
             {
                 "nombre": "FOX Sports 2 USA",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9mb3gydXMucGhw"
+            },
+            {
+                "nombre": "SporTV | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9U1Ax"
             }
         ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Islandia vs Ucrania",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Alemania vs Luxemburgo",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "Das Erste",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9REFTX0VSU1RF"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Kosovo vs Eslovenia",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "SporTV 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9U1Az"
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Irlanda del Norte vs Eslovaquia",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Suecia vs Suiza",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            },
+            {
+                "nombre": "SporTV 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9U1Ay"
+            },
+            {
+                "nombre": "SporTV 2 | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjI="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Bélgica vs Macedonia del Norte",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "nombre": "La Une BE",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9TEFVTkVfQkU="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            }
+        ]
+    },
+    {
+        "hora": "19:15",
+        "competición": "Liga Profesional",
+        "equipos": "Defensa y Justicia vs Argentinos Juniors",
+        "canales": [
+            {
+                "nombre": "ESPN Premium",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-premium/"
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Liga Profesional",
+        "equipos": "Central Córdoba SdE vs Unión Santa Fe",
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tnt-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "20:30",
+        "competición": "Primera División",
+        "equipos": "Deportivo Recoleta vs Olimpia",
+        "canales": [
+            {
+                "nombre": "Tigo Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Surinam vs Guatemala",
+        "canales": [
+            {
+                "nombre": "Universo",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VU5JVkVSU08="
+            },
+            {
+                "nombre": "Universo | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNvX3VzYQ=="
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Liga Profesional",
+        "equipos": "Newell's Old Boys vs Tigre",
+        "canales": [
+            {
+                "nombre": "ESPN Premium",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-premium/"
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Plaza Colonia vs Progreso",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Curazao vs Jamaica",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Sportivo Trinidense vs General Caballero JLM",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Amistoso",
+        "equipos": "Argentina vs Venezuela",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Amistoso",
+        "equipos": "EE. UU. vs Ecuador",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "El Salvador vs Panamá",
+        "canales": []
     }
 ]
