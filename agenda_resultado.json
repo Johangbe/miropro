@@ -1,145 +1,51 @@
 [
     {
-        "hora": "21:30",
-        "competición": "Liga Profesional",
-        "equipos": "Newell's Old Boys vs Tigre",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/espn-premium/"
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Primera División",
-        "equipos": "Plaza Colonia vs Progreso",
-        "canales": [
-            {
-                "nombre": "VTV+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Bermuda vs Trinidad & Tobago",
-        "canales": [
-            {
-                "nombre": "Paramount+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Amistoso",
-        "equipos": "Chile vs Peru",
-        "canales": [
-            {
-                "nombre": "Movistar Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPW1vdmlzdGFyX2RlcG9ydGVzX3BlcnU="
-            },
-            {
-                "nombre": "Chilevisión",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jaGkucGhw"
-            },
-            {
-                "nombre": "America TV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
-            },
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTE5ZDhhYTA4Njg0N2E4NTk1OWM4ZTk4ODY4NjgzLmh0bWw="
-            },
-            {
-                "nombre": "ATV (Ads)",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9hdHYucGhw"
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Curazao vs Jamaica",
-        "canales": [
-            {
-                "nombre": "ESPN 2 NL",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
-            },
-            {
-                "nombre": "ESPN NL",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Primera División",
-        "equipos": "Sportivo Trinidense vs General Caballero JLM",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NQ=="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Amistoso",
-        "equipos": "Canada vs Australia",
-        "canales": [
-            {
-                "nombre": "TSN 5",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9tcGRrLmh0bWw/Z2V0PWFIUjBjSE02THk5dmRIUmlMbXhwZG1VdVkyWXVkM2N1WVdsMkxXTmtiaTV1WlhRdlpIVmlMVzVwZEhKdkwyeHBkbVV2WkdGemFDOWxibU12YlhSMFoyZ3hZelJsYVM5dmRYUXZkakV2T1dOak5qWTBZakUwTmpjME5HVXlZbUV5TXpBMk5tRmhNRFE0WldaaVl6VXZZMlZ1WXk1dGNHUT0ma2V5PU9HTmxNakJsTW1FMFlqTmtaREEwWlRCaE5tVTFORFk1WWpkallqUTNZbVU9JmtleTI9TVRZell6TXlNMkkyTldRd05UazNZakV6WmpBek56WTBNV1prTmpkaU1XVT0="
-            },
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTE5ZDhhYTI4NDg0N2E4NTk1OWY4YTk4ODY4ODdkLmh0bWw="
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Amistoso",
-        "equipos": "Argentina vs Venezuela",
-        "canales": [
-            {
-                "nombre": "TyC Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/tyc-sports/"
-            }
-        ]
-    },
-    {
         "hora": "00:30",
         "competición": "Amistoso",
         "equipos": "EE. UU. vs Ecuador",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Universo",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VU5JVkVSU08="
+            },
+            {
+                "nombre": "Peacock",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
+                "nombre": "Universo | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTE5ZDhiOWI4YTg0N2E4NTk1YTE4ZTk4ODY4YTgxLmh0bWw="
+            },
+            {
+                "nombre": "ECDF (Ads)",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly9lbGNhbmFsZGVwb3J0aXZvLmNvbS9lY2Z1dGJvbC5waHA="
+            }
+        ]
     },
     {
         "hora": "01:00",
         "competición": "Clasificación Mundial",
         "equipos": "El Salvador vs Panamá",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Canal 4 SV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTE5ZDhiOWQ4ODg0N2E4NTk1YTI4ZTk4ODY4YzdhLmh0bWw="
+            }
+        ]
     }
 ]
