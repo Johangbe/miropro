@@ -1,15 +1,32 @@
 [
     {
+        "hora": "16:00",
+        "competición": "Amistoso",
+        "equipos": "Montenegro vs Liechtenstein",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "FOX Sports 2 USA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9mb3gydXMucGhw"
+            }
+        ]
+    },
+    {
         "hora": "18:00",
         "competición": "Liga 1",
         "equipos": "UTC Cajamarca vs Cienciano",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Irlanda del Norte vs Alemania",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
     },
     {
         "hora": "18:45",
@@ -26,6 +43,24 @@
     {
         "hora": "18:45",
         "competición": "Clasificación Mundial",
+        "equipos": "Irlanda del Norte vs Alemania",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Macedonia del Norte vs Kazajstán",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Ucrania vs Azerbaiyán",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
         "equipos": "Suecia vs Kosovo",
         "canales": []
     },
@@ -33,6 +68,48 @@
         "hora": "18:45",
         "competición": "Clasificación Mundial",
         "equipos": "Eslovenia vs Suiza",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Eslovaquia vs Luxemburgo",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Juan Pablo II College vs Deportivo Garcilaso",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Liga Profesional",
+        "equipos": "Platense vs Deportivo Riestra",
+        "canales": []
+    },
+    {
+        "hora": "22:10",
+        "competición": "Primera A",
+        "equipos": "Once Caldas vs Medellín",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Honduras vs Haití",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera A",
+        "equipos": "Fortaleza CEIF vs Boyacá Chicó",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Costa Rica vs Nicaragua",
         "canales": []
     }
 ]
