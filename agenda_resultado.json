@@ -1,8 +1,94 @@
 [
     {
-        "hora": "16:00",
+        "hora": "18:45",
         "competición": "Clasificación Mundial",
-        "equipos": "Estonia vs Moldavia",
+        "equipos": "España vs Bulgaria",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "RTVE Play",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
+                "nombre": "TVE La 1 | Solo España",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS90dmUxLnBocA=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTFhMDhkYTA4OTg0N2E4NTk4OWQ4ZTk4ODU4NTdmLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Portugal vs Hungría",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NQ=="
+            },
+            {
+                "nombre": "SporTV | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9zcDEucGhw"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTFhMDhkYTA4OTg0N2E4NTk4OWQ4OTk4ODU4NDgzLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Italia vs Israel",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTFhMDhkYTA4OTg0N2E4NTk4OWM4Yzk4ODU4NDdjLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Letonia vs Inglaterra",
         "canales": [
             {
                 "nombre": "ESPN 2",
@@ -10,141 +96,184 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             },
             {
-                "nombre": "Disney+",
+                "nombre": "Virgin Media Two",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS92aXJnaW5tMi5waHA="
+            },
+            {
+                "nombre": "SporTV 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjI="
             },
             {
                 "nombre": "FOX Sports 2 USA",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9mb3gydXMucGhw"
-            }
-        ]
-    },
-    {
-        "hora": "16:00",
-        "competición": "Amistoso",
-        "equipos": "Noruega vs Nueva Zelanda",
-        "canales": [
+            },
+            {
+                "nombre": "SporTV 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9U1Ay"
+            },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            }
-        ]
-    },
-    {
-        "hora": "17:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Qatar vs Emiratos Árabes Unidos",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-            }
-        ]
-    },
-    {
-        "hora": "17:00",
-        "competición": "Amistoso",
-        "equipos": "Russia vs Bolivia",
-        "canales": [
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            },
             {
                 "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTFhMDhkYTA4OTg0N2E4NTk4OWM5MDk4ODU4NDgwLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Turquía vs Georgia",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTFhMDhkYTA4OTg0N2E4NTk4OWU4Nzk4ODU4NTgyLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Andorra vs Serbia",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTFhMDhkYTA4OTg0N2E4NTk4OWM4Nzk4OGQ4Yi5odG1s"
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "República de Irlanda vs Armenia",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTFhMDhkYTA4OTg0N2E4NTk4OWM4YTk4ODU4NDdhLmh0bWw="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Arabia Saudita vs Iraq",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Marruecos vs Congo",
+        "canales": [
+            {
+                "nombre": "ESPN 2 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga 1",
+        "equipos": "Melgar vs Alianza Universidad",
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Curazao vs Trinidad y Tobago",
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Amistoso",
+        "equipos": "Puerto Rico vs Argentina",
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/tyc-sports/"
+            },
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/directv-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Amistoso",
+        "equipos": "Canada vs Colombia",
+        "canales": [
+            {
+                "nombre": "Caracol TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhcmFjb2x0dg=="
+            },
+            {
+                "nombre": "RCN Deportes",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             }
         ]
     },
     {
-        "hora": "17:00",
-        "competición": "Amistoso",
-        "equipos": "Albania vs Jordania",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
-            }
-        ]
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "España vs Bulgaria",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Portugal vs Hungría",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Italia vs Israel",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Letonia vs Inglaterra",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Turquía vs Georgia",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Andorra vs Serbia",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "República de Irlanda vs Armenia",
-        "canales": []
-    },
-    {
-        "hora": "18:45",
-        "competición": "Clasificación Mundial",
-        "equipos": "Arabia Saudita vs Iraq",
-        "canales": []
-    },
-    {
-        "hora": "19:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Marruecos vs Congo",
-        "canales": []
-    },
-    {
-        "hora": "23:00",
-        "competición": "Liga 1",
-        "equipos": "Melgar vs Alianza Universidad",
-        "canales": []
-    },
-    {
-        "hora": "23:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Curazao vs Trinidad y Tobago",
-        "canales": []
-    },
-    {
         "hora": "00:00",
-        "competición": "Amistoso",
-        "equipos": "Puerto Rico vs Argentina",
-        "canales": []
-    },
-    {
-        "hora": "00:00",
-        "competición": "Amistoso",
-        "equipos": "Canada vs Colombia",
+        "competición": "Clasificación Mundial",
+        "equipos": "Panama vs Suriname",
         "canales": []
     },
     {
@@ -157,6 +286,12 @@
         "hora": "01:00",
         "competición": "Amistoso",
         "equipos": "EE. UU. vs Australia",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "El Salvador vs Guatemala",
         "canales": []
     },
     {
