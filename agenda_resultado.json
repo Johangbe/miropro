@@ -1,50 +1,73 @@
 [
     {
-        "hora": "14:00",
-        "competición": "Amistoso",
-        "equipos": "Iran vs Chile",
+        "hora": "16:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Estonia vs Moldavia",
         "canales": [
             {
-                "nombre": "Chilevisión",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jaGkucGhw"
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             },
             {
-                "nombre": "Chilevisión | OP 2",
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "FOX Sports 2 USA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9mb3gydXMucGhw"
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Amistoso",
+        "equipos": "Noruega vs Nueva Zelanda",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Qatar vs Emiratos Árabes Unidos",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Amistoso",
+        "equipos": "Russia vs Bolivia",
+        "canales": [
+            {
+                "nombre": "Eventos",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             }
         ]
     },
     {
-        "hora": "16:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Estonia vs Moldavia",
-        "canales": []
-    },
-    {
-        "hora": "16:00",
-        "competición": "Amistoso",
-        "equipos": "Noruega vs Nueva Zelanda",
-        "canales": []
-    },
-    {
-        "hora": "17:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Qatar vs Emiratos Árabes Unidos",
-        "canales": []
-    },
-    {
-        "hora": "17:00",
-        "competición": "Amistoso",
-        "equipos": "Russia vs Bolivia",
-        "canales": []
-    },
-    {
         "hora": "17:00",
         "competición": "Amistoso",
         "equipos": "Albania vs Jordania",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ]
     },
     {
         "hora": "18:45",
