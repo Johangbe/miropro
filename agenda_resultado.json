@@ -1,33 +1,13 @@
 [
     {
-        "hora": "20:00",
-        "competición": "Copa Mundial Sub-20",
-        "equipos": "Marruecos vs Francia",
+        "hora": "21:00",
+        "competición": "Liga Nacional",
+        "equipos": "Platense vs Victoria",
         "canales": [
             {
-                "nombre": "Universo",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VU5JVkVSU08="
-            },
-            {
-                "nombre": "DirecTV Sports",
+                "nombre": "TVC Deportes",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/directv-sports/"
-            },
-            {
-                "nombre": "SporTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
-            },
-            {
-                "nombre": "TUDN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VFVETk1Y"
-            },
-            {
-                "nombre": "FOX Sports 2 USA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9mb3gydXMucGhw"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             }
         ]
     },
@@ -63,7 +43,7 @@
             {
                 "nombre": "Universo",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VU5JVkVSU08="
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVVOSVZFUlNP"
             },
             {
                 "nombre": "DirecTV Sports",
@@ -71,14 +51,9 @@
                 "enlace": "https://librefutboltv.su/directv-sports/"
             },
             {
-                "nombre": "TyC Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/tyc-sports/"
-            },
-            {
-                "nombre": "TUDN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jb2JvLmh0bWw/aWQ9VFVETk1Y"
+                "nombre": "Chilevisión",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jaGkucGhw"
             },
             {
                 "nombre": "SporTV",
@@ -86,9 +61,24 @@
                 "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
             },
             {
+                "nombre": "TUDN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVRVRE5NWA=="
+            },
+            {
                 "nombre": "FOX Sports 2 USA",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9mb3gydXMucGhw"
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUZPWDJVUw=="
+            },
+            {
+                "nombre": "TSN 5",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVRTTjU="
+            },
+            {
+                "nombre": "CazéTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUNBWkVUVg=="
             }
         ]
     },
@@ -96,13 +86,25 @@
         "hora": "23:00",
         "competición": "Brasileirão",
         "equipos": "Sport Recife vs Ceará",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Brasileirão",
         "equipos": "Mirassol vs Internacional",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
     },
     {
         "hora": "23:20",
