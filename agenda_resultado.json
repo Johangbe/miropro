@@ -3,13 +3,85 @@
         "hora": "16:45",
         "competición": "Liga de Campeones de la UEFA",
         "equipos": "Barcelona vs Olympiakos Piraeus",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Virgin Media Two (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS92aXJnaW5tMi5waHA="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/espn-1/"
+            },
+            {
+                "nombre": "TNT Sports 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVROVF8xX0dC"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "TNT MX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVROVE1Y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu"
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTI5YzhkOWU4NTg0N2E4NTk3OWY4Nzk4OGM4Ny5odG1s"
+            }
+        ]
     },
     {
         "hora": "16:45",
         "competición": "Liga de Campeones de la UEFA",
         "equipos": "Kairat vs Paphos",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPU1BWDI="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "TNT Sports 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVROVF8zX0dC"
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUNCU1NQT1JUUw=="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTI5YzhkOWU4NTg0N2E4NTk3OWY4Yjk4OGM4Yi5odG1s"
+            }
+        ]
     },
     {
         "hora": "19:00",
@@ -51,6 +123,30 @@
         "hora": "19:00",
         "competición": "Liga de Campeones de la UEFA",
         "equipos": "København vs Borussia Dortmund",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Championship",
+        "equipos": "Bristol City vs Southampton",
+        "canales": []
+    },
+    {
+        "hora": "22:15",
+        "competición": "Liga Profesional",
+        "equipos": "Unión Santa Fe vs Defensa y Justicia",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera A",
+        "equipos": "Millonarios vs Atlético Bucaramanga",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Independiente del Valle vs Atlético Mineiro",
         "canales": []
     }
 ]
