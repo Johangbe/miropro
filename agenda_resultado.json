@@ -3,12 +3,178 @@
         "hora": "18:30",
         "competición": "Bundesliga",
         "equipos": "Werder Bremen vs Union Berlin",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVNLWVMyNA=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "SporTV 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjI="
+            },
+            {
+                "nombre": "SporTV 2 | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVNQMg=="
+            }
+        ]
     },
     {
         "hora": "18:45",
         "competición": "Serie A",
         "equipos": "Milan vs Pisa",
+        "canales": [
+            {
+                "nombre": "ESPN 4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            },
+            {
+                "nombre": "beIN Sports 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUJFSU5TMw=="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Ligue 1",
+        "equipos": "Paris vs Nantes",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            },
+            {
+                "nombre": "beIN Sports Ñ",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWJlaW5lc3A="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Premier League",
+        "equipos": "Leeds United vs West Ham United",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Real Sociedad vs Sevilla",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Profesional",
+        "equipos": "Sarmiento vs Rosario Central",
+        "canales": []
+    },
+    {
+        "hora": "19:15",
+        "competición": "Primeira Liga",
+        "equipos": "Alverca vs Gil Vicente",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Juan Pablo II College vs Comerciantes Unidos",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Primera División",
+        "equipos": "Palestino vs Everton",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga Profesional",
+        "equipos": "Independiente vs Platense",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera A",
+        "equipos": "Alianza vs La Equidad",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Primera División",
+        "equipos": "Defensor Sporting vs Torque",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera A",
+        "equipos": "Fortaleza CEIF vs Deportivo Pasto",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "League Soccer",
+        "equipos": "Inter Miami vs Nashville SC",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Orense vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Copa Argentina",
+        "equipos": "Independiente Rivadavia vs River Plate",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Primera A",
+        "equipos": "América de Cali vs Junior",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Primera A",
+        "equipos": "Deportivo Pereira vs Rionegro Águilas",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Juárez vs Puebla",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Mazatlán vs América",
         "canales": []
     }
 ]
