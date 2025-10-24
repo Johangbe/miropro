@@ -5,9 +5,9 @@
         "equipos": "Werder Bremen vs Union Berlin",
         "canales": [
             {
-                "nombre": "ESPN 3",
+                "nombre": "ESPN 5",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
             },
             {
                 "nombre": "Sky Sports",
@@ -52,9 +52,9 @@
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUJFSU5TMw=="
             },
             {
-                "nombre": "ESPN Deportes",
+                "nombre": "FOX Deportes",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
             }
         ]
     },
@@ -79,37 +79,123 @@
         "hora": "19:00",
         "competición": "Premier League",
         "equipos": "Leeds United vs West Ham United",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "USA Network",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVVTQU5FVFdPUks="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/espn-1/"
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            },
+            {
+                "nombre": "Fubo Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUZVQk9TUE9SVFM="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "LaLiga",
         "equipos": "Real Sociedad vs Sevilla",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/directv-sports/"
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "Sky Sports LaLiga",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPVNLWVMxNg=="
+            },
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
+                "nombre": "LaLiga TV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPWxhbGlnYXR2"
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "Liga Profesional",
         "equipos": "Sarmiento vs Rosario Central",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/tnt-sports/"
+            },
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
     },
     {
         "hora": "19:15",
         "competición": "Primeira Liga",
         "equipos": "Alverca vs Gil Vicente",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "Liga 1",
         "equipos": "Juan Pablo II College vs Comerciantes Unidos",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "Primera División",
         "equipos": "Palestino vs Everton",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            },
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            }
+        ]
     },
     {
         "hora": "21:00",
