@@ -1,123 +1,5 @@
 [
     {
-        "hora": "22:00",
-        "competición": "Copa Sudamericana",
-        "equipos": "Universidad Chile vs Lanús",
-        "canales": [
-            {
-                "nombre": "DirecTV Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/directv-sports/"
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/espn-1/"
-            },
-            {
-                "nombre": "ESPN 2 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUVTUE4yTVg="
-            },
-            {
-                "nombre": "ESPN 2 MX | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
-            },
-            {
-                "nombre": "beIN Sports 3",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUJFSU5TMw=="
-            },
-            {
-                "nombre": "beIN Sports Ñ",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWJlaW5lc3A="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa del Caribe",
-        "equipos": "Universidad O&M vs Cibao",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
-            }
-        ]
-    },
-    {
-        "hora": "00:15",
-        "competición": "Copa Argentina",
-        "equipos": "Belgrano vs Argentinos Juniors",
-        "canales": [
-            {
-                "nombre": "TyC Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/directv-sports/"
-            },
-            {
-                "nombre": "TyC Sports | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "00:30",
-        "competición": "Copa Libertadores",
-        "equipos": "LDU Quito vs Palmeiras",
-        "canales": [
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/espn-1/"
-            },
-            {
-                "nombre": "Fox Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "nombre": "ESPN 2 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUVTUE4yTVg="
-            },
-            {
-                "nombre": "ESPN 2 MX | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
-            },
-            {
-                "nombre": "beIN Sports 3",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9wcm8ucGhwP2lkPUJFSU5TMw=="
-            },
-            {
-                "nombre": "ESPN 2 NL",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
-            },
-            {
-                "nombre": "beIN Sports Ñ",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWJlaW5lc3A="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
-            }
-        ]
-    },
-    {
         "hora": "01:00",
         "competición": "Liga 1",
         "equipos": "Sporting Cristal vs Universitario",
@@ -137,7 +19,7 @@
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92aXZvemx5LmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             }
         ]
     }
