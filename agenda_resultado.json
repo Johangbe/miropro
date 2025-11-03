@@ -1,1 +1,114 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Serie A",
+        "equipos": "Sassuolo vs Genoa",
+        "canales": [
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMm14"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+            },
+            {
+                "nombre": "beIN Sports 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1CRUlOUzM="
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "FA Cup",
+        "equipos": "Tamworth vs Leyton Orient",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Lazio vs Cagliari",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Liga Profesional",
+        "equipos": "Defensa y Justicia vs Huracán",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Liga Profesional",
+        "equipos": "Platense vs Sarmiento",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Premier League",
+        "equipos": "Sunderland vs Everton",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Real Oviedo vs Osasuna",
+        "canales": []
+    },
+    {
+        "hora": "20:45",
+        "competición": "Primeira Liga",
+        "equipos": "Gil Vicente vs Santa Clara",
+        "canales": []
+    },
+    {
+        "hora": "21:10",
+        "competición": "Primera A",
+        "equipos": "Envigado vs Millonarios",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Plaza Colonia vs Cerro Largo",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Liga Profesional",
+        "equipos": "Central Córdoba SdE vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "23:20",
+        "competición": "Primera A",
+        "equipos": "América de Cali vs Unión Magdalena",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Libertad vs Independiente del Valle",
+        "canales": []
+    },
+    {
+        "hora": "01:15",
+        "competición": "Liga Profesional",
+        "equipos": "Belgrano vs Tigre",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Liga Profesional",
+        "equipos": "Banfield vs Lanús",
+        "canales": []
+    },
+    {
+        "hora": "01:30",
+        "competición": "Primera A",
+        "equipos": "Deportes Tolima vs Llaneros",
+        "canales": []
+    }
+]
