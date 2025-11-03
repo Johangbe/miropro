@@ -1,53 +1,76 @@
 [
     {
-        "hora": "17:30",
-        "competición": "Serie A",
-        "equipos": "Sassuolo vs Genoa",
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Plaza Colonia vs Cerro Largo",
         "canales": [
-            {
-                "nombre": "ESPN 2 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMm14"
-            },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk4"
             },
             {
-                "nombre": "beIN Sports 3",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1CRUlOUzM="
+                "nombre": "VTV+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
             }
         ]
     },
     {
-        "hora": "19:30",
-        "competición": "FA Cup",
-        "equipos": "Tamworth vs Leyton Orient",
-        "canales": []
-    },
-    {
-        "hora": "19:45",
-        "competición": "Serie A",
-        "equipos": "Lazio vs Cagliari",
+        "hora": "22:00",
+        "competición": "Liga Profesional",
+        "equipos": "Central Córdoba SdE vs Racing Club",
         "canales": [
             {
-                "nombre": "ESPN 3",
+                "nombre": "TNT Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw=="
+                "enlace": "https://librefutboltv.su/es/tnt-sports/"
             },
             {
-                "nombre": "ESPN 2 MX",
+                "nombre": "Fanatiz",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMm14"
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
             }
         ]
     },
     {
-        "hora": "19:45",
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Palestino vs Deportes Limache",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+            },
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Libertad vs Independiente del Valle",
+        "canales": [
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            },
+            {
+                "nombre": "ECDF LigaPro",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lY2Rm"
+            }
+        ]
+    },
+    {
+        "hora": "01:15",
         "competición": "Liga Profesional",
-        "equipos": "Defensa y Justicia vs Huracán",
+        "equipos": "Belgrano vs Tigre",
         "canales": [
             {
                 "nombre": "ESPN Premium",
@@ -57,9 +80,9 @@
         ]
     },
     {
-        "hora": "19:45",
+        "hora": "00:15",
         "competición": "Liga Profesional",
-        "equipos": "Platense vs Sarmiento",
+        "equipos": "Banfield vs Lanús",
         "canales": [
             {
                 "nombre": "TNT Sports",
@@ -67,99 +90,5 @@
                 "enlace": "https://librefutboltv.su/es/tnt-sports/"
             }
         ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "Premier League",
-        "equipos": "Sunderland vs Everton",
-        "canales": [
-            {
-                "nombre": "USA Network",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1VU0FORVRXT1JL"
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/espn-1/"
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "LaLiga",
-        "equipos": "Real Oviedo vs Osasuna",
-        "canales": [
-            {
-                "nombre": "ESPN Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-            },
-            {
-                "nombre": "Sky Sports LaLiga",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTMTY="
-            }
-        ]
-    },
-    {
-        "hora": "20:45",
-        "competición": "Primeira Liga",
-        "equipos": "Gil Vicente vs Santa Clara",
-        "canales": [
-            {
-                "nombre": "GOLTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1nb2x0dg=="
-            }
-        ]
-    },
-    {
-        "hora": "21:10",
-        "competición": "Primera A",
-        "equipos": "Envigado vs Millonarios",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Primera División",
-        "equipos": "Plaza Colonia vs Cerro Largo",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga Profesional",
-        "equipos": "Central Córdoba SdE vs Racing Club",
-        "canales": []
-    },
-    {
-        "hora": "23:20",
-        "competición": "Primera A",
-        "equipos": "América de Cali vs Unión Magdalena",
-        "canales": []
-    },
-    {
-        "hora": "00:00",
-        "competición": "LigaPro",
-        "equipos": "Libertad vs Independiente del Valle",
-        "canales": []
-    },
-    {
-        "hora": "01:15",
-        "competición": "Liga Profesional",
-        "equipos": "Belgrano vs Tigre",
-        "canales": []
-    },
-    {
-        "hora": "00:15",
-        "competición": "Liga Profesional",
-        "equipos": "Banfield vs Lanús",
-        "canales": []
-    },
-    {
-        "hora": "01:30",
-        "competición": "Primera A",
-        "equipos": "Deportes Tolima vs Llaneros",
-        "canales": []
     }
 ]
