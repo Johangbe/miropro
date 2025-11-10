@@ -1,102 +1,8 @@
 [
     {
-        "hora": "21:00",
-        "competición": "Liga Nacional",
-        "equipos": "Deportivo Mixco vs Municipal",
-        "canales": [
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
-            }
-        ]
-    },
-    {
-        "hora": "21:00",
-        "competición": "Liga Nacional",
-        "equipos": "Genesis vs Olimpia",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTNhMzg5OWI4NDg0N2E4NTlhOWU4ODk4ODc4NjgwLmh0bWw="
-            }
-        ]
-    },
-    {
-        "hora": "21:00",
-        "competición": "Primera División",
-        "equipos": "Guaraní vs Libertad",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTNhMzg5OWI4NDg0N2E4NTlhOWU4YTk4ODc4NjgyLmh0bWw="
-            }
-        ]
-    },
-    {
-        "hora": "21:00",
-        "competición": "Primera División",
-        "equipos": "Sportivo Trinidense vs Cerro Porteño",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTNhMzg5OWI4NDg0N2E4NTlhOWU4Yjk4ODc4NjgzLmh0bWw="
-            }
-        ]
-    },
-    {
-        "hora": "21:10",
-        "competición": "Primera A",
-        "equipos": "Alianza vs Boyacá Chicó",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Brasileirão",
-        "equipos": "Flamengo vs Santos",
-        "canales": [
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1wcmVtaWVyZTE="
-            }
-        ]
-    },
-    {
-        "hora": "22:20",
+        "hora": "00:30",
         "competición": "Liga Profesional",
-        "equipos": "Banfield vs Aldosivi",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/espn-premium/"
-            },
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDQ="
-            }
-        ]
-    },
-    {
-        "hora": "22:20",
-        "competición": "Liga Profesional",
-        "equipos": "Sarmiento vs Instituto",
+        "equipos": "Tigre vs Estudiantes",
         "canales": [
             {
                 "nombre": "TNT Sports",
@@ -111,74 +17,26 @@
         ]
     },
     {
-        "hora": "23:00",
-        "competición": "Primera División",
-        "equipos": "Cobresal vs Everton",
+        "hora": "00:30",
+        "competición": "Liga Profesional",
+        "equipos": "Atlético Tucumán vs Godoy Cruz",
         "canales": [
             {
-                "nombre": "TNT Sports Chile",
+                "nombre": "ESPN Premium",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+                "enlace": "https://librefutboltv.su/es/espn-premium/"
             },
             {
-                "nombre": "MAX",
+                "nombre": "Fanatiz",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDQ="
             }
         ]
     },
     {
-        "hora": "23:00",
-        "competición": "LigaPro",
-        "equipos": "Orense vs Barcelona",
-        "canales": [
-            {
-                "nombre": "Zapping Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Liga MX",
-        "equipos": "Santos Laguna vs Pachuca",
-        "canales": [
-            {
-                "nombre": "TUDN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Liga Nacional",
-        "equipos": "Guastatoya vs Antigua",
-        "canales": [
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTNhMzg5YTI4Njg0N2E4NTk1OWQ4YTk4ODc4YjdmLmh0bWw="
-            }
-        ]
-    },
-    {
-        "hora": "23:15",
-        "competición": "Liga Nacional",
-        "equipos": "Motagua vs Choloma",
-        "canales": [
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTNhMzhhOTk4NTg0N2E4NTk1OWU4Nzk4ODc4YzdiLmh0bWw="
-            }
-        ]
-    },
-    {
-        "hora": "23:20",
+        "hora": "01:30",
         "competición": "Primera A",
-        "equipos": "América de Cali vs Unión Magdalena",
+        "equipos": "Santa Fe vs Deportivo Cali",
         "canales": [
             {
                 "nombre": "Win Sports+",
@@ -191,35 +49,5 @@
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
             }
         ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Brasileirão",
-        "equipos": "Fortaleza vs Grêmio",
-        "canales": []
-    },
-    {
-        "hora": "23:30",
-        "competición": "Brasileirão",
-        "equipos": "Mirassol vs Palmeiras",
-        "canales": []
-    },
-    {
-        "hora": "00:30",
-        "competición": "Liga Profesional",
-        "equipos": "Tigre vs Estudiantes",
-        "canales": []
-    },
-    {
-        "hora": "00:30",
-        "competición": "Liga Profesional",
-        "equipos": "Atlético Tucumán vs Godoy Cruz",
-        "canales": []
-    },
-    {
-        "hora": "01:30",
-        "competición": "Primera A",
-        "equipos": "Santa Fe vs Deportivo Cali",
-        "canales": []
     }
 ]
