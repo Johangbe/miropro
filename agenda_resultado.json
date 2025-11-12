@@ -1,1 +1,59 @@
-[]
+[
+    {
+        "hora": "17:00",
+        "competición": "Amistoso",
+        "equipos": "Rusia vs Perú",
+        "canales": [
+            {
+                "nombre": "Movistar Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1tb3Zpc3Rhcl9kZXBvcnRlc19wZXJ1"
+            },
+            {
+                "nombre": "America TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kYXpuZjE="
+            },
+            {
+                "nombre": "Movistar Deportes | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera A",
+        "equipos": "La Equidad vs Deportivo Pereira",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
+            }
+        ]
+    },
+    {
+        "hora": "23:30",
+        "competición": "Brasileirão",
+        "equipos": "Atlético Mineiro vs Fortaleza",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Ecuador",
+        "equipos": "LDU Quito vs Deportivo Cuenca",
+        "canales": []
+    },
+    {
+        "hora": "01:20",
+        "competición": "Primera A",
+        "equipos": "Boyacá Chicó vs Millonarios",
+        "canales": []
+    }
+]
