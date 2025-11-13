@@ -1,34 +1,5 @@
 [
     {
-        "hora": "21:00",
-        "competición": "Primera A",
-        "equipos": "La Equidad vs Deportivo Pereira",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVz"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT13aW5wbHVzMg=="
-            }
-        ]
-    },
-    {
-        "hora": "21:00",
-        "competición": "Liga Nacional",
-        "equipos": "Deportivo Achuapa vs Marquense",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
-            }
-        ]
-    },
-    {
         "hora": "23:30",
         "competición": "Brasileirão",
         "equipos": "Atlético Mineiro vs Fortaleza",
@@ -46,9 +17,14 @@
         "equipos": "LDU Quito vs Deportivo Cuenca",
         "canales": [
             {
-                "nombre": "Zapping Sports",
+                "nombre": "DirecTV Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDI="
+            },
+            {
+                "nombre": "DirecTV Sports | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
             }
         ]
     },
