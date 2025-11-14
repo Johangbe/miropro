@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "hora": "11:00",
+        "competición": "Amistoso",
+        "equipos": "Corea del Sur vs Bolivia",
+        "canales": [
+            {
+                "nombre": "Unitel",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kYXpuZjE="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Amistoso",
+        "equipos": "Angola vs Argentina",
+        "canales": []
+    }
+]
