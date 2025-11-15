@@ -1,1 +1,102 @@
-[]
+[
+    {
+        "hora": "14:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Kazajstán vs Bélgica",
+        "canales": [
+            {
+                "nombre": "La Une BE",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1MQVVORV9CRQ=="
+            },
+            {
+                "nombre": "ESPN 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw=="
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTODA="
+            },
+            {
+                "nombre": "FOX Sports USA | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1GT1gxVVM="
+            },
+            {
+                "nombre": "FOX Sports USA | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfMV91c2E="
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "Amistoso",
+        "equipos": "Rusia vs Chile",
+        "canales": [
+            {
+                "nombre": "Chilevisión",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2hpLnBocA=="
+            },
+            {
+                "nombre": "Chilevisión | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kYXpuZjE="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Amistoso",
+        "equipos": "Brasil vs Senegal",
+        "canales": [
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHR2YnIx"
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMm14"
+            },
+            {
+                "nombre": "SporTV | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TUDE="
+            },
+            {
+                "nombre": "beIN Sports Ñ",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1iZWluZXNw"
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Georgia vs España",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Liechtenstein vs Gales",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Chipre vs Austria",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Clasificación Mundial",
+        "equipos": "Turquía vs Bulgaria",
+        "canales": []
+    }
+]
