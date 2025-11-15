@@ -1,58 +1,14 @@
 [
     {
-        "hora": "14:00",
-        "competición": "Clasificación Mundial",
-        "equipos": "Kazajstán vs Bélgica",
-        "canales": [
-            {
-                "nombre": "La Une BE",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1MQVVORV9CRQ=="
-            },
-            {
-                "nombre": "ESPN 3",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMw=="
-            },
-            {
-                "nombre": "Sky Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTODA="
-            },
-            {
-                "nombre": "FOX Sports USA | OP 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1GT1gxVVM="
-            },
-            {
-                "nombre": "FOX Sports USA | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1mb3hfMV91c2E="
-            }
-        ]
-    },
-    {
-        "hora": "15:00",
-        "competición": "Amistoso",
-        "equipos": "Rusia vs Chile",
-        "canales": [
-            {
-                "nombre": "Chilevisión",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2hpLnBocA=="
-            },
-            {
-                "nombre": "Chilevisión | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kYXpuZjE="
-            }
-        ]
-    },
-    {
         "hora": "16:00",
         "competición": "Amistoso",
         "equipos": "Brasil vs Senegal",
         "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0"
+            },
             {
                 "nombre": "SporTV",
                 "calidad": "Calidad 720p",
@@ -79,24 +35,228 @@
         "hora": "17:00",
         "competición": "Clasificación Mundial",
         "equipos": "Georgia vs España",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk4"
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDM="
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTODA="
+            },
+            {
+                "nombre": "TVE La 1 | Solo España",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vdHZlMS5waHA="
+            },
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTQ5ZTg5OWY4NDg0N2E4NTk4OWU4OTk4ODU4ZDdlLmh0bWw="
+            }
+        ]
     },
     {
         "hora": "17:00",
         "competición": "Clasificación Mundial",
         "equipos": "Liechtenstein vs Gales",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk3"
+            },
+            {
+                "nombre": "SporTV 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHR2YnIz"
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTODM="
+            },
+            {
+                "nombre": "SporTV 3 | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TUDM="
+            }
+        ]
     },
     {
         "hora": "17:00",
         "competición": "Clasificación Mundial",
         "equipos": "Chipre vs Austria",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2"
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDQ="
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTODI="
+            }
+        ]
     },
     {
         "hora": "17:00",
         "competición": "Clasificación Mundial",
         "equipos": "Turquía vs Bulgaria",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1"
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDU="
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTODE="
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
+        "competición": "Fútbol Sala",
+        "equipos": "América Del Sud vs River Plate",
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/tyc-sports/"
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Eslovenia vs Kosovo",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Dinamarca vs Bielorrusia",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Bosnia-Herzegovina vs Rumania",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Grecia vs Escocia",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Clasificación Mundial",
+        "equipos": "Suiza vs Suecia",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga Profesional",
+        "equipos": "Godoy Cruz vs Deportivo Riestra",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga Profesional",
+        "equipos": "Aldosivi vs San Martín San Juan",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga Nacional",
+        "equipos": "Cobán Imperial vs Malacateco",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Sport Recife vs Flamengo",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Amistoso",
+        "equipos": "EE. UU. vs Paraguay",
+        "canales": []
+    },
+    {
+        "hora": "22:15",
+        "competición": "Liga Profesional",
+        "equipos": "San Lorenzo vs Sarmiento",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga Nacional",
+        "equipos": "Municipal vs Guastatoya",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Brasileirão",
+        "equipos": "Santos vs Palmeiras",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Amistoso",
+        "equipos": "Colombia vs Nueva Zelanda",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Liga Profesional",
+        "equipos": "Independiente vs Rosario Central",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Amistoso",
+        "equipos": "México vs Uruguay",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga Nacional",
+        "equipos": "Marquense vs Mixco",
+        "canales": []
+    },
+    {
+        "hora": "02:30",
+        "competición": "Amistoso",
+        "equipos": "LA Galaxy vs Club América",
         "canales": []
     }
 ]
