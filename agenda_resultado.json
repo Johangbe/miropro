@@ -1,25 +1,35 @@
 [
     {
-        "hora": "01:30",
-        "competición": "Liga Nacional",
-        "equipos": "Victoria vs Policía Nacional",
+        "hora": "11:15",
+        "competición": "Eredivisie",
+        "equipos": "Heerenveen vs AZ",
         "canales": [
             {
-                "nombre": "TVC Deportes",
+                "nombre": "ESPN 2 NL",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDU="
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMg=="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMm14"
             }
         ]
     },
     {
-        "hora": "02:00",
-        "competición": "Primera División",
-        "equipos": "Deportivo Saprissa vs Herediano",
+        "hora": "11:30",
+        "competición": "Serie A",
+        "equipos": "Hellas Verona vs Parma",
         "canales": [
             {
-                "nombre": "FUTV",
+                "nombre": "ESPN",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1mdXR2"
+                "enlace": "https://librefutboltv.su/es/espn-1/"
+            },
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
             }
         ]
     }
