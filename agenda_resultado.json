@@ -64,24 +64,29 @@
                 "enlace": "https://librefutboltv.su/es/espn-1/"
             },
             {
+                "nombre": "Telemundo | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            },
+            {
                 "nombre": "Fubo Sports",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1GVUJPU1BPUlRT"
             },
             {
-                "nombre": "Telemundo | OP 2",
+                "nombre": "Telemundo | OP 3",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG91c2E="
-            },
-            {
-                "nombre": "USA Network",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT11c2FfbmV0d29yaw=="
             },
             {
                 "nombre": "TNT Sports 1",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1UTlRfMV9HQg=="
+            },
+            {
+                "nombre": "USA Network",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT11c2FfbmV0d29yaw=="
             }
         ]
     },
@@ -89,19 +94,62 @@
         "hora": "13:00",
         "competición": "LaLiga",
         "equipos": "Real Sociedad vs Villarreal",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA=="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1jYW5hbDVteA=="
+            },
+            {
+                "nombre": "Sky Sports LaLiga",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1TS1lTMTY="
+            },
+            {
+                "nombre": "LaLiga TV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vcHJvLnBocD9pZD1sYWxpZ2F0dg=="
+            }
+        ]
     },
     {
         "hora": "13:30",
         "competición": "Eredivisie",
         "equipos": "Telstar vs Feyenoord",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 3 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMw=="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuMm14"
+            }
+        ]
     },
     {
         "hora": "13:30",
         "competición": "Eredivisie",
         "equipos": "Go Ahead Eagles vs Utrecht",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMQ=="
+            }
+        ]
     },
     {
         "hora": "14:00",
@@ -143,6 +191,60 @@
         "hora": "15:15",
         "competición": "LaLiga",
         "equipos": "Sevilla vs Real Betis",
+        "canales": []
+    },
+    {
+        "hora": "15:30",
+        "competición": "Primeira Liga",
+        "equipos": "Rio Ave vs Santa Clara",
+        "canales": []
+    },
+    {
+        "hora": "15:45",
+        "competición": "Eredivisie",
+        "equipos": "Twente vs AZ",
+        "canales": []
+    },
+    {
+        "hora": "16:15",
+        "competición": "Ligue 1",
+        "equipos": "Le Havre vs Lille",
+        "canales": []
+    },
+    {
+        "hora": "16:15",
+        "competición": "Ligue 1",
+        "equipos": "Angers SCO vs Lens",
+        "canales": []
+    },
+    {
+        "hora": "16:15",
+        "competición": "Ligue 1",
+        "equipos": "Lorient vs Nice",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Premier League",
+        "equipos": "Chelsea vs Arsenal",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Bundesliga",
+        "equipos": "Eintracht Frankfurt vs Wolfsburg",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Serie A",
+        "equipos": "Atalanta vs Fiorentina",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primera División",
+        "equipos": "Cartaginés vs Alajuelense",
         "canales": []
     }
 ]
