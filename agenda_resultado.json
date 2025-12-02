@@ -1,14 +1,134 @@
 [
     {
-        "hora": "13:30",
-        "competición": "Eredivisie",
-        "equipos": "Ajax vs Groningen",
+        "hora": "17:00",
+        "competición": "DFB Pokal",
+        "equipos": "Borussia M'gladbach vs St. Pauli",
         "canales": [
             {
-                "nombre": "ESPN NL",
+                "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9saWJyZS5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BuX25sMQ=="
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky"
             }
         ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "DFB Pokal",
+        "equipos": "Hertha BSC vs Kaiserslautern",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Copa del Rey",
+        "equipos": "Numancia vs Mallorca",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czI="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Copa del Rey",
+        "equipos": "Portugalete vs Deportivo Alavés",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czM="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Copa del Rey",
+        "equipos": "Ebro vs Osasuna",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Premier League",
+        "equipos": "Fulham vs Manchester City",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Premier League",
+        "equipos": "AFC Bournemouth vs Everton",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Barcelona vs Atlético Madrid",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Italiana",
+        "equipos": "Juventus vs Udinese",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "DFB Pokal",
+        "equipos": "Borussia Dortmund vs Bayer Leverkusen",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Navalcarnero vs Getafe",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "DFB Pokal",
+        "equipos": "RB Leipzig vs Magdeburg",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Premier League",
+        "equipos": "Newcastle United vs Tottenham Hotspur",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera División",
+        "equipos": "Universidad Chile vs Coquimbo Unido",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa Caribe de la Concacaf",
+        "equipos": "Cibao vs Defence Force",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Brasileirão",
+        "equipos": "Vasco da Gama vs Mirassol",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Brasileirão",
+        "equipos": "Grêmio vs Fluminense",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs Alianza Lima",
+        "canales": []
     }
 ]
