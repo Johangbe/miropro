@@ -1,1 +1,148 @@
-[]
+[
+    {
+        "hora": "17:00",
+        "competición": "Copa Italiana",
+        "equipos": "Bologna vs Parma",
+        "canales": [
+            {
+                "nombre": "Italia 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUlUQUxJQTE="
+            },
+            {
+                "nombre": "DirecTV Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1ldmVudDE="
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUNCU1NQT1JUUw=="
+            },
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1wYXJhbW91bnQx"
+            }
+        ]
+    },
+    {
+        "hora": "17:15",
+        "competición": "Copa de la Liga",
+        "equipos": "Porto vs Vitória Guimarães",
+        "canales": [
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHZfMXB0"
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Copa del Rey",
+        "equipos": "Atlético Baleares vs Espanyol",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czE="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Copa del Rey",
+        "equipos": "Real Ávila vs Rayo Vallecano",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czI="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Copa del Rey",
+        "equipos": "Leganés vs Albacete",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czM="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Copa del Rey",
+        "equipos": "Sabadell vs Deportivo La Coruña",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czQ="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Premier League",
+        "equipos": "Manchester United vs West Ham United",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Italiana",
+        "equipos": "Lazio vs Milan",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Extremadura 1924 vs Sevilla",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Real Zaragoza vs Burgos",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Sant Andreu vs Celta de Vigo",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Cartagena vs Valencia",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa del Rey",
+        "equipos": "Tenerife vs Granada",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Brasileirão",
+        "equipos": "Cruzeiro vs Botafogo",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Primera A",
+        "equipos": "Atlético Nacional vs Medellín",
+        "canales": []
+    }
+]
