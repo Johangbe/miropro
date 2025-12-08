@@ -1,1 +1,107 @@
-[]
+[
+    {
+        "hora": "14:00",
+        "competición": "Serie A",
+        "equipos": "Pisa vs Parma",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/espn-1/"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Serie A",
+        "equipos": "Udinese vs Genoa",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/espn-1/"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            },
+            {
+                "nombre": "beIN Sports 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUJFSU5TMw=="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Torino vs Milan",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Osasuna vs Levante",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Premier League",
+        "equipos": "Wolverhampton Wanderers vs Manchester United",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Primera Division",
+        "equipos": "Gimnasia La Plata vs Estudiantes",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Primera A",
+        "equipos": "Deportes Tolima vs Fortaleza CEIF",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Primeira Liga",
+        "equipos": "Vitória Guimarães vs Gil Vicente",
+        "canales": []
+    },
+    {
+        "hora": "22:15",
+        "competición": "Primera A",
+        "equipos": "América de Cali vs Atlético Nacional",
+        "canales": []
+    },
+    {
+        "hora": "22:15",
+        "competición": "Primera A",
+        "equipos": "Medellín vs Junior",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Emelec vs Macará",
+        "canales": []
+    },
+    {
+        "hora": "00:20",
+        "competición": "Primera A",
+        "equipos": "Santa Fe vs Atlético Bucaramanga",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga Nacional",
+        "equipos": "Xelajú vs Antigua GFC",
+        "canales": []
+    }
+]
