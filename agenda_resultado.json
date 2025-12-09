@@ -1,1 +1,77 @@
-[]
+[
+    {
+        "hora": "15:30",
+        "competición": "UEFA Champions League",
+        "equipos": "Kairat vs Olympiakos Piraeus",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/espn-1/"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPU1BWDE="
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUNCU1NQT1JUUw=="
+            }
+        ]
+    },
+    {
+        "hora": "17:45",
+        "competición": "UEFA Champions League",
+        "equipos": "Bayern München vs Sporting CP",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Barcelona vs Eintracht Frankfurt",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Inter vs Liverpool",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Tottenham Hotspur vs Slavia Praha",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "PSV vs Atlético Madrid",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Atalanta vs Chelsea",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Union Saint-Gilloise vs Olympique Marseille",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Monaco vs Galatasaray",
+        "canales": []
+    }
+]
