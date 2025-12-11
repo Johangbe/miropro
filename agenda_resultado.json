@@ -1,39 +1,5 @@
 [
     {
-        "hora": "22:00",
-        "competición": "LigaPro",
-        "equipos": "Independiente del Valle vs LDU Quito",
-        "canales": [
-            {
-                "nombre": "Zapping Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Copa Chile",
-        "equipos": "Huachipato vs Deportivo Limache",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-            },
-            {
-                "nombre": "MAX | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
-            },
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTZhMDg3YTA4YTg0N2E4NTk4YTM4OTk4ODU4YTgxLmh0bWw="
-            }
-        ]
-    },
-    {
         "hora": "00:30",
         "competición": "Copa do Brasil",
         "equipos": "Cruzeiro vs Corinthians",
@@ -86,14 +52,14 @@
         "equipos": "Sporting Cristal vs Cusco",
         "canales": [
             {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-            },
-            {
                 "nombre": "Fanatiz",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            },
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
             },
             {
                 "nombre": "Eventos",
