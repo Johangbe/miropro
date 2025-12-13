@@ -203,14 +203,14 @@
         "equipos": "Junior vs Deportes Tolima",
         "canales": [
             {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            },
-            {
                 "nombre": "Fanatiz",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            },
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
             },
             {
                 "nombre": "Win Sports+ | OP 2",
@@ -274,8 +274,19 @@
     {
         "hora": "00:30",
         "competición": "WWE",
-        "equipos": "John Cena: Final Match",
-        "canales": []
+        "equipos": "John Cena: Final Match - Ultima Pelea",
+        "canales": [
+            {
+                "nombre": "Peacock TV | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBlYWNvY2sx"
+            },
+            {
+                "nombre": "Peacock TV | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBlYWNvY2sy"
+            }
+        ]
     },
     {
         "hora": "01:00",
@@ -293,6 +304,12 @@
         "hora": "02:00",
         "competición": "Primera División",
         "equipos": "Alajuelense vs Municipal Liberia",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "FUTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZ1dHY="
+            }
+        ]
     }
 ]
