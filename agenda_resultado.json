@@ -1,113 +1,5 @@
 [
     {
-        "hora": "18:30",
-        "competición": "Bundesliga",
-        "equipos": "Werder Bremen vs Stuttgart",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
-            },
-            {
-                "nombre": "Sky Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNLWVMyNA=="
-            }
-        ]
-    },
-    {
-        "hora": "19:45",
-        "competición": "Serie A",
-        "equipos": "Bologna vs Juventus",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
-            },
-            {
-                "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
-            },
-            {
-                "nombre": "Fubo Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUZVQk9TUE9SVFM="
-            }
-        ]
-    },
-    {
-        "hora": "19:45",
-        "competición": "Ligue 1",
-        "equipos": "Olympique Marseille vs Monaco",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "beIN Sports Ñ",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWJlaW5lc3A="
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "LaLiga",
-        "equipos": "Deportivo Alavés vs Real Madrid",
-        "canales": [
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/espn-1/"
-            },
-            {
-                "nombre": "ESPN+ | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
-            },
-            {
-                "nombre": "Premier Sports 1",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVBSRU1JRVJfU1BPUlRTXzE="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkxMw=="
-            },
-            {
-                "nombre": "ESPN Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9zdHJlYW10cGNsb3VkLmNvbS9nbG9iYWwxLnBocD9zdHJlYW09ZXNwbmRlcG9ydGVz"
-            },
-            {
-                "nombre": "LaLiga TV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPWxhbGlnYXR2"
-            },
-            {
-                "nombre": "Sky Sports LaLiga",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1za3lfc3BvcnRzX2xhbGlnYQ=="
-            },
-            {
-                "nombre": "beIN Sports 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUJFSU5TMg=="
-            },
-            {
-                "nombre": "Eventos",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThjOTZhMzhiOWI4ODg0N2E4NTk5OWY4ZTk4ODc4NDdiLmh0bWw="
-            }
-        ]
-    },
-    {
         "hora": "20:30",
         "competición": "Primeira Liga",
         "equipos": "Arouca vs Alverca",
@@ -242,12 +134,74 @@
         "hora": "23:30",
         "competición": "Copa do Brasil",
         "equipos": "Fluminense vs Vasco da Gama",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
+            },
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/directv-sports/"
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Premier Sports 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVBSRU1JRVJfU1BPUlRTXzE="
+            },
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            },
+            {
+                "nombre": "SporTV | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNQMQ=="
+            }
+        ]
     },
     {
         "hora": "01:00",
         "competición": "Liga MX",
         "equipos": "Toluca vs Tigres UANL",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Azteca 7",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUFaVEVDQTc="
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNW14"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Univisión",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbl91c2E="
+            },
+            {
+                "nombre": "Azteca 7 | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
+            }
+        ]
     }
 ]
