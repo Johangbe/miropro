@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Primeira Liga",
+        "equipos": "Nacional vs Tondela",
+        "canales": [
+            {
+                "nombre": "Sport TV2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Primeira Liga",
+        "equipos": "Sporting Braga vs Santa Clara",
+        "canales": [
+            {
+                "nombre": "Sport TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/es/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Roma vs Como",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Rayo Vallecano vs Real Betis",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Premier League",
+        "equipos": "Manchester United vs AFC Bournemouth",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Championship",
+        "equipos": "Sheffield Wednesday vs Derby County",
+        "canales": []
+    },
+    {
+        "hora": "20:45",
+        "competición": "Primeira Liga",
+        "equipos": "Porto vs Estrela",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Emelec vs El Nacional",
+        "canales": []
+    }
+]
