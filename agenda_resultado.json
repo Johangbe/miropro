@@ -1,18 +1,6 @@
 [
     {
-        "hora": "17:30",
-        "competición": "Copa Africana de Naciones",
-        "equipos": "Nigeria vs Tanzania",
-        "canales": [
-            {
-                "nombre": "Win Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            }
-        ]
-    },
-    {
-        "hora": "18:45",
+        "hora": "19:00",
         "competición": "Copa de Portugal",
         "equipos": "Caldas vs Sporting Braga",
         "canales": [
@@ -32,24 +20,41 @@
         "hora": "20:00",
         "competición": "EFL Cup",
         "equipos": "Arsenal vs Crystal Palace",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa Africana de Naciones",
-        "equipos": "Túnez vs Uganda",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            }
+        ]
     },
     {
         "hora": "20:45",
         "competición": "Primeira Liga",
         "equipos": "Vitória Guimarães vs Sporting CP",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHZfMXB0"
+            }
+        ]
     },
     {
         "hora": "01:00",
         "competición": "Liga Nacional",
         "equipos": "Real España vs Motagua",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            }
+        ]
     }
 ]
