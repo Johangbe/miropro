@@ -1,1 +1,76 @@
-[]
+[
+    {
+        "hora": "15:00",
+        "competición": "Championship",
+        "equipos": "Middlesbrough vs Blackburn Rovers",
+        "canales": [
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "Championship",
+        "equipos": "Oxford United vs Southampton",
+        "canales": [
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
+        "competición": "Championship",
+        "equipos": "Wrexham vs Sheffield United",
+        "canales": [
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
+        "competición": "Liga Profesional Saudí",
+        "equipos": "Al Hilal vs Al Khaleej",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "FOX Sports 2 USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveF8yX3VzYQ=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Premier League",
+        "equipos": "Manchester United vs Newcastle United",
+        "canales": []
+    }
+]
