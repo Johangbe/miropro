@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Liga Pro Saudi",
+        "equipos": "Al Ittifaq vs Al Nassr",
+        "canales": [
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjE="
+            },
+            {
+                "nombre": "FOX Sports 2 USA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUZPWDJVUw=="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy8vY2FuYWwucGhwP3N0cmVhbT1zcG9ydHZfMXB0"
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "Premier League",
+        "equipos": "Chelsea vs AFC Bournemouth",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Premier League",
+        "equipos": "West Ham United vs Brighton & Hove Albion",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Premier League",
+        "equipos": "Nottingham Forest vs Everton",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Premier League",
+        "equipos": "Burnley vs Newcastle United",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Premier League",
+        "equipos": "Manchester United vs Wolverhampton Wanderers",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Premier League",
+        "equipos": "Arsenal vs Aston Villa",
+        "canales": []
+    }
+]
