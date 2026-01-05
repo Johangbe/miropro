@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "hora": "20:00",
+        "competición": "Championship",
+        "equipos": "Leicester City vs West Bromwich Albion",
+        "canales": [
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "Setanta Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNFVEFOVEEy"
+            }
+        ]
+    }
+]
