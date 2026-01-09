@@ -1,149 +1,32 @@
 [
     {
-        "hora": "17:30",
-        "competición": "Liga Profesional Saudí",
-        "equipos": "Al Kholood vs Al Ittihad",
-        "canales": [
-            {
-                "nombre": "SporTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09c3BvcnR0dmJyMQ=="
-            },
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUZPWERFUE9SVEVT"
-            },
-            {
-                "nombre": "FOX Deportes | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09Zm94X2RlcG9ydGVzX3VzYQ=="
-            }
-        ]
-    },
-    {
-        "hora": "19:30",
-        "competición": "Bundesliga",
-        "equipos": "Eintracht Frankfurt vs Borussia Dortmund",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5MQ=="
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-1/"
-            },
-            {
-                "nombre": "SporTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09c3BvcnR0dmJyMQ=="
-            },
-            {
-                "nombre": "Sky Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNLWVMyNA=="
-            },
-            {
-                "nombre": "ESPN Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZXNwbmRlcG9ydGVz"
-            },
-            {
-                "nombre": "SporTV | OP 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNQMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "19:30",
-        "competición": "FA Cup",
-        "equipos": "Milton Keynes Dons vs Oxford United",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "19:30",
-        "competición": "FA Cup",
-        "equipos": "Port Vale vs Fleetwood Town",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5Mw=="
-            }
-        ]
-    },
-    {
-        "hora": "19:30",
-        "competición": "FA Cup",
-        "equipos": "Preston North End vs Wigan Athletic",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5NA=="
-            }
-        ]
-    },
-    {
-        "hora": "19:30",
-        "competición": "FA Cup",
-        "equipos": "Wrexham vs Nottingham Forest",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5NQ=="
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "LaLiga",
-        "equipos": "Getafe vs Real Sociedad",
-        "canales": [
-            {
-                "nombre": "ESPN+ | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZXZlbnQx"
-            },
-            {
-                "nombre": "ESPN+ | English",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZXNwbnBsdXMy"
-            },
-            {
-                "nombre": "Sky Sports LaLiga",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNLWVMxNg=="
-            },
-            {
-                "nombre": "LaLiga TV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPWxhbGlnYXR2"
-            }
-        ]
-    },
-    {
         "hora": "02:00",
         "competición": "Liga MX",
         "equipos": "Mazatlán vs Juárez",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Azteca 7",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUFaVEVDQTc="
+            },
+            {
+                "nombre": "Azteca 7 | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09YXp0ZWNhNw=="
+            }
+        ]
     },
     {
         "hora": "03:00",
         "competición": "Liga MX",
         "equipos": "Tijuana vs América",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09dHVkbl91c2E="
+            }
+        ]
     },
     {
         "hora": "03:00",
