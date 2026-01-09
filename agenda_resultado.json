@@ -1,1 +1,78 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Liga Profesional Saudí",
+        "equipos": "Al Kholood vs Al Ittihad",
+        "canales": [
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09c3BvcnR0dmJyMQ=="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUZPWERFUE9SVEVT"
+            },
+            {
+                "nombre": "FOX Deportes | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09Zm94X2RlcG9ydGVzX3VzYQ=="
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "Bundesliga",
+        "equipos": "Eintracht Frankfurt vs Borussia Dortmund",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "FA Cup",
+        "equipos": "Milton Keynes Dons vs Oxford United",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "FA Cup",
+        "equipos": "Port Vale vs Fleetwood Town",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "FA Cup",
+        "equipos": "Preston North End vs Wigan Athletic",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "FA Cup",
+        "equipos": "Wrexham vs Nottingham Forest",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Getafe vs Real Sociedad",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga MX",
+        "equipos": "Mazatlán vs Juárez",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Tijuana vs América",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Atlas vs Puebla",
+        "canales": []
+    }
+]
