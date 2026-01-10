@@ -24,7 +24,12 @@
             {
                 "nombre": "TUDN USA",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09dHVkbl91c2E="
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZXZlbnQx"
+            },
+            {
+                "nombre": "FOX ONE",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09Zm94b25l"
             }
         ]
     },
@@ -32,6 +37,12 @@
         "hora": "03:00",
         "competición": "Liga MX",
         "equipos": "Atlas vs Puebla",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvc3ouY29tL2NhbmFsLnBocD9zdHJlYW09ZXZlbnQy"
+            }
+        ]
     }
 ]
