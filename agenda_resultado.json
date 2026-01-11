@@ -1,121 +1,176 @@
 [
     {
-        "hora": "23:00",
+        "hora": "11:15",
+        "competición": "Eredivisie",
+        "equipos": "Heerenveen vs Feyenoord",
+        "canales": []
+    },
+    {
+        "hora": "11:30",
+        "competición": "Serie A",
+        "equipos": "Lecce vs Parma",
+        "canales": []
+    },
+    {
+        "hora": "12:00",
+        "competición": "FA Cup",
+        "equipos": "Derby County vs Leeds United",
+        "canales": []
+    },
+    {
+        "hora": "13:00",
+        "competición": "LaLiga",
+        "equipos": "Rayo Vallecano vs Mallorca",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Eredivisie",
+        "equipos": "Telstar vs Ajax",
+        "canales": []
+    },
+    {
+        "hora": "14:00",
+        "competición": "Serie A",
+        "equipos": "Fiorentina vs Milan",
+        "canales": []
+    },
+    {
+        "hora": "14:00",
+        "competición": "FA Cup",
+        "equipos": "Portsmouth vs Arsenal",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "FA Cup",
+        "equipos": "Hull City vs Blackburn Rovers",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "FA Cup",
+        "equipos": "West Ham United vs Queens Park Rangers",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "FA Cup",
+        "equipos": "Swansea City vs West Bromwich Albion",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "FA Cup",
+        "equipos": "Sheffield United vs Mansfield Town",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "FA Cup",
+        "equipos": "Norwich City vs Walsall",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "Bundesliga",
+        "equipos": "Borussia M'gladbach vs Augsburg",
+        "canales": []
+    },
+    {
+        "hora": "15:15",
+        "competición": "LaLiga",
+        "equipos": "Levante vs Espanyol",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "FA Cup",
+        "equipos": "Manchester United vs Brighton & Hove Albion",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Bundesliga",
+        "equipos": "Bayern München vs Wolfsburg",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Serie A",
+        "equipos": "Verona vs Lazio",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Copa de Francia",
+        "equipos": "Nantes vs Nice",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
         "competición": "Liga MX",
-        "equipos": "Guadalajara vs Pachuca",
-        "canales": [
-            {
-                "nombre": "Universo",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVVOSVZFUlNP"
-            },
-            {
-                "nombre": "Telemundo",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVRFTEVNVU5ETw=="
-            },
-            {
-                "nombre": "Universo | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNvX3VzYQ=="
-            },
-            {
-                "nombre": "Telemundo | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            }
-        ]
+        "equipos": "Pumas UNAM vs Querétaro",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Supercopa de España (Final)",
+        "equipos": "Barcelona vs Real Madrid",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Campeonato Paulista A1",
+        "equipos": "Corinthians vs Ponte Preta",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Inter vs Napoli",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa de Francia",
+        "equipos": "Lille vs Olympique Lyonnais",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Campeonato Paulista A1",
+        "equipos": "Velo Clube vs Botafogo SP",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Campeonato Mineiro",
+        "equipos": "Atlético Mineiro vs Betim",
+        "canales": []
+    },
+    {
+        "hora": "21:15",
+        "competición": "Campeonato Paulista A1",
+        "equipos": "Noroeste vs RB Bragantino",
+        "canales": []
     },
     {
         "hora": "23:30",
         "competición": "Campeonato Paulista A1",
-        "equipos": "Portuguesa vs Palmeiras",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDQ="
-            }
-        ]
+        "equipos": "Mirassol vs São Paulo",
+        "canales": []
     },
     {
         "hora": "00:00",
-        "competición": "Serie Colombia",
-        "equipos": "Deportivo Cali vs Once Caldas",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-1/"
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Serie Río de la Plata",
-        "equipos": "Independiente vs Alianza Lima",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-premium/"
-            }
-        ]
+        "competición": "Clásicos Sudamericano",
+        "equipos": "River Plate vs Millonarios",
+        "canales": []
     },
     {
         "hora": "01:00",
         "competición": "Liga MX",
-        "equipos": "León vs Cruz Azul",
-        "canales": [
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            },
-            {
-                "nombre": "TUDN USA | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
-            }
-        ]
-    },
-    {
-        "hora": "01:00",
-        "competición": "Liga MX",
-        "equipos": "Santos Laguna vs Necaxa",
-        "canales": [
-            {
-                "nombre": "VIX+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
-            }
-        ]
-    },
-    {
-        "hora": "03:00",
-        "competición": "Liga MX",
-        "equipos": "Monterrey vs Toluca",
-        "canales": [
-            {
-                "nombre": "TUDN MX",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVRVRE5NWA=="
-            },
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            }
-        ]
+        "equipos": "Atlético San Luis vs Tigres UANL",
+        "canales": []
     }
 ]
