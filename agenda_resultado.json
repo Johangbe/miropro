@@ -1,57 +1,14 @@
 [
     {
-        "hora": "21:00",
-        "competición": "Campeonato Mineiro",
-        "equipos": "Atlético Mineiro vs Betim",
-        "canales": [
-            {
-                "nombre": "Premiere 2 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg=="
-            }
-        ]
-    },
-    {
-        "hora": "21:15",
-        "competición": "Campeonato Paulista A1",
-        "equipos": "Noroeste vs RB Bragantino",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Campeonato Paulista A1",
-        "equipos": "Mirassol vs São Paulo",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDI="
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Clásicos Sudamericano",
-        "equipos": "River Plate vs Millonarios",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            }
-        ]
-    },
-    {
         "hora": "01:00",
         "competición": "Liga MX",
         "equipos": "Atlético San Luis vs Tigres UANL",
         "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
             {
                 "nombre": "ESPN 2 MX",
                 "calidad": "Calidad 720p",
