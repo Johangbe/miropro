@@ -1,8 +1,147 @@
 [
     {
-        "hora": "17:30",
-        "competición": "Liga Profesional Saudí",
-        "equipos": "Damac vs Al Ittihad",
+        "hora": "19:30",
+        "competición": "Bundesliga",
+        "equipos": "Borussia Dortmund vs Werder Bremen",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNLWVMyNA=="
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNQMQ=="
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "Bundesliga",
+        "equipos": "Mainz 05 vs Heidenheim",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "EFL Cup",
+        "equipos": "Newcastle United vs Manchester City",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
+            },
+            {
+                "nombre": "ITV1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUlUVjE="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Deportivo La Coruña vs Atlético Madrid",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            },
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
+                "nombre": "Sky Sports LaLiga",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNLWVMxNg=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Real Sociedad vs Osasuna",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Cultural Leonesa vs Athletic Club",
+        "canales": [
+            {
+                "nombre": "ESPN+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa de Italia",
+        "equipos": "Roma vs Torino",
+        "canales": [
+            {
+                "nombre": "Italia 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUlUQUxJQTE="
+            },
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUNCU1NQT1JUUw=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa de Francia",
+        "equipos": "Bayeux vs Olympique Marseille",
         "canales": [
             {
                 "nombre": "FOX Deportes",
@@ -10,9 +149,9 @@
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
             },
             {
-                "nombre": "SporTV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNQMQ=="
+                "nombre": "TVC Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR2Y19kZXBvcnRlcw=="
             },
             {
                 "nombre": "FOX Sports 2 USA",
@@ -23,89 +162,8 @@
                 "nombre": "FOX Deportes | OP 2",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUZPWERFUE9SVEVT"
-            },
-            {
-                "nombre": "FOX Sports 2 USA | OP 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUZPWDJVUw=="
             }
         ]
-    },
-    {
-        "hora": "17:30",
-        "competición": "Bundesliga",
-        "equipos": "Stuttgart vs Eintracht Frankfurt",
-        "canales": [
-            {
-                "nombre": "ESPN 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "Sky Sports",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNLWVMyNA=="
-            }
-        ]
-    },
-    {
-        "hora": "19:30",
-        "competición": "Bundesliga",
-        "equipos": "Borussia Dortmund vs Werder Bremen",
-        "canales": []
-    },
-    {
-        "hora": "19:30",
-        "competición": "Bundesliga",
-        "equipos": "Hamburger SV vs Bayer Leverkusen",
-        "canales": []
-    },
-    {
-        "hora": "19:30",
-        "competición": "Bundesliga",
-        "equipos": "Mainz 05 vs Heidenheim",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "EFL Cup",
-        "equipos": "Newcastle United vs Manchester City",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa del Rey",
-        "equipos": "Deportivo La Coruña vs Atlético Madrid",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa del Rey",
-        "equipos": "Real Sociedad vs Osasuna",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa del Rey",
-        "equipos": "Cultural Leonesa vs Athletic Club",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa de Italia",
-        "equipos": "Roma vs Torino",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa de Francia",
-        "equipos": "Bayeux vs Olympique Marseille",
-        "canales": []
     },
     {
         "hora": "22:00",
