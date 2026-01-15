@@ -1,1 +1,135 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Serie A",
+        "equipos": "Hellas Verona vs Bologna",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            },
+            {
+                "nombre": "FOX Deportes | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUZPWERFUE9SVEVT"
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUNCU1NQT1JUUw=="
+            }
+        ]
+    },
+    {
+        "hora": "17:45",
+        "competición": "Copa KNVB",
+        "equipos": "Heerenveen vs RKC Waalwijk",
+        "canales": [
+            {
+                "nombre": "ESPN 2 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "Bundesliga",
+        "equipos": "Augsburg vs Union Berlin",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Como vs Milan",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Racing Santander vs Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Burgos vs Valencia",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa KNVB",
+        "equipos": "Sparta Rotterdam vs Volendam",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Serie Río de la Plata",
+        "equipos": "Progreso vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Campeonato Paulista A1",
+        "equipos": "Botafogo SP vs Noroeste",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Campeonato Gaúcho",
+        "equipos": "Monsoon vs Internacional",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Campeonato Carioca",
+        "equipos": "Portuguesa RJ vs Botafogo",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Campeonato Paulista A1",
+        "equipos": "RB Bragantino vs Corinthians",
+        "canales": []
+    },
+    {
+        "hora": "23:45",
+        "competición": "Serie Río de la Plata",
+        "equipos": "Olimpia vs Colo-Colo",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Superliga Colombiana",
+        "equipos": "Junior vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Campeonato Carioca",
+        "equipos": "Vasco da Gama vs Maricá",
+        "canales": []
+    },
+    {
+        "hora": "00:45",
+        "competición": "Campeonato Paulista A1",
+        "equipos": "São Paulo vs São Bernardo",
+        "canales": []
+    }
+]
