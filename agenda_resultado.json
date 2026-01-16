@@ -1,1 +1,25 @@
-[]
+[
+    {
+        "hora": "18:00",
+        "competición": "Ligue 1",
+        "equipos": "Monaco vs Lorient",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "Bundesliga",
+        "equipos": "Werder Bremen vs Eintracht Frankfurt",
+        "canales": []
+    }
+]
