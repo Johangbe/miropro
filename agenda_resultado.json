@@ -1,53 +1,204 @@
 [
     {
-        "hora": "21:00",
-        "competición": "Liga BetPlay",
-        "equipos": "Cúcuta Deportivo vs Once Caldas",
+        "hora": "15:30",
+        "competición": "UEFA Champions League",
+        "equipos": "Kairat vs Club Brugge",
         "canales": [
             {
-                "nombre": "Win Sports+",
+                "nombre": "ESPN",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+                "enlace": "https://librefutboltv.su/home/espn-1/"
             },
             {
-                "nombre": "Win Sports+ | OP 2",
+                "nombre": "Fox Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Serie Río de la Plata",
-        "equipos": "Racing Montevideo vs Univ. Concepción",
-        "canales": [
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
             {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-premium/"
+                "nombre": "MAX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9TUFYMQ=="
             },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPUNCU1NQT1JUUw=="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
+            },
+            {
+                "nombre": "TNT Sports 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVROVF8xX0dC"
             }
         ]
     },
     {
-        "hora": "00:15",
-        "competición": "Copa Argentina",
-        "equipos": "Estudiantes LP vs Ituzaingó",
+        "hora": "17:45",
+        "competición": "UEFA Champions League",
+        "equipos": "Bodø / Glimt vs Manchester City",
         "canales": [
             {
-                "nombre": "TyC Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/tyc-sports/"
+                "nombre": "Virgin Media Two (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Zpcmdpbm0yLnBocA=="
             },
             {
-                "nombre": "TyC Sports Internacional",
+                "nombre": "ESPN",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw="
+                "enlace": "https://librefutboltv.su/home/espn-1/"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9TUFYMg=="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "TNT Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9VE5UXzJfR0I="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             }
         ]
+    },
+    {
+        "hora": "17:45",
+        "competición": "Copa KNVB",
+        "equipos": "De Treffers vs NEC",
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "FA Cup",
+        "equipos": "Salford City vs Swindon Town",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Real Madrid vs Monaco",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Sporting CP vs PSG",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Tottenham Hotspur vs Borussia Dortmund",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Internazionale vs Arsenal",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Villarreal vs Ajax",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Olympiakos Piraeus vs Bayer Leverkusen",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Champions League",
+        "equipos": "København vs Napoli",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Championship",
+        "equipos": "Wrexham vs Leicester City",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Supercopa de Chile",
+        "equipos": "Huachipato vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Serie Río de la Plata",
+        "equipos": "Miramar Misiones vs Colón",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Serie Río de la Plata",
+        "equipos": "Deportes Concepción vs Cerro Largo",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Liga Nacional",
+        "equipos": "Xelajú vs Aurora",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Primera División",
+        "equipos": "Herediano vs Guadalupe",
+        "canales": []
     }
 ]
