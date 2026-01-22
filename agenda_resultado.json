@@ -47,6 +47,11 @@
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             },
             {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            },
+            {
                 "nombre": "TUDN USA",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
@@ -99,6 +104,11 @@
                 "nombre": "TNT Sports 3",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVROVF8zX0dC"
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
             }
         ]
     },
@@ -107,11 +117,6 @@
         "competición": "UEFA Europa League",
         "equipos": "Viktoria Plzeň vs Porto",
         "canales": [
-            {
-                "nombre": "ESPN 4",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
-            },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
@@ -124,11 +129,6 @@
         "competición": "UEFA Europa League",
         "equipos": "Bologna vs Celtic",
         "canales": [
-            {
-                "nombre": "ESPN 5",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
-            },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
@@ -198,79 +198,212 @@
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Roma vs Stuttgart",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "RTL",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9UlRMX0RF"
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
+            },
+            {
+                "nombre": "TNT Sports 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVROVF8zX0dC"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Sporting Braga vs Nottingham Forest",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
+            },
+            {
+                "nombre": "TNT Sports 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVROVF8xX0dC"
+            },
+            {
+                "nombre": "Sky Sports Mix",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9wcm8ucGhwP2lkPVNLWVNNSVg="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Celta de Vigo vs Lille",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+            },
+            {
+                "nombre": "ESPN 4 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Ferencváros vs Panathinaikos",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Utrecht vs Genk",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Salzburg vs Basel",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 7",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWVzcG43"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Rangers vs Ludogorets",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Dinamo Zagreb vs FCSB",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Europa League",
         "equipos": "Nice vs Go Ahead Eagles",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "Liga Profesional",
         "equipos": "Aldosivi vs Defensa y Justicia",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/tnt-sports/"
+            }
+        ]
     },
     {
         "hora": "21:30",
         "competición": "Campeonato Mineiro",
         "equipos": "Cruzeiro vs Democrata GV",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Campeonato Carioca",
         "equipos": "Boavista vs Portuguesa RJ",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere 2 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg=="
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Campeonato Gaúcho",
         "equipos": "Juventude vs Caxias",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere 3 BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
+            }
+        ]
     },
     {
         "hora": "23:00",
