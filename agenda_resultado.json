@@ -1,49 +1,8 @@
 [
     {
-        "hora": "23:00",
-        "competición": "Liga Profesional",
-        "equipos": "Huracán vs Independiente Rivadavia",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-premium/"
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Liga Profesional",
-        "equipos": "Gimnasia Mendoza vs San Lorenzo",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/tnt-sports/"
-            },
-            {
-                "nombre": "TyC Sports Internacional",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw="
-            }
-        ]
-    },
-    {
-        "hora": "23:15",
-        "competición": "Primera División",
-        "equipos": "Sportivo San Lorenzo vs Cerro Porteño",
-        "canales": [
-            {
-                "nombre": "Tigo Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
-            }
-        ]
-    },
-    {
-        "hora": "23:20",
+        "hora": "01:30",
         "competición": "Liga BetPlay",
-        "equipos": "Fortaleza CEIF vs Llaneros",
+        "equipos": "Medellín vs Deportes Tolima",
         "canales": [
             {
                 "nombre": "Win Sports+",
@@ -57,64 +16,6 @@
             },
             {
                 "nombre": "Win Sports+ | OP 3",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Primera División",
-        "equipos": "Guadalupe vs Alajuelense",
-        "canales": [
-            {
-                "nombre": "FUTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
-            }
-        ]
-    },
-    {
-        "hora": "01:15",
-        "competición": "Liga Profesional",
-        "equipos": "Atlético Tucumán vs Central Córdoba SdE",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-premium/"
-            }
-        ]
-    },
-    {
-        "hora": "01:15",
-        "competición": "Liga Profesional",
-        "equipos": "Newell's Old Boys vs Independiente",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/tnt-sports/"
-            },
-            {
-                "nombre": "TyC Sports Internacional",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw="
-            }
-        ]
-    },
-    {
-        "hora": "01:30",
-        "competición": "Liga BetPlay",
-        "equipos": "Medellín vs Deportes Tolima",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lbnZpdm9zLm9yZy9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
             }
