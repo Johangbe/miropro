@@ -1,1 +1,100 @@
-[]
+[
+    {
+        "hora": "15:15",
+        "competición": "Liga Pro Saudi",
+        "equipos": "Al Riyadh vs Al Nassr",
+        "canales": [
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3NwdDEucGhw"
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
+            },
+            {
+                "nombre": "Setanta Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U0VUQU5UQTI="
+            },
+            {
+                "nombre": "FOX Deportes | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9Rk9YREVQT1JURVM="
+            }
+        ]
+    },
+    {
+        "hora": "18:45",
+        "competición": "Primeira Liga",
+        "equipos": "AVS vs Sporting Braga",
+        "canales": []
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Udinese vs Roma",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Premier League",
+        "equipos": "Sunderland vs Burnley",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Mallorca vs Sevilla",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "Comerciantes Unidos vs Deportivo Moquegua",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga Profesional",
+        "equipos": "Gimnasia La Plata vs Aldosivi",
+        "canales": []
+    },
+    {
+        "hora": "20:45",
+        "competición": "Primeira Liga",
+        "equipos": "Casa Pia vs Porto",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera División de Chile",
+        "equipos": "Everton vs Unión La Calera",
+        "canales": []
+    },
+    {
+        "hora": "22:45",
+        "competición": "Liga Profesional",
+        "equipos": "Tigre vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "22:45",
+        "competición": "Liga Profesional",
+        "equipos": "Defensa y Justicia vs Estudiantes",
+        "canales": []
+    },
+    {
+        "hora": "23:20",
+        "competición": "Primera A",
+        "equipos": "Inter Bogotá vs Deportes Tolima",
+        "canales": []
+    }
+]
