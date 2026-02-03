@@ -1,66 +1,8 @@
 [
     {
-        "hora": "21:00",
-        "competición": "Primera División de Chile",
-        "equipos": "Everton vs Unión La Calera",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-            },
-            {
-                "nombre": "TNT Sports Chile",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "22:45",
-        "competición": "Liga Profesional",
-        "equipos": "Tigre vs Racing Club",
-        "canales": [
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-premium/"
-            },
-            {
-                "nombre": "TyC Internacional",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw="
-            }
-        ]
-    },
-    {
-        "hora": "22:45",
-        "competición": "Liga Profesional",
-        "equipos": "Defensa y Justicia vs Estudiantes (LP)",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/tnt-sports/"
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Campeonato Carioca",
-        "equipos": "Madureira vs Vasco da Gama",
-        "canales": [
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "23:20",
+        "hora": "01:30",
         "competición": "Liga BetPlay",
-        "equipos": "Inter Bogotá vs Deportes Tolima",
+        "equipos": "Deportivo Pereira vs Junior",
         "canales": [
             {
                 "nombre": "Win Sports+",
@@ -73,40 +15,5 @@
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
             }
         ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Liga de Primera",
-        "equipos": "O'Higgins vs Deportes Concepción",
-        "canales": [
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
-            },
-            {
-                "nombre": "TNT Sports Chile",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "01:00",
-        "competición": "Liga Profesional",
-        "equipos": "Argentinos Juniors vs Belgrano",
-        "canales": []
-    },
-    {
-        "hora": "01:00",
-        "competición": "Liga Profesional",
-        "equipos": "Unión Santa Fe vs Gimnasia Mendoza",
-        "canales": []
-    },
-    {
-        "hora": "01:30",
-        "competición": "Liga BetPlay",
-        "equipos": "Deportivo Pereira vs Junior",
-        "canales": []
     }
 ]
