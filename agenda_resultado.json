@@ -53,7 +53,7 @@
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
             },
             {
                 "nombre": "ESPN 3 MX",
@@ -68,14 +68,14 @@
         "equipos": "Manchester City vs Newcastle United",
         "canales": [
             {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-1/"
-            },
-            {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
             },
             {
                 "nombre": "beIN Sports 3",
@@ -100,19 +100,24 @@
         "equipos": "Valencia vs Athletic Club",
         "canales": [
             {
-                "nombre": "Win Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            },
-            {
                 "nombre": "ESPN+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
             },
             {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+            },
+            {
                 "nombre": "Sky Sports LaLiga",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U0tZUzE2"
+            },
+            {
+                "nombre": "America TV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9hbXQucGhw"
             },
             {
                 "nombre": "Premier Sports 2",
@@ -130,6 +135,11 @@
                 "nombre": "ESPN+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
+            },
+            {
+                "nombre": "Sky Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRhem5mMQ=="
             }
         ]
     },
@@ -137,19 +147,57 @@
         "hora": "20:00",
         "competición": "Copa de Italia",
         "equipos": "Inter Milan vs Torino",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Italia 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9SVRBTElBMQ=="
+            },
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/directv-sports/"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9Q0JTU1BPUlRT"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "Copa KNVB",
         "equipos": "PSV vs Heerenveen",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
     },
     {
         "hora": "20:15",
         "competición": "Copa de Portugal",
         "equipos": "Fafe vs Torreense",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Fox Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveDJhcg=="
+            },
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+            }
+        ]
     },
     {
         "hora": "22:00",
