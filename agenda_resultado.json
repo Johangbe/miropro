@@ -1,35 +1,18 @@
 [
     {
-        "hora": "22:00",
-        "competición": "Liga Profesional",
-        "equipos": "Banfield vs Estudiantes Río Cuarto",
-        "canales": [
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/tnt-sports/"
-            },
-            {
-                "nombre": "TyC Internacional",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw="
-            }
-        ]
-    },
-    {
         "hora": "00:00",
         "competición": "CONCACAF Champions Cup",
         "equipos": "Forge vs Tigres UANL",
         "canales": [
             {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            },
-            {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
             },
             {
                 "nombre": "FOX One",
@@ -73,11 +56,6 @@
         "equipos": "The Strongest vs Deportivo Táchira",
         "canales": [
             {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home/espn-1/"
-            },
-            {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
@@ -86,6 +64,11 @@
                 "nombre": "Fox Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/espn-1/"
             },
             {
                 "nombre": "ESPN 4 MX",
