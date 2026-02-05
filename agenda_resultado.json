@@ -1,1 +1,108 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Saudi Pro League",
+        "equipos": "Al Akhdoud vs Al Hilal",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Setanta Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U0VUQU5UQTI="
+            },
+            {
+                "nombre": "SporTV 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U1Az"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa KNVB",
+        "equipos": "Telstar vs Go Ahead Eagles",
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa del Rey",
+        "equipos": "Real Betis vs Atlético Madrid",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa de Italia",
+        "equipos": "Atalanta vs Juventus",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa de Francia",
+        "equipos": "Strasbourg vs Monaco",
+        "canales": []
+    },
+    {
+        "hora": "20:45",
+        "competición": "Copa de Portugal",
+        "equipos": "Sporting CP vs AVS",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Argentina",
+        "equipos": "Deportivo Riestra vs Deportivo Maipú",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Brasileirão",
+        "equipos": "Bahia vs Fluminense",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Brasileirão",
+        "equipos": "Vasco da Gama vs Chapecoense",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Campeonato Paulista A1",
+        "equipos": "Corinthians vs Capivariano",
+        "canales": []
+    },
+    {
+        "hora": "00:15",
+        "competición": "Copa Argentina",
+        "equipos": "Barracas Central vs Temperley",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Juventud vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Brasileirão",
+        "equipos": "Cruzeiro vs Coritiba",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga BetPlay",
+        "equipos": "Millonarios vs Deportivo Pereira",
+        "canales": []
+    }
+]
