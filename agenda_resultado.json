@@ -1,1 +1,84 @@
-[]
+[
+    {
+        "hora": "17:30",
+        "competición": "Serie A",
+        "equipos": "Atalanta vs Cremonese",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "ESPN 3 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9Q0JTU1BPUlRT"
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Roma vs Cagliari",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga Profesional",
+        "equipos": "Barracas Central vs Gimnasia La Plata",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Villarreal vs Espanyol",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Championship",
+        "equipos": "Sheffield United vs Middlesbrough",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "FC Cajamarca vs Deportivo Garcilaso",
+        "canales": []
+    },
+    {
+        "hora": "22:15",
+        "competición": "Liga Profesional",
+        "equipos": "Lanús vs Talleres Córdoba",
+        "canales": []
+    },
+    {
+        "hora": "22:15",
+        "competición": "Liga Profesional",
+        "equipos": "Estudiantes vs Deportivo Riestra",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga de Primera",
+        "equipos": "Unión La Calera vs Cobresal",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Cerro vs Danubio",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Liga Profesional",
+        "equipos": "Estudiantes Río Cuarto vs Independiente Rivadavia",
+        "canales": []
+    }
+]
