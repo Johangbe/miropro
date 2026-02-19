@@ -1,30 +1,57 @@
 [
     {
-        "hora": "17:45",
-        "competición": "UEFA Europa League",
-        "equipos": "PAOK vs Celta de Vigo",
+        "hora": "19:00",
+        "competición": "Liga Profesional Saudí",
+        "equipos": "Al-Ahli vs Al Najma",
         "canales": [
             {
-                "nombre": "Disney+",
+                "nombre": "FOX Deportes",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/espn-1/"
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
             }
         ]
     },
     {
-        "hora": "17:45",
+        "hora": "20:00",
         "competición": "UEFA Europa League",
-        "equipos": "Fenerbahçe vs Nottingham Forest",
+        "equipos": "Lille vs Crvena Zvezda",
         "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/espn-1/"
+            },
+            {
+                "nombre": "CazéTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTI="
+            },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+            },
+            {
+                "nombre": "ESPN 4 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Europa League",
+        "equipos": "Celtic vs Stuttgart",
+        "canales": [
+            {
+                "nombre": "RTL",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9UlRMX0RF"
+            },
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             },
             {
                 "nombre": "TUDN USA",
@@ -37,9 +64,9 @@
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTE="
             },
             {
-                "nombre": "ESPN 2",
+                "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
             },
             {
                 "nombre": "ESPN 2 MX",
@@ -49,53 +76,111 @@
         ]
     },
     {
-        "hora": "17:45",
+        "hora": "20:00",
         "competición": "UEFA Europa League",
-        "equipos": "Brann vs Bologna",
+        "equipos": "Panathinaikos vs Viktoria Plzeň",
         "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-            },
-            {
-                "nombre": "CazéTV",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTI="
-            },
             {
                 "nombre": "ESPN 3",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
             }
         ]
     },
     {
-        "hora": "17:45",
+        "hora": "20:00",
         "competición": "UEFA Europa League",
-        "equipos": "Dinamo Zagreb vs Genk",
+        "equipos": "Ludogorets vs Ferencváros",
         "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
-            },
             {
                 "nombre": "ESPN 4",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
             }
         ]
     },
     {
-        "hora": "17:45",
+        "hora": "20:00",
         "competición": "UEFA Conference League",
-        "equipos": "Noah vs AZ",
+        "equipos": "Jagiellonia Białystok vs Fiorentina",
         "canales": [
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2"
+            },
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Conference League",
+        "equipos": "Omonia Nicosia vs Rijeka",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Conference League",
+        "equipos": "Škendija 79 vs Samsunspor",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Conference League",
+        "equipos": "Drita vs Celje",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Juventud vs Guaraní",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             },
             {
                 "nombre": "ESPN 4 MX",
@@ -105,140 +190,15 @@
         ]
     },
     {
-        "hora": "17:45",
-        "competición": "UEFA Conference League",
-        "equipos": "Zrinjski vs Crystal Palace",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
-            }
-        ]
-    },
-    {
-        "hora": "17:45",
-        "competición": "UEFA Conference League",
-        "equipos": "Sigma Olomouc vs Lausanne Sport",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
-            }
-        ]
-    },
-    {
-        "hora": "17:45",
-        "competición": "UEFA Conference League",
-        "equipos": "KuPS vs Lech Poznań",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Profesional Saudí",
-        "equipos": "Al-Ahli vs Al Najma",
-        "canales": [
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
-            },
-            {
-                "nombre": "FOX Deportes | OP 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9Rk9YREVQT1JURVM="
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Lille vs Crvena Zvezda",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Celtic vs Stuttgart",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Panathinaikos vs Viktoria Plzeň",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Ludogorets vs Ferencváros",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Conference League",
-        "equipos": "Jagiellonia Białystok vs Fiorentina",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Conference League",
-        "equipos": "Omonia Nicosia vs Rijeka",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Conference League",
-        "equipos": "Škendija 79 vs Samsunspor",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Conference League",
-        "equipos": "Drita vs Celje",
-        "canales": []
-    },
-    {
-        "hora": "20:15",
-        "competición": "Liga Profesional",
-        "equipos": "San Lorenzo vs Estudiantes Río Cuarto",
-        "canales": []
-    },
-    {
-        "hora": "20:15",
-        "competición": "Liga Profesional",
-        "equipos": "Defensa y Justicia vs Belgrano",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa Libertadores",
-        "equipos": "Juventud vs Guaraní",
-        "canales": []
-    },
-    {
         "hora": "22:30",
         "competición": "Brasileirão",
         "equipos": "Athletico-PR vs Corinthians",
-        "canales": []
-    },
-    {
-        "hora": "22:30",
-        "competición": "Liga Profesional",
-        "equipos": "Instituto vs Atlético Tucumán",
-        "canales": []
-    },
-    {
-        "hora": "22:30",
-        "competición": "Liga Profesional",
-        "equipos": "Independiente Rivadavia vs Independiente",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ]
     }
 ]
