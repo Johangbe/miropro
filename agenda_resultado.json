@@ -1,1 +1,144 @@
-[]
+[
+    {
+        "hora": "19:30",
+        "competición": "Bundesliga",
+        "equipos": "Mainz 05 vs Hamburger SV",
+        "canales": [
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Ligue 1",
+        "equipos": "Brest vs Olympique Marseille",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Serie A",
+        "equipos": "Sassuolo vs Verona",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Athletic Club vs Elche",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Championship",
+        "equipos": "Blackburn Rovers vs Preston North End",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga Profesional",
+        "equipos": "Defensa y Justicia vs Belgrano",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga Profesional",
+        "equipos": "Estudiantes LP vs Sarmiento",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga de Primera",
+        "equipos": "Unión La Calera vs Ñublense",
+        "canales": []
+    },
+    {
+        "hora": "21:45",
+        "competición": "Primera División",
+        "equipos": "Cerro vs Liverpool",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga Profesional",
+        "equipos": "Boca Juniors vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga Profesional",
+        "equipos": "Instituto vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "23:20",
+        "competición": "Liga BetPlay",
+        "equipos": "Llaneros vs Medellín",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Liga de Primera",
+        "equipos": "Deportes Concepción vs Cobresal",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Primera División",
+        "equipos": "Defensor Sporting vs Cerro Largo",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "LIga 1",
+        "equipos": "Alianza Lima vs Sport Boys",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Tigres UANL vs Pachuca",
+        "canales": []
+    },
+    {
+        "hora": "01:15",
+        "competición": "Liga Profesional",
+        "equipos": "Gimnasia Mendoza vs Gimnasia La Plata",
+        "canales": []
+    },
+    {
+        "hora": "01:15",
+        "competición": "Liga Profesional",
+        "equipos": "Rosario Central vs Talleres Córdoba",
+        "canales": []
+    },
+    {
+        "hora": "01:30",
+        "competición": "Liga BetPlay",
+        "equipos": "Deportivo Pereira vs Deportivo Pasto",
+        "canales": []
+    },
+    {
+        "hora": "03:05",
+        "competición": "Liga MX",
+        "equipos": "Puebla vs América",
+        "canales": []
+    }
+]
