@@ -1,64 +1,5 @@
 [
     {
-        "hora": "17:45",
-        "competición": "UEFA Champions League",
-        "equipos": "Atlético Madrid vs Club Brugge",
-        "canales": [
-            {
-                "nombre": "Virgin Media Two (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Zpcmdpbm0yLnBocA=="
-            },
-            {
-                "nombre": "MAX (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL21heDMucGhw"
-            },
-            {
-                "nombre": "CBS Sports (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2Jz"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "MAX | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/espn-1/"
-            },
-            {
-                "nombre": "Paramount+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Liga Profesional Saudí",
-        "equipos": "Al Hazem vs Al Ittihad",
-        "canales": [
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
-            },
-            {
-                "nombre": "FOX Deportes | OP 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9Rk9YREVQT1JURVM="
-            }
-        ]
-    },
-    {
         "hora": "19:00",
         "competición": "Liga Profesional Saudí",
         "equipos": "Al Taawon vs Al Hilal",
@@ -69,9 +10,14 @@
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF8yX3VzYQ=="
             },
             {
-                "nombre": "Sportdigital",
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "FOX Deportes | OP 2",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U1BPUlRESUdJVEFM"
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9Rk9YREVQT1JURVM="
             }
         ]
     },
@@ -93,14 +39,29 @@
         "equipos": "Newcastle United vs Qarabağ",
         "canales": [
             {
-                "nombre": "ESPN 5",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+                "nombre": "Virgin Media Two (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Zpcmdpbm0yLnBocA=="
+            },
+            {
+                "nombre": "MAX (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL21heDMucGhw"
             },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
             },
             {
                 "nombre": "Paramount+",
@@ -113,43 +74,175 @@
         "hora": "20:00",
         "competición": "UEFA Champions League",
         "equipos": "Bayer Leverkusen vs Olympiakos Piraeus",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "MAX (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL21heDQucGhw"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDM="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDM="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Champions League",
-        "equipos": "Internazionale vs Bodø / Glimt",
-        "canales": []
+        "equipos": "Inter vs Bodø / Glimt",
+        "canales": [
+            {
+                "nombre": "MAX (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL21heDUucGhw"
+            },
+            {
+                "nombre": "CBS Sports (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2Jz"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/espn-1/"
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "Championship",
         "equipos": "Southampton vs Queens Park Rangers",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "Liga Profesional",
         "equipos": "Platense vs Defensa y Justicia",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/tnt-sports/"
+            },
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Copa Libertadores",
         "equipos": "Huachipato vs Carabobo",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            },
+            {
+                "nombre": "Fox Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveDJhcg=="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
     },
     {
         "hora": "22:15",
         "competición": "Liga Profesional",
         "equipos": "San Lorenzo vs Instituto",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN Premium",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/espn-premium/"
+            },
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+            }
+        ]
     },
     {
         "hora": "22:45",
         "competición": "Liga Profesional",
         "equipos": "Central Córdoba SdE vs Talleres Córdoba",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/tnt-sports/"
+            },
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
+            }
+        ]
     },
     {
         "hora": "00:15",
