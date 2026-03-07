@@ -1,23 +1,74 @@
 [
     {
-        "hora": "12:15",
-        "competición": "FA Cup",
-        "equipos": "Mansfield Town vs Arsenal",
+        "hora": "15:00",
+        "competición": "Liga de Primera",
+        "equipos": "Everton vs Deportes Limache",
         "canales": [
             {
-                "nombre": "ESPN",
+                "nombre": "MAX",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/espn-1/"
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
+            },
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "Liga de Primera",
+        "equipos": "Huachipato vs Coquimbo Unido",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDM="
+            },
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "Championship",
+        "equipos": "Derby County vs Sheffield Wednesday",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+            }
+        ]
+    },
+    {
+        "hora": "15:15",
+        "competición": "LaLiga",
+        "equipos": "Levante vs Girona",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             },
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
             },
             {
-                "nombre": "Setanta Sports 2",
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
+            },
+            {
+                "nombre": "LaLiga TV",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U0VUQU5UQTI="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9bGFsaWdhdHY="
             },
             {
                 "nombre": "ESPN Deportes",
@@ -25,21 +76,118 @@
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             },
             {
-                "nombre": "MAX",
+                "nombre": "Sky Sports LaLiga",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNreXNsYWxpZ2E="
             },
             {
-                "nombre": "TNT Sports 1",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9VE5UXzFfR0I="
+                "nombre": "ESPN+ | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzNA=="
             }
         ]
     },
     {
-        "hora": "13:00",
+        "hora": "15:30",
+        "competición": "Eredivisie",
+        "equipos": "Groningen vs Ajax",
+        "canales": [
+            {
+                "nombre": "ESPN 4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
+            },
+            {
+                "nombre": "ESPN 2 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
+            }
+        ]
+    },
+    {
+        "hora": "15:30",
+        "competición": "Primeira Liga",
+        "equipos": "Alverca vs AVS",
+        "canales": [
+            {
+                "nombre": "Sport TV3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "15:30",
+        "competición": "Primeira Liga",
+        "equipos": "Moreirense vs Nacional",
+        "canales": [
+            {
+                "nombre": "VTI",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Ligue 1",
+        "equipos": "Nantes vs Angers SCO",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
+            }
+        ]
+    },
+    {
+        "hora": "16:00",
+        "competición": "Liga 1",
+        "equipos": "Deportivo Moquegua vs Sport Huancayo",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            },
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Serie A",
+        "equipos": "Atalanta vs Udinese",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
+            },
+            {
+                "nombre": "ESPN 3 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
         "competición": "LaLiga",
-        "equipos": "Osasuna vs Mallorca",
+        "equipos": "Atlético Madrid vs Real Sociedad",
         "canales": [
             {
                 "nombre": "DirecTV Sports",
@@ -49,7 +197,7 @@
             {
                 "nombre": "ESPN+ | Español",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzNQ=="
             },
             {
                 "nombre": "Premier Sports 2",
@@ -57,9 +205,9 @@
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9cHMy"
             },
             {
-                "nombre": "Sky Sports LaLiga",
+                "nombre": "ESPN Deportes",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNreXNsYWxpZ2E="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             },
             {
                 "nombre": "LaLiga TV",
@@ -67,132 +215,279 @@
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9bGFsaWdhdHY="
             },
             {
-                "nombre": "ESPN+ | English",
+                "nombre": "Sky Sports LaLiga",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNreXNsYWxpZ2E="
+            },
+            {
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
             }
         ]
     },
     {
-        "hora": "14:00",
-        "competición": "Serie A",
-        "equipos": "Cagliari vs Como",
+        "hora": "17:30",
+        "competición": "Bundesliga",
+        "equipos": "Köln vs Borussia Dortmund",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTI="
+            },
+            {
+                "nombre": "Setanta Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U0VUQU5UQTI="
+            }
+        ]
+    },
+    {
+        "hora": "17:45",
+        "competición": "FA Cup",
+        "equipos": "Wrexham vs Chelsea",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE2"
+            },
+            {
+                "nombre": "TNT Sports 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50MnVr"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveA=="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Ligue 1",
+        "equipos": "Auxerre vs Strasbourg",
         "canales": [
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
             },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbXg="
+            }
+        ]
+    },
+    {
+        "hora": "18:00",
+        "competición": "Primeira Liga",
+        "equipos": "Sporting Braga vs Sporting CP",
+        "canales": [
+            {
+                "nombre": "Sportdigital",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M2"
+            }
+        ]
+    },
+    {
+        "hora": "18:15",
+        "competición": "Liga 1",
+        "equipos": "Comerciantes Unidos vs UTC Cajamarca",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            },
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Eredivisie",
+        "equipos": "PSV vs AZ",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
+            },
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Liga Profesional Saudí",
+        "equipos": "Al Nassr vs NEOM",
+        "canales": [
             {
                 "nombre": "FOX Deportes",
                 "calidad": "Calidad 720p",
                 "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
             },
             {
-                "nombre": "Fubo Sports",
+                "nombre": "SporTV",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9RlVCT1NQT1JUUw=="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3NwdDEucGhw"
             },
             {
-                "nombre": "Paramount+",
+                "nombre": "FOX One",
                 "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRhem5mMQ=="
             },
             {
-                "nombre": "ESPN 2 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+                "nombre": "FOX Deportes | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://librefutboltv.su/home1/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9Rk9YREVQT1JURVM="
             }
         ]
     },
     {
-        "hora": "14:30",
-        "competición": "Bundesliga",
-        "equipos": "Freiburg vs Bayer Leverkusen",
-        "canales": []
-    },
-    {
-        "hora": "14:30",
-        "competición": "Bundesliga",
-        "equipos": "Heidenheim vs Hoffenheim",
-        "canales": []
-    },
-    {
-        "hora": "14:30",
-        "competición": "Bundesliga",
-        "equipos": "Mainz 05 vs Stuttgart",
-        "canales": []
-    },
-    {
-        "hora": "14:30",
-        "competición": "Bundesliga",
-        "equipos": "RB Leipzig vs Augsburg",
-        "canales": []
-    },
-    {
-        "hora": "14:30",
-        "competición": "Bundesliga",
-        "equipos": "Wolfsburg vs Hamburger SV",
-        "canales": []
-    },
-    {
-        "hora": "15:00",
-        "competición": "Liga de Primera",
-        "equipos": "Everton vs Deportes Limache",
-        "canales": []
-    },
-    {
-        "hora": "15:00",
-        "competición": "Liga de Primera",
-        "equipos": "Huachipato vs Coquimbo Unido",
-        "canales": []
-    },
-    {
-        "hora": "15:00",
-        "competición": "Championship",
-        "equipos": "Derby County vs Sheffield Wednesday",
-        "canales": []
-    },
-    {
-        "hora": "15:15",
-        "competición": "LaLiga",
-        "equipos": "Levante vs Girona",
-        "canales": []
-    },
-    {
-        "hora": "15:30",
-        "competición": "Eredivisie",
-        "equipos": "Groningen vs Ajax",
-        "canales": []
-    },
-    {
-        "hora": "15:30",
-        "competición": "Primeira Liga",
-        "equipos": "Alverca vs AVS",
-        "canales": []
-    },
-    {
-        "hora": "15:30",
-        "competición": "Primeira Liga",
-        "equipos": "Moreirense vs Nacional",
-        "canales": []
-    },
-    {
-        "hora": "16:00",
-        "competición": "Ligue 1",
-        "equipos": "Nantes vs Angers SCO",
-        "canales": []
-    },
-    {
-        "hora": "16:00",
-        "competición": "Liga 1",
-        "equipos": "Deportivo Moquegua vs Sport Huancayo",
-        "canales": []
-    },
-    {
-        "hora": "17:00",
+        "hora": "19:45",
         "competición": "Serie A",
-        "equipos": "Atalanta vs Udinese",
+        "equipos": "Juventus vs Pisa",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "LaLiga",
+        "equipos": "Athletic Club vs Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "FA Cup",
+        "equipos": "Newcastle United vs Manchester City",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Primera División",
+        "equipos": "Progreso vs Albion",
+        "canales": []
+    },
+    {
+        "hora": "20:05",
+        "competición": "Ligue 1",
+        "equipos": "Toulouse vs Olympique Marseille",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "Sporting Cristal vs Alianza Atlético",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga de Primera",
+        "equipos": "Audax Italiano vs Colo-Colo",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga BetPlay",
+        "equipos": "Rionegro Águilas vs Atlético Nacional",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Campeonato Carioca",
+        "equipos": "Botafogo vs Bangu",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "MLS",
+        "equipos": "DC United vs Inter Miami",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa de Primera",
+        "equipos": "Guaraní vs Cerro Porteño",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga MX",
+        "equipos": "Cruz Azul vs Atlético San Luis",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga MX",
+        "equipos": "Querétaro vs América",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Liga de Primera",
+        "equipos": "O'Higgins vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa de Primera",
+        "equipos": "Libertad vs Sportivo Luqueño",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Primera División",
+        "equipos": "Peñarol vs Danubio",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga 1",
+        "equipos": "Cusco vs Deportivo Garcilaso",
+        "canales": []
+    },
+    {
+        "hora": "01:05",
+        "competición": "Liga MX",
+        "equipos": "Atlas vs Guadalajara",
+        "canales": []
+    },
+    {
+        "hora": "01:05",
+        "competición": "Liga MX",
+        "equipos": "Pachuca vs Puebla",
+        "canales": []
+    },
+    {
+        "hora": "03:00",
+        "competición": "Liga MX",
+        "equipos": "Tigres UANL vs Monterrey",
         "canales": []
     }
 ]
