@@ -1,95 +1,5 @@
 [
     {
-        "hora": "22:00",
-        "competición": "Brasileirão",
-        "equipos": "Remo vs Fluminense",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
-            },
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "22:15",
-        "competición": "Liga Profesional",
-        "equipos": "Talleres Córdoba vs Instituto",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
-            },
-            {
-                "nombre": "TNT Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/tnt-sports/"
-            }
-        ]
-    },
-    {
-        "hora": "22:15",
-        "competición": "Liga Profesional",
-        "equipos": "Estudiantes Río Cuarto vs Belgrano",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
-            },
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/espn-premium/"
-            }
-        ]
-    },
-    {
-        "hora": "22:30",
-        "competición": "Brasileirão",
-        "equipos": "Vasco da Gama vs Palmeiras",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M5"
-            },
-            {
-                "nombre": "Premiere 2 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg=="
-            },
-            {
-                "nombre": "Win Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Brasileirão",
-        "equipos": "São Paulo vs Chapecoense",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3MxMA=="
-            },
-            {
-                "nombre": "Premiere 3 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
-            }
-        ]
-    },
-    {
         "hora": "00:00",
         "competición": "CONCACAF Champions Cup",
         "equipos": "Cincinnati vs Tigres UANL",
@@ -127,6 +37,21 @@
         "equipos": "Huracán vs River Plate",
         "canales": [
             {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M1"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "Sportdigital",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9c3BvcnRzZGlnaXRhbA=="
+            },
+            {
                 "nombre": "ESPN 5",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
@@ -135,21 +60,6 @@
                 "nombre": "TNT Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbollibretv.su/tnt-sports/"
-            },
-            {
-                "nombre": "Sportdigital",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9c3BvcnRzZGlnaXRhbA=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            },
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M1"
             }
         ]
     },
@@ -159,9 +69,9 @@
         "equipos": "Medellín vs Juventud",
         "canales": [
             {
-                "nombre": "ESPN",
+                "nombre": "Fanatiz | Español",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/espn-1/"
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M2"
             },
             {
                 "nombre": "Disney+",
@@ -169,9 +79,9 @@
                 "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
             },
             {
-                "nombre": "Fanatiz | Español",
+                "nombre": "ESPN",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M2"
+                "enlace": "https://futbollibretv.su/espn-1/"
             },
             {
                 "nombre": "Fox Sports 2",
@@ -184,12 +94,49 @@
         "hora": "00:30",
         "competición": "Brasileirão",
         "equipos": "Grêmio vs RB Bragantino",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M4"
+            },
+            {
+                "nombre": "Premiere BR",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            },
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+            }
+        ]
     },
     {
         "hora": "02:00",
         "competición": "CONCACAF Champions Cup",
         "equipos": "Vancouver Whitecaps vs Seattle Sounders",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "nombre": "FOX Sports 2 USA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94MnVz"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveA=="
+            }
+        ]
     }
 ]
