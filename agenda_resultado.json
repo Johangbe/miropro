@@ -1,141 +1,29 @@
 [
     {
-        "hora": "21:10",
-        "competición": "Liga BetPlay",
-        "equipos": "Llaneros vs Cúcuta Deportivo",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
-            },
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "LigaPro",
-        "equipos": "Universidad Católica vs Deportivo Cuenca",
-        "canales": [
-            {
-                "nombre": "Zapping Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Primera División",
-        "equipos": "Sportivo San Lorenzo vs 2 de Mayo",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Liga Profesional",
-        "equipos": "Lanús vs Newell's Old Boys",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
-            },
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/espn-premium/"
-            }
-        ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa de Brasil",
-        "equipos": "Nova Iguaçu vs Fortaleza",
-        "canales": [
-            {
-                "nombre": "SporTV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3NwdDEucGhw"
-            }
-        ]
-    },
-    {
-        "hora": "23:20",
-        "competición": "Liga BetPlay",
-        "equipos": "Atlético Bucaramanga vs Once Caldas",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            },
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Copa de Primera",
-        "equipos": "Olimpia vs Sportivo Luqueño",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
-            }
-        ]
-    },
-    {
-        "hora": "00:15",
-        "competición": "Liga Profesional",
-        "equipos": "Gimnasia Mendoza vs Estudiantes LP",
-        "canales": []
-    },
-    {
-        "hora": "00:15",
-        "competición": "Liga Profesional",
-        "equipos": "Central Córdoba SdE vs Deportivo Riestra",
-        "canales": []
-    },
-    {
-        "hora": "01:00",
-        "competición": "CONCACAF Champions Cup",
-        "equipos": "Alajuelense vs Los Angeles FC",
-        "canales": []
-    },
-    {
-        "hora": "01:30",
-        "competición": "Liga BetPlay",
-        "equipos": "Millonarios vs Atlético Nacional",
-        "canales": []
-    },
-    {
         "hora": "03:00",
         "competición": "CONCACAF Champions Cup",
         "equipos": "Cruz Azul vs Monterrey",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "FOX Sports USA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94MXVz"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZTI="
+            }
+        ]
     }
 ]
