@@ -1,79 +1,23 @@
 [
     {
-        "hora": "17:45",
+        "hora": "20:00",
         "competición": "UEFA Europa League",
-        "equipos": "Midtjylland vs Nottingham Forest",
+        "equipos": "Real Betis vs Panathinaikos",
         "canales": [
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50NHVr"
+            },
             {
                 "nombre": "ESPN",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbollibretv.su/espn-1/"
             },
             {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            },
-            {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            }
-        ]
-    },
-    {
-        "hora": "17:45",
-        "competición": "UEFA Europa League",
-        "equipos": "Olympique Lyonnais vs Celta de Vigo",
-        "canales": [
-            {
-                "nombre": "ESPN 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "nombre": "CazeTV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTE="
-            },
-            {
-                "nombre": "TNT Sports 4",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9VE5UXzRfR0I="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            }
-        ]
-    },
-    {
-        "hora": "17:45",
-        "competición": "UEFA Europa League",
-        "equipos": "Freiburg vs Genk",
-        "canales": [
-            {
-                "nombre": "ESPN 3",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-            }
-        ]
-    },
-    {
-        "hora": "17:45",
-        "competición": "UEFA Conference League",
-        "equipos": "AEK Athens vs Celje",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
             },
             {
                 "nombre": "ESPN 2 MX",
@@ -83,108 +27,143 @@
         ]
     },
     {
-        "hora": "17:45",
-        "competición": "UEFA Conference League",
-        "equipos": "AEK Larnaca vs Crystal Palace",
+        "hora": "20:00",
+        "competición": "UEFA Europa League",
+        "equipos": "Aston Villa vs Lille",
         "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50MXVr"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Europa League",
+        "equipos": "Roma vs Bologna",
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "TNT Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50MnVr"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "UEFA Europa League",
+        "equipos": "Porto vs Stuttgart",
+        "canales": [
+            {
+                "nombre": "RTL",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9UlRMX0RF"
+            },
+            {
+                "nombre": "ESPN 4",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            },
             {
                 "nombre": "TNT Sports",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50M3Vr"
             },
             {
-                "nombre": "TNT Sports | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            },
-            {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
             }
         ]
-    },
-    {
-        "hora": "17:45",
-        "competición": "UEFA Conference League",
-        "equipos": "Mainz 05 vs Sigma Olomouc",
-        "canales": [
-            {
-                "nombre": "Paramount+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
-            }
-        ]
-    },
-    {
-        "hora": "17:45",
-        "competición": "UEFA Conference League",
-        "equipos": "Raków Częstochowa vs Fiorentina",
-        "canales": [
-            {
-                "nombre": "Paramount+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Real Betis vs Panathinaikos",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Aston Villa vs Lille",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Roma vs Bologna",
-        "canales": []
-    },
-    {
-        "hora": "20:00",
-        "competición": "UEFA Europa League",
-        "equipos": "Porto vs Stuttgart",
-        "canales": []
     },
     {
         "hora": "20:00",
         "competición": "UEFA Conference League",
         "equipos": "Sparta Praha vs AZ",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Conference League",
         "equipos": "Shakhtar Donetsk vs Lech Poznań",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Conference League",
         "equipos": "Rayo Vallecano vs Samsunspor",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            }
+        ]
     },
     {
         "hora": "20:00",
         "competición": "UEFA Conference League",
         "equipos": "Strasbourg vs Rijeka",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NQ=="
+            }
+        ]
     },
     {
         "hora": "21:10",
