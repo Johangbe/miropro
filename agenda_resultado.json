@@ -1,14 +1,209 @@
 [
     {
-        "hora": "15:00",
+        "hora": "17:00",
         "competición": "Amistoso Internacional",
-        "equipos": "Azerbaiyán vs St. Lucia",
+        "equipos": "Austria vs Ghana",
         "canales": [
             {
                 "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "SporTV 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3NwdDIucGhw"
+            },
+            {
+                "nombre": "SporTV 2 | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dHZicjI="
             }
         ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Amistoso Internacional",
+        "equipos": "Montenegro vs Andorra",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "SporTV 3",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3NwdDMucGhw"
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Amistoso Internacional",
+        "equipos": "South Africa vs Panama",
+        "canales": [
+            {
+                "nombre": "TVMax",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
+            },
+            {
+                "nombre": "TVN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50NA=="
+            }
+        ]
+    },
+    {
+        "hora": "17:30",
+        "competición": "Amistoso Internacional",
+        "equipos": "Jordan vs Costa Rica",
+        "canales": [
+            {
+                "nombre": "TD7",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbXg="
+            },
+            {
+                "nombre": "Canal 6",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Amistoso Internacional",
+        "equipos": "Grecia vs Paraguay",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ]
+    },
+    {
+        "hora": "19:30",
+        "competición": "Amistoso Internacional",
+        "equipos": "Argelia vs Guatemala",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94ZGVwb3J0ZXM="
+            },
+            {
+                "nombre": "FOX Deportes | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Amistoso Internacional",
+        "equipos": "Inglaterra vs Uruguay",
+        "canales": [
+            {
+                "nombre": "Virgin Media Two",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Zpcmdpbm0yLnBocA=="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/espn-1/"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "nombre": "FOX Sports USA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94MXVz"
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Amistoso Internacional",
+        "equipos": "Países Bajos vs Noruega",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            }
+        ]
+    },
+    {
+        "hora": "19:45",
+        "competición": "Amistoso Internacional",
+        "equipos": "Suiza vs Alemania",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Amistoso Internacional",
+        "equipos": "España vs Serbia",
+        "canales": []
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Argentina",
+        "equipos": "Independiente vs Atenas",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Amistoso Internacional",
+        "equipos": "Marruecos vs Ecuador",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga BetPlay",
+        "equipos": "Rionegro Águilas vs Alianza",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa de Primera",
+        "equipos": "Nacional Asunción vs Sportivo Luqueño",
+        "canales": []
+    },
+    {
+        "hora": "23:15",
+        "competición": "Amistoso Internacional",
+        "equipos": "Argentina vs Mauritania",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa de Primera",
+        "equipos": "Sportivo Ameliano vs Libertad",
+        "canales": []
+    },
+    {
+        "hora": "01:10",
+        "competición": "Liga BetPlay",
+        "equipos": "Atlético Bucaramanga vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "01:15",
+        "competición": "Copa Argentina",
+        "equipos": "Belgrano vs Atlético Rafaela",
+        "canales": []
     }
 ]
