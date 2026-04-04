@@ -1,70 +1,332 @@
 [
     {
+        "hora": "11:45",
+        "competición": "FA Cup",
+        "equipos": "Manchester City vs Liverpool",
+        "canales": []
+    },
+    {
+        "hora": "12:00",
+        "competición": "LaLiga",
+        "equipos": "Real Sociedad vs Levante",
+        "canales": []
+    },
+    {
+        "hora": "13:00",
+        "competición": "Serie A",
+        "equipos": "Sassuolo vs Cagliari",
+        "canales": []
+    },
+    {
+        "hora": "13:00",
+        "competición": "Primera División",
+        "equipos": "Racing vs Juventud",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Hoffenheim vs Mainz 05",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Freiburg vs Bayern München",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Borussia M'gladbach vs Heidenheim",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Bayer Leverkusen vs Wolfsburg",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Hamburger SV vs Augsburg",
+        "canales": []
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Werder Bremen vs RB Leipzig",
+        "canales": []
+    },
+    {
+        "hora": "14:15",
+        "competición": "LaLiga",
+        "equipos": "Mallorca vs Real Madrid",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "Eredivisie",
+        "equipos": "PSV vs Utrecht",
+        "canales": []
+    },
+    {
+        "hora": "14:30",
+        "competición": "Primeira Liga",
+        "equipos": "Nacional vs Estrela",
+        "canales": []
+    },
+    {
+        "hora": "15:00",
+        "competición": "Ligue 1",
+        "equipos": "Strasbourg vs Nice",
+        "canales": []
+    },
+    {
+        "hora": "16:00",
+        "competición": "Serie A",
+        "equipos": "Verona vs Fiorentina",
+        "canales": []
+    },
+    {
+        "hora": "16:15",
+        "competición": "FA Cup",
+        "equipos": "Chelsea vs Port Vale",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "LaLiga",
+        "equipos": "Real Betis vs Espanyol",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Bundesliga",
+        "equipos": "Stuttgart vs Borussia Dortmund",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Liga Profesional",
+        "equipos": "Aldosivi vs Estudiantes Río Cuarto",
+        "canales": []
+    },
+    {
+        "hora": "16:45",
+        "competición": "Eredivisie",
+        "equipos": "AZ vs Fortuna Sittard",
+        "canales": []
+    },
+    {
+        "hora": "16:45",
+        "competición": "Eredivisie",
+        "equipos": "Telstar vs Groningen",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Ligue 1",
+        "equipos": "Brest vs Rennes",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primeira Liga",
+        "equipos": "Rio Ave vs Alverca",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primeira Liga",
+        "equipos": "Moreirense vs Sporting Braga",
+        "canales": []
+    },
+    {
+        "hora": "18:15",
+        "competición": "Liga 1",
+        "equipos": "Deportivo Garcilaso vs Sport Boys",
+        "canales": []
+    },
+    {
+        "hora": "18:30",
+        "competición": "Primera División",
+        "equipos": "Danubio vs Torque",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Serie A",
+        "equipos": "Lazio vs Parma",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LaLiga",
+        "equipos": "Atlético Madrid vs Barcelona",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "FA Cup",
+        "equipos": "Southampton vs Arsenal",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Eredivisie",
+        "equipos": "Ajax vs Twente",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Eredivisie",
+        "equipos": "Excelsior vs NEC",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Always Ready vs Real Tomayapo",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LigaPro",
+        "equipos": "Independiente del Valle vs Orense",
+        "canales": []
+    },
+    {
+        "hora": "19:05",
+        "competición": "Ligue 1",
+        "equipos": "Lille vs Lens",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Primeira Liga",
+        "equipos": "Porto vs Famalicão",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga Profesional",
+        "equipos": "Aldosivi vs Estudiantes Río Cuarto",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga de Primera",
+        "equipos": "Deportes Limache vs Unión La Calera",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga 1",
+        "equipos": "Melgar vs Cusco",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "São Paulo vs Cruzeiro",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa de Primera",
+        "equipos": "Olimpia vs Nacional Asunción",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Progreso vs Peñarol",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga de Primera",
+        "equipos": "Everton vs Ñublense",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga MX",
+        "equipos": "Monterrey vs Atlético San Luis",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga MX",
+        "equipos": "Querétaro vs Toluca",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa de Primera",
+        "equipos": "Cerro Porteño vs 2 de Mayo",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa de Primera",
+        "equipos": "Deportivo Recoleta vs Sportivo San Lorenzo",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Brasileirão",
+        "equipos": "Coritiba vs Fluminense",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "MLS",
+        "equipos": "Inter Miami vs Austin",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Brasileirão",
+        "equipos": "Vasco da Gama vs Botafogo",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga Profesional",
+        "equipos": "Rosario Central vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Liga BetPlay",
+        "equipos": "Deportes Tolima vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga 1",
+        "equipos": "Universitario vs Alianza Lima",
+        "canales": []
+    },
+    {
         "hora": "01:00",
         "competición": "Liga MX",
-        "equipos": "Puebla vs Juárez",
-        "canales": [
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            },
-            {
-                "nombre": "FOX One",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
-            },
-            {
-                "nombre": "Azteca 7",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
-            }
-        ]
+        "equipos": "León vs Atlas",
+        "canales": []
     },
     {
-        "hora": "01:30",
-        "competición": "Liga BetPlay",
-        "equipos": "Junior vs Deportivo Cali",
-        "canales": [
-            {
-                "nombre": "Win Sports+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
-            },
-            {
-                "nombre": "Win Sports+ | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
-            }
-        ]
-    },
-    {
-        "hora": "03:00",
+        "hora": "01:05",
         "competición": "Liga MX",
-        "equipos": "Necaxa vs Mazatlán",
-        "canales": [
-            {
-                "nombre": "Claro Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbXg="
-            },
-            {
-                "nombre": "Azteca 7",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
-            }
-        ]
+        "equipos": "Cruz Azul vs Pachuca",
+        "canales": []
     },
     {
-        "hora": "03:05",
+        "hora": "03:10",
         "competición": "Liga MX",
-        "equipos": "Tijuana vs Tigres UANL",
-        "canales": [
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            }
-        ]
+        "equipos": "Santos Laguna vs América",
+        "canales": []
     }
 ]
