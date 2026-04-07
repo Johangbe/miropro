@@ -1,1 +1,138 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Real Madrid vs Bayern München",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHo1LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHo1LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Sporting CP vs Arsenal",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHo1LmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHo1LmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Argentina",
+        "equipos": "Estudiantes Río Cuarto vs San Martín Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "21:00",
+        "competición": "Liga BetPlay",
+        "equipos": "Rionegro Águilas vs Atlético Bucaramanga",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa Argentina",
+        "equipos": "Vélez Sarsfield vs Deportivo Armenio",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Independiente Rivadavia vs Bolívar",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Deportivo La Guaira vs Fluminense",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Independiente Petrolero vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Barracas Central vs Vasco da Gama",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga MX",
+        "equipos": "Querétaro vs Juárez",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Always Ready vs LDU Quito",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Barcelona SC vs Cruzeiro",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "O'Higgins vs Millonarios",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "CONCACAF Champions Cup",
+        "equipos": "Nashville SC vs América",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Universidad Católica vs Boca Juniors",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Boston River vs São Paulo",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Deportes Tolima vs Universitario",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Alianza Atlético vs Tigre",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "CONCACAF Champions Cup",
+        "equipos": "Los Angeles FC vs Cruz Azul",
+        "canales": []
+    }
+]
