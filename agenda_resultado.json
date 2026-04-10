@@ -3,25 +3,84 @@
         "hora": "17:00",
         "competición": "Ligue 1",
         "equipos": "Paris vs Monaco",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
+            },
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            }
+        ]
     },
     {
         "hora": "18:30",
         "competición": "Bundesliga",
         "equipos": "Augsburg vs Hoffenheim",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
+            }
+        ]
     },
     {
         "hora": "18:45",
         "competición": "Serie A",
         "equipos": "Roma vs Pisa",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            }
+        ]
     },
     {
         "hora": "19:00",
         "competición": "LaLiga",
         "equipos": "Real Madrid vs Girona",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            }
+        ]
     },
     {
         "hora": "19:00",
@@ -39,6 +98,60 @@
         "hora": "19:05",
         "competición": "Ligue 1",
         "equipos": "Olympique Marseille vs Metz",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "Liga BetPlay",
+        "equipos": "Deportivo Pereira vs Once Caldas",
+        "canales": []
+    },
+    {
+        "hora": "21:15",
+        "competición": "Copa de Primera",
+        "equipos": "2 de Mayo vs Sportivo Ameliano",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera División",
+        "equipos": "Cerro Largo vs Cerro",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa de Primera",
+        "equipos": "Sportivo San Lorenzo vs Guaraní",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga Profesional",
+        "equipos": "Belgrano vs Aldosivi",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga de Primera",
+        "equipos": "O'Higgins vs Huachipato",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga MX",
+        "equipos": "Puebla vs León",
+        "canales": []
+    },
+    {
+        "hora": "01:05",
+        "competición": "Liga BetPlay",
+        "equipos": "Deportivo Pasto vs Deportes Tolima",
+        "canales": []
+    },
+    {
+        "hora": "03:05",
+        "competición": "Liga MX",
+        "equipos": "Juárez vs Tijuana",
         "canales": []
     }
 ]
