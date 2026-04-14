@@ -1,1 +1,185 @@
-[]
+[
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "Deportivo Moquegua vs Juan Pablo II College",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Atlético Madrid vs Barcelona",
+        "canales": [
+            {
+                "nombre": "Eventos (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Zpcmdpbm0yLnBocA=="
+            },
+            {
+                "nombre": "MAX (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50MXVr"
+            },
+            {
+                "nombre": "TNT Sports (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50MXVr"
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW10cG5ldy5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Liverpool vs PSG",
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9zdHJlYW10cG5ldy5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1heDI="
+            }
+        ]
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "ADT vs Alianza Lima",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Cerro Porteño vs Junior",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Nacional vs Deportes Tolima",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Estudiantes LP vs Cusco",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Grêmio vs Deportivo Riestra",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "São Paulo vs O'Higgins",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Boca Juniors vs Barcelona SC",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Bolívar vs Deportivo La Guaira",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Vasco da Gama vs Audax Italiano",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Palestino vs Torque",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Santos vs Deportivo Recoleta",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "CONCACAF Champions Cup",
+        "equipos": "Cruz Azul vs Los Angeles FC",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga 1",
+        "equipos": "Sport Boys vs Melgar",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Universitario vs Coquimbo Unido",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Libertadores",
+        "equipos": "LDU Quito vs Mirassol",
+        "canales": []
+    },
+    {
+        "hora": "03:30",
+        "competición": "CONCACAF Champions Cup",
+        "equipos": "América vs Nashville SC",
+        "canales": []
+    }
+]
