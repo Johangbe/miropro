@@ -1,1 +1,400 @@
-[]
+[
+    {
+        "hora": "13:00",
+        "competición": "Serie A",
+        "equipos": "Udinese vs Parma",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            },
+            {
+                "nombre": "FOX Deportes | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94ZGVwb3J0ZXM="
+            }
+        ]
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Hoffenheim vs Borussia Dortmund",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTI="
+            },
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            }
+        ]
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Bayer Leverkusen vs Augsburg",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            }
+        ]
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Union Berlin vs Wolfsburg",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ]
+    },
+    {
+        "hora": "13:30",
+        "competición": "Bundesliga",
+        "equipos": "Werder Bremen vs Hamburger SV",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "Premier League",
+        "equipos": "Newcastle United vs AFC Bournemouth",
+        "canales": [
+            {
+                "nombre": "Universo",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9VU5JVkVSU08="
+            },
+            {
+                "nombre": "Universo | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT11bml2ZXJzb191c2E="
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1tYXgz"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1kaXNuZXkxNg=="
+            },
+            {
+                "nombre": "USA Network",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dXNhX25ldHdvcms="
+            }
+        ]
+    },
+    {
+        "hora": "14:00",
+        "competición": "Premier League",
+        "equipos": "Leeds United vs Wolverhampton Wanderers",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1lc3Bu"
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1tYXg0"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1kaXNuZXkxNw=="
+            }
+        ]
+    },
+    {
+        "hora": "14:30",
+        "competición": "Primeira Liga",
+        "equipos": "Nacional vs Alverca",
+        "canales": [
+            {
+                "nombre": "Sport TV1",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXNwb3J0dl8xcHQ="
+            }
+        ]
+    },
+    {
+        "hora": "15:00",
+        "competición": "Ligue 1",
+        "equipos": "Lorient vs Olympique Marseille",
+        "canales": []
+    },
+    {
+        "hora": "16:00",
+        "competición": "Serie A",
+        "equipos": "Napoli vs Lazio",
+        "canales": []
+    },
+    {
+        "hora": "16:00",
+        "competición": "Primera División",
+        "equipos": "Progreso vs Wanderers",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Premier League",
+        "equipos": "Tottenham Hotspur vs Brighton & Hove Albion",
+        "canales": []
+    },
+    {
+        "hora": "16:30",
+        "competición": "Bundesliga",
+        "equipos": "Eintracht Frankfurt vs RB Leipzig",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Ligue 1",
+        "equipos": "Angers SCO vs Le Havre",
+        "canales": []
+    },
+    {
+        "hora": "17:00",
+        "competición": "Primeira Liga",
+        "equipos": "Casa Pia vs Santa Clara",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga Profesional",
+        "equipos": "Gimnasia La Plata vs Estudiantes Río Cuarto",
+        "canales": []
+    },
+    {
+        "hora": "18:00",
+        "competición": "Liga 1",
+        "equipos": "FC Cajamarca vs ADT",
+        "canales": []
+    },
+    {
+        "hora": "18:45",
+        "competición": "Serie A",
+        "equipos": "Roma vs Atalanta",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa del Rey (Final)",
+        "equipos": "Atlético Madrid vs Real Sociedad",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Premier League",
+        "equipos": "Chelsea vs Manchester United",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "LigaPro",
+        "equipos": "Mushuc Runa vs Técnico Universitario",
+        "canales": []
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División",
+        "equipos": "Racing vs Defensor Sporting",
+        "canales": []
+    },
+    {
+        "hora": "19:05",
+        "competición": "Ligue 1",
+        "equipos": "Lille vs Nice",
+        "canales": []
+    },
+    {
+        "hora": "19:30",
+        "competición": "Primeira Liga",
+        "equipos": "Gil Vicente vs Vitória Guimarães",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga Profesional",
+        "equipos": "Instituto vs Estudiantes",
+        "canales": []
+    },
+    {
+        "hora": "20:15",
+        "competición": "Liga 1",
+        "equipos": "Juan Pablo II College vs Comerciantes Unidos",
+        "canales": []
+    },
+    {
+        "hora": "20:30",
+        "competición": "MLS",
+        "equipos": "Colorado Rapids vs Inter Miami",
+        "canales": []
+    },
+    {
+        "hora": "21:15",
+        "competición": "Copa de Primera",
+        "equipos": "Guaraní vs Sportivo Luqueño",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Liga de Primera",
+        "equipos": "Everton vs Universidad Chile",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "LigaPro",
+        "equipos": "Universidad Católica vs Libertad",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Chapecoense vs Botafogo",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Brasileirão",
+        "equipos": "Vasco da Gama vs São Paulo",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Liga Profesional",
+        "equipos": "Independiente vs Defensa y Justicia",
+        "canales": []
+    },
+    {
+        "hora": "22:30",
+        "competición": "Liga 1",
+        "equipos": "Sport Huancayo vs Deportivo Garcilaso",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga MX",
+        "equipos": "Necaxa vs Tigres UANL",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Liga MX",
+        "equipos": "Cruz Azul vs Tijuana",
+        "canales": []
+    },
+    {
+        "hora": "23:00",
+        "competición": "Brasileirão",
+        "equipos": "Vitória vs Corinthians",
+        "canales": []
+    },
+    {
+        "hora": "23:10",
+        "competición": "Liga BetPlay",
+        "equipos": "Deportes Tolima vs Deportivo Pereira",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa de Primera",
+        "equipos": "Deportivo Recoleta vs 2 de Mayo",
+        "canales": []
+    },
+    {
+        "hora": "23:30",
+        "competición": "Brasileirão",
+        "equipos": "Cruzeiro vs Grêmio",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Liga de Primera",
+        "equipos": "Deportes Concepción vs La Serena",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Orense vs Delfin",
+        "canales": []
+    },
+    {
+        "hora": "00:45",
+        "competición": "Liga Profesional",
+        "equipos": "Argentinos Juniors vs Atlético Tucumán",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga 1",
+        "equipos": "Alianza Lima vs Cusco",
+        "canales": []
+    },
+    {
+        "hora": "01:05",
+        "competición": "Liga MX",
+        "equipos": "Monterrey vs Pachuca",
+        "canales": []
+    },
+    {
+        "hora": "01:05",
+        "competición": "Liga MX",
+        "equipos": "Guadalajara vs Puebla",
+        "canales": []
+    },
+    {
+        "hora": "01:30",
+        "competición": "Liga BetPlay",
+        "equipos": "Fortaleza CEIF vs Rionegro Águilas",
+        "canales": []
+    },
+    {
+        "hora": "01:30",
+        "competición": "Liga Nacional",
+        "equipos": "Choloma vs Olimpia",
+        "canales": []
+    },
+    {
+        "hora": "03:05",
+        "competición": "Liga MX",
+        "equipos": "León vs Juárez",
+        "canales": []
+    },
+    {
+        "hora": "03:10",
+        "competición": "Liga MX",
+        "equipos": "América vs Toluca",
+        "canales": []
+    }
+]
