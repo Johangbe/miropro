@@ -1,1 +1,98 @@
-[]
+[
+    {
+        "hora": "18:00",
+        "competición": "Liga Profesional Saudí",
+        "equipos": "Al Nassr vs Al-Ahli",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "UEFA Champions League",
+        "equipos": "Atlético Madrid vs Arsenal",
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Platense vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Mirassol vs Always Ready",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Caracas vs Racing Club",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Juventud vs Academia Puerto Cabello",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Deportivo Riestra vs Torque",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Barcelona SC vs Universidad Católica",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Cerro Porteño vs Palmeiras",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Estudiantes LP vs Flamengo",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Palestino vs Grêmio",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "Cienciano vs Atlético Mineiro",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Universitario vs Nacional",
+        "canales": []
+    },
+    {
+        "hora": "02:30",
+        "competición": "CONCACAF Champions Cup",
+        "equipos": "Los Angeles FC vs Toluca",
+        "canales": []
+    }
+]
