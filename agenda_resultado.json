@@ -1,1 +1,73 @@
-[]
+[
+    {
+        "hora": "11:30",
+        "competición": "Championship",
+        "equipos": "Wrexham vs Middlesbrough",
+        "canales": [
+            {
+                "nombre": "ESPN 7",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG43"
+            },
+            {
+                "nombre": "CBS Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2Jz"
+            }
+        ]
+    },
+    {
+        "hora": "12:00",
+        "competición": "LaLiga",
+        "equipos": "Villarreal vs Levante",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9dHY0czE="
+            },
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+            },
+            {
+                "nombre": "ESPN Deportes",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "nombre": "LaLiga TV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9bGFsaWdhdHY="
+            },
+            {
+                "nombre": "ESPN+ | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
+            }
+        ]
+    },
+    {
+        "hora": "12:00",
+        "competición": "Eredivisie",
+        "equipos": "Almere City vs Den Bosch",
+        "canales": [
+            {
+                "nombre": "ESPN NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwx"
+            }
+        ]
+    }
+]
