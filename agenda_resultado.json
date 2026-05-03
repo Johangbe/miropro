@@ -1,203 +1,67 @@
 [
     {
-        "hora": "22:30",
-        "competición": "Liga 1",
-        "equipos": "Cienciano vs Comerciantes Unidos",
+        "hora": "10:15",
+        "competición": "Eredivisie",
+        "equipos": "Volendam vs Heerenveen",
         "canales": [
             {
-                "nombre": "Fanatiz",
+                "nombre": "ESPN 2 NL",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
             }
         ]
     },
     {
-        "hora": "23:00",
-        "competición": "Copa de Primera",
-        "equipos": "Rubio Ñú vs Sportivo Luqueño",
+        "hora": "10:30",
+        "competición": "Serie A",
+        "equipos": "Bologna vs Cagliari",
         "canales": [
             {
-                "nombre": "Fanatiz",
+                "nombre": "ESPN",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
-            }
-        ]
-    },
-    {
-        "hora": "23:15",
-        "competición": "MLS",
-        "equipos": "Inter Miami vs Orlando City SC",
-        "canales": [
-            {
-                "nombre": "FOX Sports USA",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94MXVz"
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
             },
-            {
-                "nombre": "MLS",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
-            },
-            {
-                "nombre": "MLS | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Brasileirão",
-        "equipos": "Athletico-PR vs Grêmio",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
-            },
-            {
-                "nombre": "Win Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Brasileirão",
-        "equipos": "Cruzeiro vs Atlético Mineiro",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
-            },
-            {
-                "nombre": "SporTV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3NwdDEucGhw"
-            },
-            {
-                "nombre": "Premiere 3 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "Copa de la Liga",
-        "equipos": "Ñublense vs Cobresal",
-        "canales": [
-            {
-                "nombre": "TNT Sports Chile",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDU="
-            }
-        ]
-    },
-    {
-        "hora": "00:00",
-        "competición": "LigaPro",
-        "equipos": "Barcelona vs Manta",
-        "canales": [
-            {
-                "nombre": "Zapping Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            }
-        ]
-    },
-    {
-        "hora": "00:15",
-        "competición": "Liga Profesional",
-        "equipos": "Platense vs Estudiantes",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
-            },
-            {
-                "nombre": "ESPN Premium",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-            }
-        ]
-    },
-    {
-        "hora": "01:00",
-        "competición": "Liga 1",
-        "equipos": "Alianza Lima vs Deportivo Moquegua",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
-            }
-        ]
-    },
-    {
-        "hora": "01:00",
-        "competición": "Liga MX",
-        "equipos": "Tigres UANL vs Guadalajara",
-        "canales": [
             {
                 "nombre": "FOX Deportes",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94ZGVwb3J0ZXM="
-            },
-            {
-                "nombre": "FOX Deportes | OP 2",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
             },
             {
-                "nombre": "Telemundo",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9VEVMRU1VTkRP"
-            },
-            {
-                "nombre": "Universo",
+                "nombre": "ESPN MX",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT11bml2ZXJzb191c2E="
-            },
-            {
-                "nombre": "Azteca 7",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
-            },
-            {
-                "nombre": "Fox One",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1mb3hvbmU0"
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ]
     },
     {
-        "hora": "03:15",
-        "competición": "Liga MX",
-        "equipos": "Atlas vs Cruz Azul",
+        "hora": "12:00",
+        "competición": "LaLiga",
+        "equipos": "Celta de Vigo vs Elche",
         "canales": [
             {
-                "nombre": "TUDN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dHVkbm14"
+                "nombre": "Eventos",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9dHY0czQ="
             },
             {
-                "nombre": "TUDN USA",
+                "nombre": "ESPN 2",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
             },
             {
-                "nombre": "Canal 5 MX",
+                "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNW14"
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "ESPN+ | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMQ=="
+            },
+            {
+                "nombre": "ESPN+ | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMg=="
             }
         ]
     }
