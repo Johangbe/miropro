@@ -1,1 +1,220 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "Premier League",
+        "equipos": "Aston Villa vs Liverpool",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9ZnVib3Nwb3J0cw=="
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1lc3Bu"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1kaXNuZXkx"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1kYXpuZjE="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Liga 1",
+        "equipos": "FC Cajamarca vs Sporting Cristal",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            },
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa de Primera",
+        "equipos": "Sportivo Trinidense vs Cerro Porteño",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa de Primera",
+        "equipos": "Rubio Ñú vs Nacional Asunción",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa de Colombia",
+        "equipos": "Boca Juniors de Cali vs Deportivo Cali",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "LigaPro",
+        "equipos": "LDU Quito vs Técnico Universitario",
+        "canales": [
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "21:45",
+        "competición": "Liga Nacional",
+        "equipos": "Génesis PN vs Olancho",
+        "canales": [
+            {
+                "nombre": "FOX Deportes",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94ZGVwb3J0ZXM="
+            },
+            {
+                "nombre": "FOX Deportes | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa de Colombia",
+        "equipos": "Patriotas Boyacá vs Millonarios",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Primera Division",
+        "equipos": "Torque vs Nacional",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Primera Division",
+        "equipos": "Palestino vs La Serena",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Primera Division",
+        "equipos": "Coquimbo Unido vs Audax Italiano",
+        "canales": [
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Libertad vs Deportivo Cuenca",
+        "canales": [
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbHMucGhwP3N0cmVhbT1ldmVudDE="
+            }
+        ]
+    },
+    {
+        "hora": "01:00",
+        "competición": "Liga 1",
+        "equipos": "Universitario vs Atlético Grau",
+        "canales": [
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            },
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ]
+    },
+    {
+        "hora": "01:00",
+        "competición": "Copa de Colombia",
+        "equipos": "Orsomarso vs Medellín",
+        "canales": [
+            {
+                "nombre": "Win Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy"
+            },
+            {
+                "nombre": "Win Sports+ | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM="
+            }
+        ]
+    }
+]
