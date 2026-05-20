@@ -1,92 +1,18 @@
 [
     {
-        "hora": "18:00",
-        "competición": "Liga Profesional",
-        "equipos": "Al Khaleej vs Al-Ahli",
-        "canales": [
-            {
-                "nombre": "SporTV 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3NwdDIucGhw"
-            },
-            {
-                "nombre": "FOX Deportes",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
-            },
-            {
-                "nombre": "FOX Deportes | OP 2",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94ZGVwb3J0ZXM="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "UEFA Europa League (Final)",
-        "equipos": "Freiburg vs Aston Villa",
-        "canales": [
-            {
-                "nombre": "Eventos (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9VElQSUs="
-            },
-            {
-                "nombre": "Ziggo Sports (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3ppZ2dvczEucGhw"
-            },
-            {
-                "nombre": "TNT Sports (Recomendado)",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50MXVr"
-            },
-            {
-                "nombre": "ESPN",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "nombre": "TUDN USA",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
-            },
-            {
-                "nombre": "CazeTV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTE="
-            },
-            {
-                "nombre": "ESPN MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
-            },
-            {
-                "nombre": "Paramount+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
-            }
-        ]
-    },
-    {
         "hora": "20:00",
         "competición": "Copa Argentina",
         "equipos": "Talleres Córdoba vs Atlético Tucumán",
         "canales": [
             {
-                "nombre": "AFA Play | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
-            },
-            {
                 "nombre": "TyC Sports",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+            },
+            {
+                "nombre": "AFA Play | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ]
     },
@@ -111,25 +37,129 @@
         "hora": "22:00",
         "competición": "Copa Sudamericana",
         "equipos": "Boston River vs O'Higgins",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9ZnVib3Nwb3J0cw=="
+            },
+            {
+                "nombre": "ESPN 5",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            },
+            {
+                "nombre": "Fanatiz | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Copa Sudamericana",
         "equipos": "Olimpia vs Vasco da Gama",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "DirecTV Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
+            },
+            {
+                "nombre": "Fanatiz | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Copa Sudamericana",
         "equipos": "Santos vs San Lorenzo",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "beIN Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9YnMy"
+            },
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
+            },
+            {
+                "nombre": "Sportdigital",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9c3BvcnRzZGlnaXRhbA=="
+            },
+            {
+                "nombre": "ESPN 3 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwz"
+            },
+            {
+                "nombre": "Fanatiz | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
+            }
+        ]
     },
     {
         "hora": "22:00",
         "competición": "Copa Libertadores",
         "equipos": "Nacional vs Universitario",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo4"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "nombre": "Fanatiz | English",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo5"
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
     },
     {
         "hora": "00:00",
