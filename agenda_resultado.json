@@ -1,8 +1,121 @@
 [
     {
-        "hora": "18:45",
-        "competición": "Ligue 1",
-        "equipos": "Saint-Étienne vs Nice",
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Lanús vs Mirassol",
+        "canales": [
+            {
+                "nombre": "beIN Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9YnMy"
+            },
+            {
+                "nombre": "ESPN 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            },
+            {
+                "nombre": "Fox Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "LDU Quito vs Always Ready",
+        "canales": [
+            {
+                "nombre": "beIN Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9YnMz"
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            },
+            {
+                "nombre": "Fox Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveDJhcg=="
+            },
+            {
+                "nombre": "ESPN 2 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Grêmio vs Torque",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Millonarios vs O'Higgins",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9c3BvcnRzZGlnaXRhbA=="
+            },
+            {
+                "nombre": "DirecTV Sports+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Palestino vs Deportivo Riestra",
         "canales": [
             {
                 "nombre": "ESPN 5",
@@ -10,47 +123,38 @@
                 "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
             },
             {
-                "nombre": "CazeTV",
+                "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTI="
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
             }
         ]
     },
     {
         "hora": "22:00",
-        "competición": "Copa Libertadores",
-        "equipos": "Lanús vs Mirassol",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa Libertadores",
-        "equipos": "LDU Quito vs Always Ready",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa Sudamericana",
-        "equipos": "Grêmio vs Torque",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa Sudamericana",
-        "equipos": "Millonarios vs O'Higgins",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
-        "competición": "Copa Sudamericana",
-        "equipos": "Palestino vs Deportivo Riestra",
-        "canales": []
-    },
-    {
-        "hora": "22:00",
         "competición": "Copa Sudamericana",
         "equipos": "São Paulo vs Boston River",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "DirecTV Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3Mz"
+            }
+        ]
     },
     {
         "hora": "00:30",
