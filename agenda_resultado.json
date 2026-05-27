@@ -1,1 +1,131 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "UEFA Conference League",
+        "equipos": "Crystal Palace vs Rayo Vallecano",
+        "canales": [
+            {
+                "nombre": "Eventos (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9VElQSUs="
+            },
+            {
+                "nombre": "TNT Sports (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9dG50MXVr"
+            },
+            {
+                "nombre": "Nitro TV (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9TklUUk8="
+            },
+            {
+                "nombre": "Ziggo Sports (Recomendado)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3ppZ2dvczEucGhw"
+            },
+            {
+                "nombre": "ESPN",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Y2F6ZTE="
+            },
+            {
+                "nombre": "ESPN MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "nombre": "Paramount+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Independiente del Valle vs Rosario Central",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Libertadores",
+        "equipos": "Libertad vs UCV",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Atlético Mineiro vs Academia Puerto Cabello",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Olimpia vs Audax Italiano",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Racing Club vs Independiente Petrolero",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Cienciano vs Juventud",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Sudamericana",
+        "equipos": "Caracas vs Botafogo",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Peñarol vs Santa Fe",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Fluminense vs Deportivo La Guaira",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Bolívar vs Independiente Rivadavia",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Libertadores",
+        "equipos": "Corinthians vs Platense",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Sudamericana",
+        "equipos": "River Plate vs Blooming",
+        "canales": []
+    }
+]
