@@ -1,143 +1,5 @@
 [
     {
-        "hora": "19:00",
-        "competición": "Liga de Primera",
-        "equipos": "La Serena vs Colo-Colo",
-        "canales": [
-            {
-                "nombre": "TNT Sports Chile",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDI="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "LigaPro",
-        "equipos": "Manta vs Libertad",
-        "canales": [
-            {
-                "nombre": "Zapping Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Brasileirão",
-        "equipos": "Athletico-PR vs Mirassol",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
-            }
-        ]
-    },
-    {
-        "hora": "19:00",
-        "competición": "Brasileirão",
-        "equipos": "Flamengo vs Coritiba",
-        "canales": [
-            {
-                "nombre": "Premiere BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "Liga 1",
-        "equipos": "Deportivo Garcilaso vs Juan Pablo II College",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
-            },
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-            }
-        ]
-    },
-    {
-        "hora": "20:30",
-        "competición": "Brasileirão",
-        "equipos": "Bahia vs Botafogo",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
-            },
-            {
-                "nombre": "Premiere 2 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg=="
-            }
-        ]
-    },
-    {
-        "hora": "20:30",
-        "competición": "Brasileirão",
-        "equipos": "Grêmio vs Corinthians",
-        "canales": [
-            {
-                "nombre": "Fanatiz",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
-            },
-            {
-                "nombre": "Premiere 3 BR",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMw=="
-            }
-        ]
-    },
-    {
-        "hora": "21:00",
-        "competición": "Copa Argentina",
-        "equipos": "Instituto vs Lanús",
-        "canales": [
-            {
-                "nombre": "TyC Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
-            },
-            {
-                "nombre": "TyC Sports | OP 2",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw="
-            }
-        ]
-    },
-    {
-        "hora": "21:30",
-        "competición": "Liga De Primera",
-        "equipos": "Universidad Chile vs Deportes Concepción",
-        "canales": [
-            {
-                "nombre": "TNT Sports Chile",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "nombre": "MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPW1heDM="
-            }
-        ]
-    },
-    {
         "hora": "22:30",
         "competición": "Liga 1",
         "equipos": "Sport Boys vs Comerciantes Unidos",
@@ -175,13 +37,72 @@
         "hora": "23:30",
         "competición": "Amistoso",
         "equipos": "Ecuador vs Arabia Saudita",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9c3BvcnRzZGlnaXRhbA=="
+            },
+            {
+                "nombre": "Sportdigital",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M1"
+            },
+            {
+                "nombre": "Fanatiz",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3Mz"
+            },
+            {
+                "nombre": "Sportdigital | OP 2",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9U1BPUlRESUdJVEFM"
+            }
+        ]
     },
     {
         "hora": "00:00",
         "competición": "Copa de Campeones de la Concacaf",
         "equipos": "Toluca vs Tigres UANL",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "FOX Sports USA",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9Zm94MXVz"
+            },
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fdXNh"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "nombre": "ESPN 2 NL",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWZveG9uZQ=="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "LigaPro",
+        "equipos": "Deportivo Cuenca vs Delfin",
+        "canales": [
+            {
+                "nombre": "Zapping Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWV2ZW50MQ=="
+            }
+        ]
     },
     {
         "hora": "01:00",
