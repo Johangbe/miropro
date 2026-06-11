@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "hora": "17:00",
+        "competición": "Copa Mundial",
+        "equipos": "Ceremonia de Inauguración",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Mundial",
+        "equipos": "México vs Sur África",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Mundial",
+        "equipos": "Corea del Sur vs República Checa",
+        "canales": []
+    }
+]
