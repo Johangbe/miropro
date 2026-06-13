@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "hora": "16:30",
+        "competición": "Primera División Chile",
+        "equipos": "Coquimbo Unido vs O'Higgins",
+        "canales": [
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Primera División Chile",
+        "equipos": "Everton vs. Palestino",
+        "canales": [
+            {
+                "nombre": "TNT Sports Chile",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDI="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Mundial",
+        "equipos": "Qatar vs Suiza",
+        "canales": []
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera División Chile",
+        "equipos": "Colo-Colo vs Cobresal",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Mundial",
+        "equipos": "Brasil vs Marruecos",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Primera División Chile",
+        "equipos": "Ñublense vs Huachipato",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Copa Mundial",
+        "equipos": "Haití vs Escocia",
+        "canales": []
+    },
+    {
+        "hora": "04:00",
+        "competición": "Copa Mundial",
+        "equipos": "Australia vs Turquía",
+        "canales": []
+    }
+]
