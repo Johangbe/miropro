@@ -1,8 +1,8 @@
 [
     {
-        "hora": "17:00",
+        "hora": "20:00",
         "competición": "Copa Mundial",
-        "equipos": "Portugal vs RD del Congo",
+        "equipos": "Inglaterra vs Croacia",
         "canales": [
             {
                 "nombre": "DirecTV Sports",
@@ -15,19 +15,24 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
             },
             {
-                "nombre": "Universo",
+                "nombre": "TUDN MX",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdW5pdmVyc28ucGhw"
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdHVkbm14LnBocA=="
             },
             {
                 "nombre": "Canal M6",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvbTZmci5waHA="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvbTYucGhw"
             },
             {
-                "nombre": "TUDN MX",
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+            },
+            {
+                "nombre": "TVE La 1 Español",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdHVkbm14LnBocA=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdHZlbGExLnBocA=="
             },
             {
                 "nombre": "Sportdigital",
@@ -35,14 +40,9 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvc3BvcnRkaWdpdGFsLnBocA=="
             },
             {
-                "nombre": "Canal 5 MX",
+                "nombre": "Disney+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M="
-            },
-            {
-                "nombre": "VRT Canvas",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdnJ0Y2FudmFzLnBocA=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             },
             {
                 "nombre": "FOX One",
@@ -50,26 +50,24 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvZm94MS5waHA="
             },
             {
-                "nombre": "Telemundo",
+                "nombre": "SporTV",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdGVsZW11bmRvLnBocA=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvc3BvcnR2YnIucGhw"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWV2ZW50b3M="
+            },
+            {
+                "nombre": "VRT 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdnJ0MS5waHA="
             },
             {
                 "nombre": "CazeTV",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY2F6ZTEucGhw"
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa Mundial",
-        "equipos": "Inglaterra vs Croacia",
-        "canales": [
-            {
-                "nombre": "DirecTV Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY2F6ZTIucGhw"
             }
         ]
     },
