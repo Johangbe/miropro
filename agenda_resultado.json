@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "hora": "16:00",
+        "competición": "Copa Mundial",
+        "equipos": "República Checa vs Sur África",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvZHNwb3J0c2FyLnBocA=="
+            },
+            {
+                "nombre": "DirecTV Sports | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "nombre": "Canal M6",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvbTYucGhw"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvZm94MS5waHA="
+            },
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+            },
+            {
+                "nombre": "Sportdigital",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvc3BvcnRkaWdpdGFsLnBocA=="
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY2F6ZTEucGhw"
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Mundial",
+        "equipos": "Suiza vs Bosnia-Herzegovina",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Mundial",
+        "equipos": "Canadá vs Qatar",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Primera División",
+        "equipos": "Universidad Chile vs O'Higgins",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Copa Mundial",
+        "equipos": "México vs Corea del Sur",
+        "canales": []
+    }
+]
