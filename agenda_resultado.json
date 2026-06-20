@@ -1,1 +1,101 @@
-[]
+[
+    {
+        "hora": "16:30",
+        "competición": "Copa Chile",
+        "equipos": "Coquimbo Unido vs Deportes Iquique",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Copa Mundial",
+        "equipos": "Países Bajos vs Suecia",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Chile",
+        "equipos": "Copiapó vs Universidad Católica",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Mundial",
+        "equipos": "Alemania vs Costa de Marfil",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa Chile",
+        "equipos": "Recoleta vs Colo-Colo",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPW1heDE="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa Mundial",
+        "equipos": "Ecuador vs Curazao",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "04:00",
+        "competición": "Copa Mundial",
+        "equipos": "Túnez vs Japón",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    }
+]
