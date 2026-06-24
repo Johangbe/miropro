@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "Copa Mundial",
+        "equipos": "Suiza vs Canadá",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Mundial",
+        "equipos": "Bosnia-Herzegovina vs Qatar",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Mundial",
+        "equipos": "Marruecos vs Haití",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Mundial",
+        "equipos": "Escocia vs Brasil",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "01:00",
+        "competición": "Copa Mundial",
+        "equipos": "Sur África vs Corea del Sur",
+        "canales": []
+    },
+    {
+        "hora": "01:00",
+        "competición": "Copa Mundial",
+        "equipos": "República Checa vs México",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    }
+]
