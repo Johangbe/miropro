@@ -1,1 +1,80 @@
-[]
+[
+    {
+        "hora": "20:00",
+        "competición": "Copa Mundial",
+        "equipos": "Ecuador vs Alemania",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Mundial",
+        "equipos": "Curazao vs Costa de Marfil",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Mundial",
+        "equipos": "Túnez vs Países Bajos",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Mundial",
+        "equipos": "Japón vs Suecia",
+        "canales": [
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "23:30",
+        "competición": "Copa Chile",
+        "equipos": "Colo-Colo vs O'Higgins",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Mundial",
+        "equipos": "Paraguay vs Australia",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            }
+        ]
+    },
+    {
+        "hora": "02:00",
+        "competición": "Copa Mundial",
+        "equipos": "Turquía vs EE. UU.",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpzLm9yZy9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ]
+    }
+]
