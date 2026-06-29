@@ -1,8 +1,25 @@
 [
     {
-        "hora": "20:30",
+        "hora": "23:30",
+        "competición": "Copa Chile",
+        "equipos": "Unión Española vs Colo-Colo",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09bWF4MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "01:00",
         "competición": "Copa Mundial",
-        "equipos": "Alemania vs Paraguay",
+        "equipos": "Países Bajos vs Marruecos",
         "canales": [
             {
                 "nombre": "DirecTV Sports",
@@ -15,11 +32,6 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY2FuYWw1bXgucGhw"
             },
             {
-                "nombre": "Caracol TV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5OTkuY28vY2FyYWNvbHR2LnBocA=="
-            },
-            {
                 "nombre": "DirecTV Sports | Solo LATAM",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvZHNwb3J0cy5waHA="
@@ -30,14 +42,9 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
             },
             {
-                "nombre": "ZDF",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvemRmcHIucGhw"
-            },
-            {
-                "nombre": "TyC Sports",
+                "nombre": "Unicanal",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dHljc3BvcnRz"
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdW5pY2FuYWwucGhw"
             },
             {
                 "nombre": "FOX One",
@@ -55,37 +62,14 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdHNuMS5waHA="
             },
             {
-                "nombre": "Trece",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfNDEvdHJlY2VweS5waHA="
-            },
-            {
                 "nombre": "VIX+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC5zYnMvZ2xvYmFsMi5waHA/c3RyZWFtPXZpeDE="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dml4Mw=="
             },
             {
                 "nombre": "CazeTV",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY2F6ZTIucGhw"
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Copa Chile",
-        "equipos": "Unión Española vs Colo-Colo",
-        "canales": []
-    },
-    {
-        "hora": "01:00",
-        "competición": "Copa Mundial",
-        "equipos": "Países Bajos vs Marruecos",
-        "canales": [
-            {
-                "nombre": "DirecTV Sports",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY2F6ZTEucGhw"
             }
         ]
     }
