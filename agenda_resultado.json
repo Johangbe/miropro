@@ -1,8 +1,8 @@
 [
     {
-        "hora": "16:00",
+        "hora": "20:00",
         "competición": "Copa Mundial",
-        "equipos": "Inglaterra vs RD del Congo",
+        "equipos": "Bélgica vs Senegal",
         "canales": [
             {
                 "nombre": "DirecTV Sports",
@@ -10,14 +10,9 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvZHNwb3J0c2FyLnBocA=="
             },
             {
-                "nombre": "TVE La 1 Español",
+                "nombre": "FOX Sports",
                 "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy90dmVsYTEucGhw"
-            },
-            {
-                "nombre": "Caracol TV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5OTkuY28vY2FyYWNvbHR2LnBocA=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9mb3gxdXMucGhw"
             },
             {
                 "nombre": "DirecTV Sports | Solo LATAM",
@@ -30,14 +25,14 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
             },
             {
-                "nombre": "FOX One",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvZm94MS5waHA="
-            },
-            {
                 "nombre": "Das Erste",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvZGFzZXJzdGVwci5waHA="
+            },
+            {
+                "nombre": "CTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY3R2LnBocA=="
             },
             {
                 "nombre": "Telemundo",
@@ -50,31 +45,19 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvdHNuMS5waHA="
             },
             {
-                "nombre": "CTV",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY3R2LnBocA=="
-            },
-            {
-                "nombre": "VIX+",
+                "nombre": "Win Sports",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dml4MQ=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09d2luc3BvcnRz"
             },
             {
                 "nombre": "CazeTV",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpmeS5vcmcvY2F6ZTEucGhw"
-            }
-        ]
-    },
-    {
-        "hora": "20:00",
-        "competición": "Copa Mundial",
-        "equipos": "Bélgica vs Senegal",
-        "canales": [
+            },
             {
-                "nombre": "DirecTV Sports",
+                "nombre": "VIX+",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dml4Mg=="
             }
         ]
     },
