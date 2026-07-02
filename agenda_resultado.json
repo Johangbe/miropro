@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "Copa Mundial",
+        "equipos": "España vs Austria",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Chile",
+        "equipos": "Huachipato vs Deportes Concepción",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09bWF4MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "23:00",
+        "competición": "Copa Mundial",
+        "equipos": "Portugal vs Croacia",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Chile",
+        "equipos": "O'Higgins vs Colo-Colo",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
+            },
+            {
+                "nombre": "MAX | OP 2",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09bWF4MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "03:00",
+        "competición": "Copa Mundial",
+        "equipos": "Suiza vs Argelia",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    }
+]
