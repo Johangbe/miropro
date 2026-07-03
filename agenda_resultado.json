@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "hora": "18:00",
+        "competición": "Copa Mundial",
+        "equipos": "Australia vs Egipto",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "18:30",
+        "competición": "Amistoso",
+        "equipos": "River Plate vs Flamengo",
+        "canales": []
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Mundial",
+        "equipos": "Argentina vs Islas de Cabo Verde",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "01:30",
+        "competición": "Copa Mundial",
+        "equipos": "Colombia vs Ghana",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    }
+]
