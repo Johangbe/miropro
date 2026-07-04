@@ -1,25 +1,78 @@
 [
     {
-        "hora": "14:00",
-        "competición": "Amistoso",
-        "equipos": "Cruzeiro vs Defensor Sporting",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZXZlbnRvcw=="
-            }
-        ]
-    },
-    {
         "hora": "17:00",
         "competición": "Copa Mundial",
         "equipos": "Canadá vs Marruecos",
         "canales": [
             {
                 "nombre": "DirecTV Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9kc3BvcnRzYXIucGhw"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9mb3hvbmUucGhw"
+            },
+            {
+                "nombre": "CTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9jdHYucGhw"
+            },
+            {
+                "nombre": "DirecTV Sports | Solo LATAM",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9kc3BvcnRzbC5waHA="
+            },
+            {
+                "nombre": "DirecTV Sports | OP 3",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            },
+            {
+                "nombre": "Canal M6",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9tNi5waHA="
+            },
+            {
+                "nombre": "ITV 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9pdHYxLnBocA=="
+            },
+            {
+                "nombre": "Telemundo",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dGVsZW11bmRvdXNh"
+            },
+            {
+                "nombre": "TSN 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy90c24xLnBocA=="
+            },
+            {
+                "nombre": "Win Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09d2luc3BvcnRz"
+            },
+            {
+                "nombre": "ZDF",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy96ZGYucGhw"
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9zcG9ydHYxLnBocA=="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dml4MQ=="
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9jYXplMS5waHA="
             }
         ]
     },
