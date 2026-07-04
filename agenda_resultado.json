@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "hora": "14:00",
+        "competición": "Amistoso",
+        "equipos": "Cruzeiro vs Defensor Sporting",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZXZlbnRvcw=="
+            }
+        ]
+    },
+    {
+        "hora": "17:00",
+        "competición": "Copa Mundial",
+        "equipos": "Canadá vs Marruecos",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa Mundial",
+        "equipos": "Paraguay vs Francia",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Copa Chile",
+        "equipos": "Deportes Iquique vs Coquimbo Unido",
+        "canales": []
+    },
+    {
+        "hora": "00:00",
+        "competición": "Amistoso",
+        "equipos": "Cancún vs Pumas UNAM",
+        "canales": []
+    },
+    {
+        "hora": "00:30",
+        "competición": "Copa Chile",
+        "equipos": "Universidad Católica vs Copiapó",
+        "canales": []
+    },
+    {
+        "hora": "02:00",
+        "competición": "Amistoso",
+        "equipos": "CDS Tampico Madero vs América",
+        "canales": []
+    }
+]
