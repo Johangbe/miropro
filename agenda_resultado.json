@@ -1,1 +1,101 @@
-[]
+[
+    {
+        "hora": "16:00",
+        "competición": "Copa Mundial",
+        "equipos": "Argentina vs Egipto",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9kc3BvcnRzYXIucGhw"
+            },
+            {
+                "nombre": "TVE La 1 Español",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy90dmVsYTEucGhw"
+            },
+            {
+                "nombre": "Caracol TV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5OTkuY28vY2FyYWNvbHR2LnBocA=="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9mb3hvbmUucGhw"
+            },
+            {
+                "nombre": "Canal M6",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9tNi5waHA="
+            },
+            {
+                "nombre": "DirecTV Sports | Solo LATAM",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9kc3BvcnRzbC5waHA="
+            },
+            {
+                "nombre": "DirecTV Sports | OP 3",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            },
+            {
+                "nombre": "ITV 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9pdHYxLnBocA=="
+            },
+            {
+                "nombre": "Teleamazonas",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5OTkuY28vdGVsZWFtei5waHA="
+            },
+            {
+                "nombre": "Das Erste",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9kYXNlcnN0ZS5waHA="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+            },
+            {
+                "nombre": "TSN 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy90c24xLnBocA=="
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9zcG9ydHYxLnBocA=="
+            },
+            {
+                "nombre": "Telemundo",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dGVsZW11bmRvdXNh"
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9jYXplMS5waHA="
+            },
+            {
+                "nombre": "VIX+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC5zYnMvZ2xvYmFsMi5waHA/c3RyZWFtPXZpeDE="
+            }
+        ]
+    },
+    {
+        "hora": "20:00",
+        "competición": "Copa Mundial",
+        "equipos": "Suiza vs Colombia",
+        "canales": [
+            {
+                "nombre": "DirecTV Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    }
+]
