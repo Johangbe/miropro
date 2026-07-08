@@ -1,5 +1,17 @@
 [
     {
+        "hora": "19:30",
+        "competición": "Amistoso",
+        "equipos": "Lausanne Sport vs Flamengo",
+        "canales": [
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09c3BvcnR0dmJyMQ=="
+            }
+        ]
+    },
+    {
         "hora": "23:00",
         "competición": "Copa de la Liga",
         "equipos": "Unión La Calera vs Coquimbo Unido",
