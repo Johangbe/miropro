@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "hora": "19:00",
+        "competición": "Copa Mundial",
+        "equipos": "España vs Bélgica",
+        "canales": [
+            {
+                "nombre": "DSports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "22:00",
+        "competición": "Primera División",
+        "equipos": "Deportivo Maldonado vs Albion",
+        "canales": []
+    }
+]
