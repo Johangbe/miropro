@@ -20,6 +20,11 @@
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy90dmVsYTEucGhw"
             },
             {
+                "nombre": "Canal M6",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9tNi5waHA="
+            },
+            {
                 "nombre": "FOX One",
                 "calidad": "Calidad 1080p",
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9mb3hvbmUucGhw"
@@ -28,6 +33,11 @@
                 "nombre": "DSports | OP 3",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            },
+            {
+                "nombre": "Teleamazonas",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZHp5OTkuY28vdGVsZWFtei5waHA="
             },
             {
                 "nombre": "CTV",
@@ -70,6 +80,12 @@
         "hora": "22:00",
         "competición": "Primera División",
         "equipos": "Deportivo Maldonado vs Albion",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+            }
+        ]
     }
 ]
