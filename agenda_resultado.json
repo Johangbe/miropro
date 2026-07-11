@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "hora": "18:00",
+        "competición": "Primera División",
+        "equipos": "Danubio vs Nacional",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5Mg=="
+            }
+        ]
+    },
+    {
+        "hora": "19:00",
+        "competición": "Copa Chile",
+        "equipos": "Magallanes vs Audax Italiano",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09bWF4MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "Copa Mundial",
+        "equipos": "Noruega vs Inglaterra",
+        "canales": [
+            {
+                "nombre": "DSports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    },
+    {
+        "hora": "21:00",
+        "competición": "Primera División",
+        "equipos": "Wanderers vs Progreso",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa Chile",
+        "equipos": "San Luis vs Universidad Católica",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09bWF4MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "01:00",
+        "competición": "Copa Mundial",
+        "equipos": "Argentina vs Suiza",
+        "canales": [
+            {
+                "nombre": "DSports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            }
+        ]
+    }
+]
