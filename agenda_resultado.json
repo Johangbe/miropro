@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "hora": "20:30",
+        "competición": "Amistoso",
+        "equipos": "Alianza Lima vs Deportivo Cali",
+        "canales": [
+            {
+                "nombre": "Eventos",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZXZlbnRvcw=="
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Copa Chile",
+        "equipos": "Deportes Concepción vs Puerto Montt",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09bWF4MQ=="
+            }
+        ]
+    },
+    {
+        "hora": "21:30",
+        "competición": "Primera División",
+        "equipos": "Racing vs Peñarol",
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5Mw=="
+            }
+        ]
+    },
+    {
+        "hora": "00:00",
+        "competición": "Copa de la Liga",
+        "equipos": "O'Higgins vs Ñublense",
+        "canales": [
+            {
+                "nombre": "MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09bWF4Mg=="
+            }
+        ]
+    }
+]
