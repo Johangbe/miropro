@@ -1,51 +1,5 @@
 [
     {
-        "hora": "15:30",
-        "competición": "Primera Division",
-        "equipos": "Progreso vs Deportivo Maldonado",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "16:00",
-        "competición": "Liga 1",
-        "equipos": "Deportivo Moquegua vs Comerciantes Unidos",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZmFuYXRpejE="
-            },
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZXZlbnRvcw=="
-            }
-        ]
-    },
-    {
-        "hora": "18:15",
-        "competición": "Liga 1",
-        "equipos": "ADT vs Universitario",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZmFuYXRpejI="
-            },
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZXZlbnRvcw=="
-            }
-        ]
-    },
-    {
         "hora": "19:00",
         "competición": "Primera Division",
         "equipos": "Peñarol vs Boston River",
@@ -81,34 +35,101 @@
         "canales": [
             {
                 "nombre": "DSports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvZHNwb3J0c2NvLnBocA=="
+            },
+            {
+                "nombre": "TVE La 1 | Español",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdHZlbGExMi5waHA="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvZm94b25lMi5waHA="
+            },
+            {
+                "nombre": "DSports | Solo LATAM (AR|CO|PE|CL|EC|UY)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvZHNwb3J0c2wucGhw"
+            },
+            {
+                "nombre": "DSports | OP 3",
                 "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            },
+            {
+                "nombre": "TSN 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdHNuMTIucGhw"
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvY2F6ZTEyLnBocA=="
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+            },
+            {
+                "nombre": "Telemundo",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09dGVsZW11bmRvdXNh"
+            },
+            {
+                "nombre": "Universo",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw=="
             }
         ]
-    },
-    {
-        "hora": "22:00",
-        "competición": "Primera Division",
-        "equipos": "Coquimbo Unido vs O'Higgins",
-        "canales": []
     },
     {
         "hora": "23:00",
         "competición": "Amistoso",
         "equipos": "Millonarios vs Colo-Colo",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5Mg=="
+            }
+        ]
     },
     {
         "hora": "23:00",
         "competición": "Liga MX",
         "equipos": "Pumas UNAM vs Pachuca",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TUDN MX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdHVkbm14Mi5waHA="
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09Y2FuYWw1bXg="
+            }
+        ]
     },
     {
         "hora": "23:30",
         "competición": "Liga 1",
         "equipos": "Cusco vs Alianza Atlético",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "Fanatiz | Español",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZmFuYXRpejE="
+            },
+            {
+                "nombre": "Liga 1 MAX",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZXZlbnRvcw=="
+            }
+        ]
     },
     {
         "hora": "01:05",
