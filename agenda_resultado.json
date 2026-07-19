@@ -1,66 +1,19 @@
 [
     {
-        "hora": "23:00",
-        "competición": "Amistoso",
-        "equipos": "Millonarios vs Colo-Colo",
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5Mg=="
-            }
-        ]
-    },
-    {
-        "hora": "23:00",
-        "competición": "Liga MX",
-        "equipos": "Pumas UNAM vs Pachuca",
-        "canales": [
-            {
-                "nombre": "TUDN MX",
-                "calidad": "Calidad 1080p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdHVkbm14Mi5waHA="
-            },
-            {
-                "nombre": "Canal 5 MX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09Y2FuYWw1bXg="
-            }
-        ]
-    },
-    {
-        "hora": "23:30",
-        "competición": "Liga 1",
-        "equipos": "Cusco vs Alianza Atlético",
-        "canales": [
-            {
-                "nombre": "Fanatiz | Español",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZmFuYXRpejE="
-            },
-            {
-                "nombre": "Liga 1 MAX",
-                "calidad": "Calidad 720p",
-                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZXZlbnRvcw=="
-            }
-        ]
-    },
-    {
-        "hora": "01:05",
-        "competición": "Liga MX",
-        "equipos": "Monterrey vs Santos Laguna",
-        "canales": []
-    },
-    {
-        "hora": "01:07",
-        "competición": "Liga MX",
-        "equipos": "Guadalajara vs Toluca",
-        "canales": []
-    },
-    {
         "hora": "03:05",
         "competición": "Liga MX",
         "equipos": "Querétaro vs América",
-        "canales": []
+        "canales": [
+            {
+                "nombre": "TUDN USA",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09dHVkbl91c2E="
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09Zm94b25l"
+            }
+        ]
     }
 ]
