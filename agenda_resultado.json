@@ -6,8 +6,108 @@
         "canales": [
             {
                 "nombre": "DSports",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvZHNwb3J0c2NvLnBocA=="
+            },
+            {
+                "nombre": "TUDN MX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdHVkbm14Mi5waHA="
+            },
+            {
+                "nombre": "TVE La 1 | Español",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdHZlbGExMi5waHA="
+            },
+            {
+                "nombre": "DSports | Solo LATAM (AR|CO|PE|CL|EC|UY)",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvZHNwb3J0c2wucGhw"
+            },
+            {
+                "nombre": "FOX One",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvZm94b25lMi5waHA="
+            },
+            {
+                "nombre": "DSports | OP 3",
                 "calidad": "Calidad 720p",
                 "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw=="
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvY2FuYWw1bXgyLnBocA=="
+            },
+            {
+                "nombre": "CTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvY3R2Mi5waHA="
+            },
+            {
+                "nombre": "Nu9ve",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvbnU5dmUyLnBocA=="
+            },
+            {
+                "nombre": "ZDF",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvemRmMi5waHA="
+            },
+            {
+                "nombre": "TSN 1",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdHNuMTIucGhw"
+            },
+            {
+                "nombre": "Disney+",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+            },
+            {
+                "nombre": "RCN TV | Solo Colombia",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvcmNuLnBocA=="
+            },
+            {
+                "nombre": "América TV | Solo Peru",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvYW1lcmljYXR2LnBocA=="
+            },
+            {
+                "nombre": "Chilevisión | Solo Chile",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvY2hpLnBocA=="
+            },
+            {
+                "nombre": "Teleamazonas | Solo Ecuador",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvdGVsZWFtei5waHA="
+            },
+            {
+                "nombre": "TyC Sports",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHpwcm8uY29tL2NhbmFsLnBocD9zdHJlYW09dHljc3BvcnRz"
+            },
+            {
+                "nombre": "SporTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvc3BvcnR2MTIucGhw"
+            },
+            {
+                "nombre": "Telemundo",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
+            },
+            {
+                "nombre": "CazeTV",
+                "calidad": "Calidad 1080p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHo5OS5zYnMvY2F6ZTEyLnBocA=="
+            },
+            {
+                "nombre": "Universo",
+                "calidad": "Calidad 720p",
+                "enlace": "https://futbol-libres.su/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw=="
             }
         ]
     }
